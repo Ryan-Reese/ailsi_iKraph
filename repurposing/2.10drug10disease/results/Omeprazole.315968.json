@@ -1,0 +1,64 @@
+[
+  {
+    "id": "315968.6124.0",
+    "chem": "315968",
+    "disease": "6124",
+    "genes": [
+      "3651494"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Omeprazole",
+    "disease_name": "RA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "315968.1878136.0",
+    "chem": "315968",
+    "disease": "1878136",
+    "genes": [
+      "3651494"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Omeprazole",
+    "disease_name": "IgA Nephropathy",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "2384.73939.0",
+    "chem": "2384",
+    "disease": "73939",
+    "genes": [
+      "245509"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Salbutamol",
+    "disease_name": "AAA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2384.204092.0",
+    "chem": "2384",
+    "disease": "204092",
+    "genes": [
+      "1510",
+      "1874"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Salbutamol",
+    "disease_name": "Alopecia Areata",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "2384.58096.0",
+    "chem": "2384",
+    "disease": "58096",
+    "genes": [
+      "2482"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Salbutamol",
+    "disease_name": "Blood Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  }
+]

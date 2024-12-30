@@ -1,0 +1,95 @@
+[
+  {
+    "id": "984387.12783.0",
+    "chem": "984387",
+    "disease": "12783",
+    "genes": [
+      "4560"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Lisinopril",
+    "disease_name": "Crohn's Disease",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "984387.174128.0",
+    "chem": "984387",
+    "disease": "174128",
+    "genes": [
+      "4560"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Lisinopril",
+    "disease_name": "Barrett's Esophagus",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "984387.10635.0",
+    "chem": "984387",
+    "disease": "10635",
+    "genes": [
+      "4560"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Lisinopril",
+    "disease_name": "COPD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  }
+]

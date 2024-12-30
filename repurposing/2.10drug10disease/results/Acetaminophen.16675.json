@@ -1,0 +1,433 @@
+[
+  {
+    "id": "16675.1878136.0",
+    "chem": "16675",
+    "disease": "1878136",
+    "genes": [
+      "2245379"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "IgA Nephropathy",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.326636.0",
+    "chem": "16675",
+    "disease": "326636",
+    "genes": [
+      "3302057",
+      "8733"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "Nicotine Dependence",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "16675.45739.0",
+    "chem": "16675",
+    "disease": "45739",
+    "genes": [
+      "444807",
+      "190359"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "Psoriasis",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "16675.60149.0",
+    "chem": "16675",
+    "disease": "60149",
+    "genes": [
+      "444807"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "Renal Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.9135.0",
+    "chem": "16675",
+    "disease": "9135",
+    "genes": [
+      "444807"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "Colon Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.63423.0",
+    "chem": "16675",
+    "disease": "63423",
+    "genes": [
+      "444807"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "AIDS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.2707.0",
+    "chem": "16675",
+    "disease": "2707",
+    "genes": [
+      "444807"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "Breast Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.180889.0",
+    "chem": "16675",
+    "disease": "180889",
+    "genes": [
+      "572683"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "Azoospermia",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.3651.0",
+    "chem": "16675",
+    "disease": "3651",
+    "genes": [
+      "71781"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "AD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.61912.0",
+    "chem": "16675",
+    "disease": "61912",
+    "genes": [
+      "8733"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "Uterine Fibroids",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.26897.0",
+    "chem": "16675",
+    "disease": "26897",
+    "genes": [
+      "8733"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "Glaucoma",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.73939.0",
+    "chem": "16675",
+    "disease": "73939",
+    "genes": [
+      "507416"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "AAA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "16675.10635.0",
+    "chem": "16675",
+    "disease": "10635",
+    "genes": [
+      "507416",
+      "365174",
+      "507414"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "Acetaminophen",
+    "disease_name": "COPD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  }
+]

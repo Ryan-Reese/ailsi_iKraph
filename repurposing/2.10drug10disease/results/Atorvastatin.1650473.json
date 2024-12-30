@@ -1,0 +1,409 @@
+[
+  {
+    "id": "1650473.66759.0",
+    "chem": "1650473",
+    "disease": "66759",
+    "genes": [
+      "721914"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "IPF",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "1650473.4697.0",
+    "chem": "1650473",
+    "disease": "4697",
+    "genes": [
+      "409628"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "Prostate Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "1650473.2707.0",
+    "chem": "1650473",
+    "disease": "2707",
+    "genes": [
+      "409628"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "Breast Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "1650473.63423.0",
+    "chem": "1650473",
+    "disease": "63423",
+    "genes": [
+      "409628",
+      "410147",
+      "2200101"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "AIDS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  },
+  {
+    "id": "1650473.16676.0",
+    "chem": "1650473",
+    "disease": "16676",
+    "genes": [
+      "78408"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "AS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "1650473.58096.0",
+    "chem": "1650473",
+    "disease": "58096",
+    "genes": [
+      "140157",
+      "1873161"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "Blood Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "1650473.9135.0",
+    "chem": "1650473",
+    "disease": "9135",
+    "genes": [
+      "1873161",
+      "131465",
+      "11403"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "Colon Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  },
+  {
+    "id": "1650473.1878136.0",
+    "chem": "1650473",
+    "disease": "1878136",
+    "genes": [
+      "131465"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "IgA Nephropathy",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "1650473.73939.0",
+    "chem": "1650473",
+    "disease": "73939",
+    "genes": [
+      "3069009"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "AAA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "1650473.3651.0",
+    "chem": "1650473",
+    "disease": "3651",
+    "genes": [
+      "6786"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "AD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "1650473.60149.0",
+    "chem": "1650473",
+    "disease": "60149",
+    "genes": [
+      "410147"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "Renal Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "1650473.884.0",
+    "chem": "1650473",
+    "disease": "884",
+    "genes": [
+      "2200101"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Atorvastatin",
+    "disease_name": "Schizophrenia",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  }
+]

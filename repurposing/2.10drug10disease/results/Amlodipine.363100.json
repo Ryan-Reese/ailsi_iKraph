@@ -1,0 +1,1068 @@
+[
+  {
+    "id": "363100.24258.0",
+    "chem": "363100",
+    "disease": "24258",
+    "genes": [
+      "248560",
+      "391779",
+      "5523",
+      "2662142"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 8,
+    "finalProb": 0.99869679,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Melanoma",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 4
+  },
+  {
+    "id": "363100.12783.0",
+    "chem": "363100",
+    "disease": "12783",
+    "genes": [
+      "248560"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Crohn's Disease",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "363100.45805.0",
+    "chem": "363100",
+    "disease": "45805",
+    "genes": [
+      "248560"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Ulcerative Colitis",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "363100.45739.0",
+    "chem": "363100",
+    "disease": "45739",
+    "genes": [
+      "3971761",
+      "2519570",
+      "761272",
+      "444593"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 8,
+    "finalProb": 0.99869679,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Psoriasis",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 4
+  },
+  {
+    "id": "363100.10635.0",
+    "chem": "363100",
+    "disease": "10635",
+    "genes": [
+      "147373",
+      "3821568"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "COPD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "363100.3651.0",
+    "chem": "363100",
+    "disease": "3651",
+    "genes": [
+      "147373",
+      "727357"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "AD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "363100.60149.0",
+    "chem": "363100",
+    "disease": "60149",
+    "genes": [
+      "4804238",
+      "761272",
+      "444593",
+      "503114"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 8,
+    "finalProb": 0.99869679,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Renal Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 4
+  },
+  {
+    "id": "363100.174128.0",
+    "chem": "363100",
+    "disease": "174128",
+    "genes": [
+      "4804238",
+      "5922794",
+      "58423",
+      "719350"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 8,
+    "finalProb": 0.99869679,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Barrett's Esophagus",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 4
+  },
+  {
+    "id": "363100.1878136.0",
+    "chem": "363100",
+    "disease": "1878136",
+    "genes": [
+      "2245379",
+      "5523",
+      "131465",
+      "3447",
+      "15340",
+      "678906",
+      "2474303",
+      "2406675"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 16,
+    "finalProb": 0.9999983016436959,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "IgA Nephropathy",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 8
+  },
+  {
+    "id": "363100.58096.0",
+    "chem": "363100",
+    "disease": "58096",
+    "genes": [
+      "21431",
+      "1873161"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Blood Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "363100.35951.0",
+    "chem": "363100",
+    "disease": "35951",
+    "genes": [
+      "21431",
+      "2589936",
+      "444593"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Pancreatic Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  },
+  {
+    "id": "363100.9135.0",
+    "chem": "363100",
+    "disease": "9135",
+    "genes": [
+      "2358691",
+      "131465",
+      "68650",
+      "678906",
+      "4814574",
+      "1873161",
+      "2861452",
+      "303704"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 16,
+    "finalProb": 0.9999983016436959,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Colon Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 8
+  },
+  {
+    "id": "363100.63423.0",
+    "chem": "363100",
+    "disease": "63423",
+    "genes": [
+      "2358691",
+      "761272",
+      "444593",
+      "2304802",
+      "503114"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 10,
+    "finalProb": 0.9997523901,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "AIDS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 5
+  },
+  {
+    "id": "363100.326636.0",
+    "chem": "363100",
+    "disease": "326636",
+    "genes": [
+      "57485",
+      "1751417",
+      "24438",
+      "503114"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 8,
+    "finalProb": 0.99869679,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Nicotine Dependence",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 4
+  },
+  {
+    "id": "363100.884.0",
+    "chem": "363100",
+    "disease": "884",
+    "genes": [
+      "57485",
+      "5922794",
+      "1462"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Schizophrenia",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  },
+  {
+    "id": "363100.6985.0",
+    "chem": "363100",
+    "disease": "6985",
+    "genes": [
+      "3447",
+      "2474303",
+      "46711"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "PsA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  },
+  {
+    "id": "363100.6124.0",
+    "chem": "363100",
+    "disease": "6124",
+    "genes": [
+      "662319",
+      "622455"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "RA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "363100.1555.0",
+    "chem": "363100",
+    "disease": "1555",
+    "genes": [
+      "3151839"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Malaria",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "363100.73939.0",
+    "chem": "363100",
+    "disease": "73939",
+    "genes": [
+      "2589936"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "AAA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "363100.52166.0",
+    "chem": "363100",
+    "disease": "52166",
+    "genes": [
+      "58423",
+      "490469"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "SSc",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "363100.2707.0",
+    "chem": "363100",
+    "disease": "2707",
+    "genes": [
+      "58423",
+      "761272",
+      "503114"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Breast Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  },
+  {
+    "id": "363100.8518.0",
+    "chem": "363100",
+    "disease": "8518",
+    "genes": [
+      "2470444"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "PD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "363100.6160.0",
+    "chem": "363100",
+    "disease": "6160",
+    "genes": [
+      "622455"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "Addiction",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "363100.72167.0",
+    "chem": "363100",
+    "disease": "72167",
+    "genes": [
+      "2861452"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Amlodipine",
+    "disease_name": "PCOS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  }
+]

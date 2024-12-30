@@ -1,0 +1,740 @@
+[
+  {
+    "id": "320982.12783.0",
+    "chem": "320982",
+    "disease": "12783",
+    "genes": [
+      "114039",
+      "533597"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Crohn's Disease",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "320982.63423.0",
+    "chem": "320982",
+    "disease": "63423",
+    "genes": [
+      "114039",
+      "44450"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "AIDS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "320982.1878136.0",
+    "chem": "320982",
+    "disease": "1878136",
+    "genes": [
+      "114039",
+      "2245379"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "IgA Nephropathy",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "320982.16676.0",
+    "chem": "320982",
+    "disease": "16676",
+    "genes": [
+      "501537"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "AS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.9135.0",
+    "chem": "320982",
+    "disease": "9135",
+    "genes": [
+      "303704",
+      "2013476",
+      "3590212"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Colon Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  },
+  {
+    "id": "320982.73939.0",
+    "chem": "320982",
+    "disease": "73939",
+    "genes": [
+      "2486368",
+      "484172"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "AAA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "320982.2499.0",
+    "chem": "320982",
+    "disease": "2499",
+    "genes": [
+      "3103219"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Lung Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.45739.0",
+    "chem": "320982",
+    "disease": "45739",
+    "genes": [
+      "2"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Psoriasis",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.52166.0",
+    "chem": "320982",
+    "disease": "52166",
+    "genes": [
+      "484172"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "SSc",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.35951.0",
+    "chem": "320982",
+    "disease": "35951",
+    "genes": [
+      "484172"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Pancreatic Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.326636.0",
+    "chem": "320982",
+    "disease": "326636",
+    "genes": [
+      "1836200"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Nicotine Dependence",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.41739.0",
+    "chem": "320982",
+    "disease": "41739",
+    "genes": [
+      "1836200"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "MS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.6985.0",
+    "chem": "320982",
+    "disease": "6985",
+    "genes": [
+      "42412",
+      "484783"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "PsA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "320982.33290.0",
+    "chem": "320982",
+    "disease": "33290",
+    "genes": [
+      "2602731"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "ALS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.6124.0",
+    "chem": "320982",
+    "disease": "6124",
+    "genes": [
+      "4064005"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "RA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.4697.0",
+    "chem": "320982",
+    "disease": "4697",
+    "genes": [
+      "196194"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Prostate Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.2707.0",
+    "chem": "320982",
+    "disease": "2707",
+    "genes": [
+      "499678"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Breast Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.1555.0",
+    "chem": "320982",
+    "disease": "1555",
+    "genes": [
+      "499678"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Malaria",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.45805.0",
+    "chem": "320982",
+    "disease": "45805",
+    "genes": [
+      "533597"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Ulcerative Colitis",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.72167.0",
+    "chem": "320982",
+    "disease": "72167",
+    "genes": [
+      "2940597",
+      "4523925"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0.9,
+    "directProbAll": 0.9,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "PCOS",
+    "directRel": 1,
+    "directRelAll": 1,
+    "pathCnt": 2
+  },
+  {
+    "id": "320982.10635.0",
+    "chem": "320982",
+    "disease": "10635",
+    "genes": [
+      "783122"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "COPD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "320982.174128.0",
+    "chem": "320982",
+    "disease": "174128",
+    "genes": [
+      "3518844"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "Metformin",
+    "disease_name": "Barrett's Esophagus",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  }
+]

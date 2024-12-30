@@ -1,0 +1,585 @@
+[
+  {
+    "id": "2164.2707.0",
+    "chem": "2164",
+    "disease": "2707",
+    "genes": [
+      "1903346",
+      "38595",
+      "761272"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Breast Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  },
+  {
+    "id": "2164.35951.0",
+    "chem": "2164",
+    "disease": "35951",
+    "genes": [
+      "1903346",
+      "1273885",
+      "83489"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Pancreatic Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  },
+  {
+    "id": "2164.58096.0",
+    "chem": "2164",
+    "disease": "58096",
+    "genes": [
+      "1903346"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Blood Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.6124.0",
+    "chem": "2164",
+    "disease": "6124",
+    "genes": [
+      "2961006"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "RA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.3651.0",
+    "chem": "2164",
+    "disease": "3651",
+    "genes": [
+      "705336",
+      "243019"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "AD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "2164.24258.0",
+    "chem": "2164",
+    "disease": "24258",
+    "genes": [
+      "705336"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Melanoma",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.66759.0",
+    "chem": "2164",
+    "disease": "66759",
+    "genes": [
+      "775840"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "IPF",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.12783.0",
+    "chem": "2164",
+    "disease": "12783",
+    "genes": [
+      "775840"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Crohn's Disease",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.884.0",
+    "chem": "2164",
+    "disease": "884",
+    "genes": [
+      "1462"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Schizophrenia",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.9135.0",
+    "chem": "2164",
+    "disease": "9135",
+    "genes": [
+      "38595"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Colon Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.174128.0",
+    "chem": "2164",
+    "disease": "174128",
+    "genes": [
+      "38595",
+      "457725"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 4,
+    "finalProb": 0.9639,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Barrett's Esophagus",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 2
+  },
+  {
+    "id": "2164.73939.0",
+    "chem": "2164",
+    "disease": "73939",
+    "genes": [
+      "38595"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        1,
+        -1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "AAA",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.45739.0",
+    "chem": "2164",
+    "disease": "45739",
+    "genes": [
+      "761272"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Psoriasis",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.63423.0",
+    "chem": "2164",
+    "disease": "63423",
+    "genes": [
+      "761272"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "AIDS",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.60149.0",
+    "chem": "2164",
+    "disease": "60149",
+    "genes": [
+      "761272"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Renal Cancer",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.61912.0",
+    "chem": "2164",
+    "disease": "61912",
+    "genes": [
+      "45808"
+    ],
+    "type": -1,
+    "probs": [
+      0.81
+    ],
+    "score": [
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 2,
+    "finalProb": 0.81,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "Uterine Fibroids",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 1
+  },
+  {
+    "id": "2164.10635.0",
+    "chem": "2164",
+    "disease": "10635",
+    "genes": [
+      "450569",
+      "521644",
+      "24050"
+    ],
+    "type": -1,
+    "probs": [
+      0.81,
+      0.81,
+      0.81
+    ],
+    "score": [
+      2,
+      2,
+      2
+    ],
+    "cor_types": [
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ],
+      [
+        -1,
+        1
+      ]
+    ],
+    "directProb": 0,
+    "directProbAll": 0,
+    "finalScore": 6,
+    "finalProb": 0.993141,
+    "Drug": 1,
+    "chem_name": "T4",
+    "disease_name": "COPD",
+    "directRel": 0,
+    "directRelAll": 0,
+    "pathCnt": 3
+  }
+]
