@@ -9,4 +9,6 @@ This repository contains code for paper "iKraph: a comprehensive, large-scale bi
 
 NER and RE have different python environment requirements. See the README.md file under each directory for instructions.
 
-Repurposing data can be downloaded at [google drive](https://drive.google.com/file/d/10qjEsPc0G1i_nMgIwmn3iJdrszATBYGq/view?usp=sharing) and shoule be unzipped and put under `repurposing/data`
+Repurposing data can be downloaded at [google drive](https://drive.google.com/file/d/1OliLj7OZ2M6f65Ws5ZSlU-tXdEQEIG9e/view?usp=sharing) and shoule be unzipped and put under `repurposing/data`.
+* An overview of data is provided in the `README` file
+* `iKraph_2020_CGD_correlationOnly` is a partial knowledge graph as of **2020-01-01**

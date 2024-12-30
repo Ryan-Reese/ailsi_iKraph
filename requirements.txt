@@ -1,1 +1,9 @@
-scikit-learn nltk pandas numpy scipy transformers torch accelerate datasets
+scikit-learn
+nltk
+pandas
+numpy
+scipy
+transformers
+torch
+accelerate
+datasets
