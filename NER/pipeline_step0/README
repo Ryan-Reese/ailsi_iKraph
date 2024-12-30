@@ -1,0 +1,18 @@
+1. Run conda_installation.sh: ./conda_installation.sh
+  By doing this: a. miniconda will be downloaded and installed
+		 b. run this command: conda create --name Litcoin python==3.7
+                 If successful, virtual env "Litcoin" will be created and activated. Python 3.7.0 will be installed
+
+		If you encounter a "conda command not found" error, please run this command export PATH="/home/username/miniconda3/bin:$PATH", 
+	where /home/username/ is usually your home directory miniconda3 was installed.
+
+		c. activate the Litcoin virtual environment by doing: conda activate Litcoin
+
+2. Run requirements_installation.sh: ./requirements_installation.sh
+  Before doing this, make sure you have virtual env "Litcoin" been build and successfully activated.
+  Then by runing the shell script, all required packages will be installed.
+
+3. Make sure python version is 3.7.0 and all packages are properly installed.
+
+4. If 1 and 2 are succesfully done, please move to pipeline_step1, using:
+	cd ../pipeline_step1

@@ -1,0 +1,7 @@
+1. Make sure all scripts are executable: chmod 755 *
+
+2. run run_pipeline.sh: ./run_pipeline.sh
+	Download all the necessary pretrained roberta models to directory './pre_trained_models'
+
+You might move to 'pipeline_step3.5' after successfully running the above shell script:
+	cd ../pipeline_step3.5

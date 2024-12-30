@@ -1,0 +1,12 @@
+wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh && bash Miniconda3-latest-Linux-x86_64.sh
+echo "**********************************************************************"
+echo "You might need to restart your current terminal to use miniconda properly !!!"
+echo "**********************************************************************"
+echo "First, create virtual env 'Litcoin' with python 3.7"
+echo "run : conda create --name Litcoin python==3.7"
+echo "**********************************************************************"
+echo "If conda command is not found, please see https://stackoverflow.com/questions/35246386/conda-command-not-found"
+echo "**********************************************************************"
+echo "Next step: please activate virtual env 'Litcoin'"
+echo "run: conda activate Litcoin"
+echo "**********************************************************************"

@@ -1,0 +1,35 @@
+####
+data/ 
+contains the subgraph we used for drug repurposing application in the paper
+covid_drug_with_validID_underClinicTrial.json => drug for covid-19 in clinictrial.gov (by 2023/08/)
+DBRelations.json => relations from databases in iKraph
+Aggregated_PubMedRelList.json => partial knowledge graph relations in iKraph
+NER_ID_dict_cap_final.json => partial knowledge graph node dict in iKraph
+ChemEntities.json => partial chemical compounds dict 
+GeneEntities.json => partial gene dict
+DrugEntities.json => partial drug dict
+DiseaseEntities.json => partial disease dict
+
+
+###
+1.covid_19/
+contains the code for repurposed drug prediction for covid-19
+drug_repurposing_covid_v3.py => code for repurposing
+repurpose_ENT_v3.txt => input of the repurposing code
+analysis.py => code for analysis the result 
+
+###
+2.10drug10disease/
+contains the code for repurposed drug/indication prediction for 10 common drugs/10 common diseases
+drug_repurposing_database_noDirection.py => code for repurposing using database relations from iKraph
+drug_repurposing.py => code for repurposing using PubMed extracted relations from iKraph
+repurpose_ENT.txt => input of the repurposing code
+analysis.py => code for analysis the result
+
+
+###
+3.cystic_fibrosis/
+contains the code for repurposed drug prediction for cystic fibrosis
+drug_repurposing_fromDisease.py => code for repurposing
+repurpose_ENT_disease.txt => input of the repurposing code
+analysis.py => code for analysis the result

@@ -1,0 +1,7 @@
+To run pipline, please go to 'pipeline_step0' by : cd pipeline_step0, then follow the coresponding instructions at each step.
+
+You must run the codes of pipeline_step0 under directory 'pipeline_step0' even after you restart the terminal after installing miniconda (if needed).
+
+All the scripts use the first GPU (CUDA=0) by default if the machine has multiple GPUs.
+
+If any questions, please feel free to contact us.

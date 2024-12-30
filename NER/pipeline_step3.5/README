@@ -1,0 +1,46 @@
+1. Make sure all scripts are executable: chmod 755 *
+
+***Feel free to run "run_pipeline.sh" by doing "source run_pipeline.sh" and then you might directly jump to step 12
+Note: to run the codes in this step, you need to use 4 RTX 8000 GPUs, which will reproduce our results exactly. 
+If the machine that runs this code does not have 4 GPUs, you need to run run_pipeline_1GPU.sh by doing "source run_pipeline_1GPU.sh"  
+
+Detailed explanations about the code are given below, in case you want to read them.
+
+2. Deactivate the current virtual environment "Litcoin":
+  conda deactivate
+
+3. Create a new virtual environment:
+  conda create --name Litcoin2 python==3.8.8
+
+4. Activate Litcoin2:
+  conda activate Litcoin2
+
+5. Install all the necessary packages:
+  python -m pip install -r requirements_step2.5.txt
+
+6. Data Splitting for consistency checking model:
+  python generate_input.py
+    This will do the following:
+      a. Generate the final BIO format litcoin test set (100 asbstracts): Litcoin_testset.json
+      b. Generate the final BIO format litcoin train set (362 asbstracts) and dev set (38 asbstracts): split1/litcoin_train_update_362.json, split1/litcoin_dev_update_38.json
+  split_1.json includes the pre-defined split rulls for training and dev set
+
+7. Run training script for consistency checking model:
+  ./train_roberta.sh
+  ***It is noted that this model was trained using 4 RTX 8000 GPUs. To reproduce our result, please use the exact same devices to train.
+
+8. Run prediction on full text data which acquired in the previous steps.
+  ./predict_roberta.sh
+
+9. Rename "predictions.txt" and move it to the directory "pipeline_step5":
+  cp output/predictions.txt output/predictions_ft.txt
+  mv output/predictions_ft.txt ../pipeline_step5
+
+10. Deactivate "Litcoin2":
+  conda deactivate
+
+11. Reactivate "Litcoin"
+  conda activate Litcoin
+
+12. You might move to 'pipeline_step4':
+	cd ../pipeline_step4

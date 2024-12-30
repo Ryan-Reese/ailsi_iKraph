@@ -1,0 +1,20 @@
+lisinopril	C	Lisinopril	984387
+levothyroxine	C	T4	2164
+atorvastatin	C	atorvastatin	1650473
+metformin	C	metformin	320982
+simvastatin	C	simvastatin	764079
+omeprazole	C	omeprazole	315968
+amlodipine	C	amlodipine	363100
+metoprolol	C	metoprolol	159076
+acetaminophen	C	acetaminophen	16675
+albuterol	C	Salbutamol	2384
+Alzheimer's Disease	D	AD	3651
+ALS (Amyotrophic Lateral Sclerosis)	D	ALS	33290
+Colorectal Cancer	D	Colorectal Cancer	11625
+Cystic Fibrosis	D	CF	11666
+Liver Cancer	D	Liver Cancer	17498
+Lung Cancer	D	Lung Cancer	2499
+Pancreatic Cancer	D	Pancreatic Cancer	35951
+Parkinson's Disease	D	PD	8518
+Prostate Cancer	D	Prostate Cancer	4697
+Schizophrenia	D	Schizophrenia	884

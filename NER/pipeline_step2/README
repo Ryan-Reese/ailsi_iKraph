@@ -1,0 +1,9 @@
+1. Make sure all scripts are executable: chmod 755 *
+
+2. run run_pipeline.sh: ./run_pipeline.sh
+        a. Devided original training dataset into train.json and dev.json with hfjson format (located at ./split_3).
+           Such seperation is based on pre-defined seperation rules in "split_3.json" .
+        b. Convert Litcoin Testset which is preprocessed in "pipeline_step1" to hfjson format: "Litcoin_testset.json"
+
+You might move to 'pipeline_step3' after successfully run the above shell script by:
+	cd ../pipeline_step3

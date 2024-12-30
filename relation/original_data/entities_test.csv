@@ -1,0 +1,3264 @@
+id	abstract_id	offset_start	offset_finish	type	mention	entity_ids
+0	1711760	23	35	DiseaseOrPhenotypicFeature	hypertension	D006973
+1	1711760	49	66	DiseaseOrPhenotypicFeature	cerebral ischemia	D002545
+2	1711760	78	89	DiseaseOrPhenotypicFeature	brain edema	D001929
+3	1711760	113	125	DiseaseOrPhenotypicFeature	hypertension	D006973
+4	1711760	165	197	DiseaseOrPhenotypicFeature	middle cerebral artery occlusion	D020244
+5	1711760	199	203	DiseaseOrPhenotypicFeature	MCAO	D020244
+6	1711760	208	219	DiseaseOrPhenotypicFeature	brain edema	D001929
+7	1711760	274	284	ChemicalEntity	isoflurane	D007530
+8	1711760	325	337	DiseaseOrPhenotypicFeature	hypertensive	D006973
+9	1711760	338	342	OrganismTaxon	rats	10116
+10	1711760	448	460	DiseaseOrPhenotypicFeature	hypertensive	D006973
+11	1711760	532	536	DiseaseOrPhenotypicFeature	MCAO	D020244
+12	1711760	555	559	DiseaseOrPhenotypicFeature	MCAO	D020244
+13	1711760	565	569	OrganismTaxon	rats	10116
+14	1711760	684	692	DiseaseOrPhenotypicFeature	ischemia	D007511
+15	1711760	705	709	DiseaseOrPhenotypicFeature	MCAO	D020244
+16	1711760	823	831	DiseaseOrPhenotypicFeature	ischemic	D007511
+17	1711760	858	873	DiseaseOrPhenotypicFeature	neuronal injury	D009410
+18	1711760	892	918	ChemicalEntity	2,3,5-triphenyltetrazolium	C009591
+19	1711760	936	944	DiseaseOrPhenotypicFeature	ischemic	D007511
+20	1711760	1052	1060	DiseaseOrPhenotypicFeature	ischemic	D007511
+21	1711760	1107	1112	DiseaseOrPhenotypicFeature	edema	D004487
+22	1711760	1134	1146	DiseaseOrPhenotypicFeature	hypertensive	D006973
+23	1711760	1319	1331	DiseaseOrPhenotypicFeature	hypertensive	D006973
+24	1711760	1405	1418	ChemicalEntity	phenylephrine	D010656
+25	1711760	1427	1439	DiseaseOrPhenotypicFeature	hypertension	D006973
+26	1711760	1461	1465	DiseaseOrPhenotypicFeature	MCAO	D020244
+27	1711760	1485	1490	DiseaseOrPhenotypicFeature	edema	D004487
+28	1711760	1498	1506	DiseaseOrPhenotypicFeature	ischemic	D007511
+29	1711760	1530	1535	DiseaseOrPhenotypicFeature	edema	D004487
+30	1711760	1560	1568	DiseaseOrPhenotypicFeature	ischemic	D007511
+31	1711760	1626	1646	DiseaseOrPhenotypicFeature	neuronal dysfunction	D009410
+32	6086495	20	50	GeneOrGeneProduct	Becker muscular dystrophy gene	1756
+33	6086495	146	171	DiseaseOrPhenotypicFeature	Becker muscular dystrophy	D020388
+34	6086495	173	176	DiseaseOrPhenotypicFeature	BMD	D020388
+35	6086495	329	332	GeneOrGeneProduct	BMD	1756
+36	6086495	420	451	DiseaseOrPhenotypicFeature	Becker and Duchenne dystrophies	D020388
+37	7018927	22	59	GeneOrGeneProduct	luteinizing hormone-releasing hormone	2796
+38	7018927	67	78	ChemicalEntity	haloperidol	D006220
+39	7018927	87	105	DiseaseOrPhenotypicFeature	hyperprolactinemia	D006966
+40	7018927	145	156	ChemicalEntity	haloperidol	D006220
+41	7018927	166	175	GeneOrGeneProduct	prolactin	5617
+42	7018927	180	199	GeneOrGeneProduct	luteinizing hormone	1081
+43	7018927	201	203	GeneOrGeneProduct	LH	1081
+44	7018927	332	352	GeneOrGeneProduct	LH-releasing hormone	2796
+45	7018927	354	359	GeneOrGeneProduct	LH-RH	2796
+46	7018927	386	394	OrganismTaxon	patients	9606
+47	7018927	422	426	ChemicalEntity	NaCl	D012965
+48	7018927	458	469	ChemicalEntity	haloperidol	D006220
+49	7018927	493	511	DiseaseOrPhenotypicFeature	hyperprolactinemia	D006966
+50	7018927	572	577	GeneOrGeneProduct	LH-RH	2796
+51	7811247	0	29	DiseaseOrPhenotypicFeature	X-linked adrenoleukodystrophy	D000326
+52	7811247	31	34	DiseaseOrPhenotypicFeature	ALD	D000326
+53	7811247	61	64	GeneOrGeneProduct	ALD	215
+54	7811247	152	172	DiseaseOrPhenotypicFeature	adrenoleukodystrophy	D000326
+55	7811247	174	177	DiseaseOrPhenotypicFeature	ALD	D000326
+56	7811247	191	198	OrganismTaxon	patient	9606
+57	7811247	215	218	DiseaseOrPhenotypicFeature	ALD	D000326
+58	7811247	324	327	GeneOrGeneProduct	ALD	215
+59	7811247	345	396	SequenceVariant	cytosine to guanine transversion at nucleotide 1451	rs128624214
+60	7811247	440	463	SequenceVariant	proline 484 by arginine	rs128624214
+61	7811247	494	501	OrganismTaxon	patient	9606
+62	7811247	527	530	DiseaseOrPhenotypicFeature	ALD	D000326
+63	7811247	536	557	DiseaseOrPhenotypicFeature	adrenomyeloneuropathy	D000326
+64	7811247	563	570	DiseaseOrPhenotypicFeature	Addison	D000224
+65	7811247	633	655	ChemicalEntity	long chain fatty acids	D005227
+66	7811247	745	748	DiseaseOrPhenotypicFeature	ALD	D000326
+67	7811247	749	757	OrganismTaxon	patients	9606
+68	8944024	39	44	GeneOrGeneProduct	BRCA1	672
+69	8944024	241	248	OrganismTaxon	patient	9606
+70	8944024	520	550	GeneOrGeneProduct	breast and ovarian cancer gene	672
+71	8944024	551	556	GeneOrGeneProduct	BRCA1	672
+72	8944024	718	725	OrganismTaxon	patient	9606
+73	14510914	0	25	DiseaseOrPhenotypicFeature	Congenital hypothyroidism	D003409
+74	14510914	55	78	GeneOrGeneProduct	sodium/iodide symporter	6528
+75	14510914	99	122	DiseaseOrPhenotypicFeature	Iodide transport defect	C564766
+76	14510914	124	127	DiseaseOrPhenotypicFeature	ITD	C564766
+77	14510914	168	192	DiseaseOrPhenotypicFeature	inability of the thyroid	D050033
+78	14510914	208	214	ChemicalEntity	iodide	D007454
+79	14510914	307	332	DiseaseOrPhenotypicFeature	congenital hypothyroidism	D003409
+80	14510914	471	494	GeneOrGeneProduct	sodium/iodide symporter	6528
+81	14510914	496	499	GeneOrGeneProduct	NIS	6528
+82	14510914	502	509	OrganismTaxon	PATIENT	9606
+83	14510914	525	530	OrganismTaxon	woman	9606
+84	14510914	536	550	DiseaseOrPhenotypicFeature	hypothyroidism	D007037
+85	14510914	605	608	DiseaseOrPhenotypicFeature	ITD	C564766
+86	14510914	634	648	DiseaseOrPhenotypicFeature	nodular goitre	D020518
+87	14510914	668	674	ChemicalEntity	iodide	D007454
+88	14510914	733	739	ChemicalEntity	iodide	D007454
+89	14510914	764	778	DiseaseOrPhenotypicFeature	hypothyroidism	D007037
+90	14510914	825	836	ChemicalEntity	L-thyroxine	D013974
+91	14510914	872	883	ChemicalEntity	radioiodide	D007454
+92	14510914	968	973	OrganismTaxon	human	9606
+93	14510914	974	977	GeneOrGeneProduct	TSH	7200
+94	14510914	1000	1002	ChemicalEntity	I-	D007454
+95	14510914	1083	1085	ChemicalEntity	I-	D007454
+96	14510914	1152	1159	OrganismTaxon	patient	9606
+97	14510914	1162	1165	GeneOrGeneProduct	NIS	6528
+98	14510914	1201	1258	SequenceVariant	deletion of the coding sequence (nt 1314 through nt 1328)	c|DEL|1314_1328|
+99	14510914	1267	1310	SequenceVariant	insertion of 15 nt duplicating the first 15	c|DUP||15
+100	14510914	1342	1349	OrganismTaxon	patient	9606
+101	14510914	1498	1556	SequenceVariant	lacking the five terminal amino acids of exon XI (439-443)	p|DEL|439_443|
+102	14510914	1606	1611	CellLine	COS-7	9606
+103	14510914	1666	1679	SequenceVariant	del-(439-443)	p|DEL|439_443|
+104	14510914	1680	1683	GeneOrGeneProduct	NIS	6528
+105	14510914	1706	1712	ChemicalEntity	iodide	D007454
+106	14510914	1771	1774	DiseaseOrPhenotypicFeature	ITD	C564766
+107	14510914	1783	1790	OrganismTaxon	patient	9606
+108	14510914	1856	1881	DiseaseOrPhenotypicFeature	congenital hypothyroidism	D003409
+109	14510914	1911	1914	GeneOrGeneProduct	NIS	6528
+110	15041272	36	66	DiseaseOrPhenotypicFeature	type 2B von Willebrand disease	D056728
+111	15041272	72	78	SequenceVariant	R1306W	rs61749384
+112	15041272	114	128	DiseaseOrPhenotypicFeature	genetic defect	D030342
+113	15041272	156	186	DiseaseOrPhenotypicFeature	type 2B von Willebrand disease	D056728
+114	15041272	188	191	DiseaseOrPhenotypicFeature	VWD	D014842
+115	15041272	237	242	OrganismTaxon	woman	9606
+116	15041272	352	361	DiseaseOrPhenotypicFeature	bleedings	D006470
+117	15041272	446	454	DiseaseOrPhenotypicFeature	bleeding	D006470
+118	15041272	472	476	GeneOrGeneProduct	VIII	2157
+119	15041272	488	509	GeneOrGeneProduct	von Willebrand factor	7450
+120	15041272	519	522	GeneOrGeneProduct	VWF	7450
+121	15041272	536	556	GeneOrGeneProduct	von Willerand factor	7450
+122	15041272	557	567	ChemicalEntity	ristocetin	D012310
+123	15041272	578	581	GeneOrGeneProduct	VWF	7450
+124	15041272	593	632	DiseaseOrPhenotypicFeature	ristocetin-induced platelet aggregation	D001791
+125	15041272	634	638	DiseaseOrPhenotypicFeature	RIPA	D001791
+126	15041272	664	674	ChemicalEntity	ristocetin	D012310
+127	15041272	731	741	ChemicalEntity	ristocetin	D012310
+128	15041272	829	850	GeneOrGeneProduct	von Willebrand factor	7450
+129	15041272	852	855	GeneOrGeneProduct	VWF	7450
+130	15041272	1016	1019	GeneOrGeneProduct	VWF	7450
+131	15041272	1161	1197	SequenceVariant	C to T transition at nucleotide 3916	rs61749384
+132	15041272	1211	1223	SequenceVariant	Arg 1306 Trp	rs61749384
+133	15041272	1225	1231	SequenceVariant	R1306W	rs61749384
+134	15041272	1268	1283	GeneOrGeneProduct	glycoprotein Ib	2811
+135	15041272	1285	1289	GeneOrGeneProduct	GPIb	2811
+136	15041272	1354	1357	GeneOrGeneProduct	VWF	7450
+137	15041272	1420	1436	DiseaseOrPhenotypicFeature	thrombocytopenia	D013921
+138	15041272	1471	1482	DiseaseOrPhenotypicFeature	type 2B VWD	D056728
+139	15041272	1522	1528	SequenceVariant	R1306W	rs61749384
+140	15041272	1541	1544	GeneOrGeneProduct	VWF	7450
+141	15096016	107	126	DiseaseOrPhenotypicFeature	Parkinson's disease	D010300
+142	15096016	128	130	DiseaseOrPhenotypicFeature	PD	D010300
+143	15096016	271	273	DiseaseOrPhenotypicFeature	PD	D010300
+144	15096016	666	668	DiseaseOrPhenotypicFeature	PD	D010300
+145	15096016	678	689	DiseaseOrPhenotypicFeature	dyskinesias	D004409
+146	15096016	730	738	DiseaseOrPhenotypicFeature	rigidity	D009127
+147	15096016	740	752	DiseaseOrPhenotypicFeature	bradykinesia	D018476
+148	15096016	809	821	DiseaseOrPhenotypicFeature	bradykinesia	D018476
+149	15096016	826	834	DiseaseOrPhenotypicFeature	rigidity	D009127
+150	15096016	901	909	ChemicalEntity	levodopa	D007980
+151	15096016	918	929	DiseaseOrPhenotypicFeature	dyskinesias	D004409
+152	15096016	980	1000	DiseaseOrPhenotypicFeature	hyper- or dyskinetic	D004409,D006948
+153	15096016	1129	1136	OrganismTaxon	patient	9606
+154	15096016	1215	1223	OrganismTaxon	patients	9606
+155	15099351	17	22	GeneOrGeneProduct	PCSK9	255738
+156	15099351	55	94	DiseaseOrPhenotypicFeature	autosomal dominant hypercholesterolemia	D006938
+157	15099351	96	141	GeneOrGeneProduct	Proprotein convertase subtilisin/kexin type 9	255738
+158	15099351	143	148	GeneOrGeneProduct	PCSK9	255738
+159	15099351	168	207	DiseaseOrPhenotypicFeature	autosomal dominant hypercholesterolemia	D006938
+160	15099351	243	248	GeneOrGeneProduct	PCSK9	255738
+161	15099351	269	280	ChemicalEntity	cholesterol	D002784
+162	15099351	367	387	DiseaseOrPhenotypicFeature	hypercholesterolemia	D006937
+163	15099351	442	447	GeneOrGeneProduct	PCSK9	255738
+164	15099351	526	555	DiseaseOrPhenotypicFeature	familial hypercholesterolemia	D006937
+165	15099351	579	611	GeneOrGeneProduct	low-density lipoprotein receptor	3949
+166	15099351	630	636	SequenceVariant	R3500Q	rs5742904
+167	15099351	644	664	GeneOrGeneProduct	apolipoprotein B-100	338
+168	15099351	766	771	GeneOrGeneProduct	PCSK9	255738
+169	15099351	782	790	OrganismTaxon	patients	9606
+170	15099351	814	819	SequenceVariant	D374Y	rs137852912
+171	15099351	829	836	OrganismTaxon	patient	9606
+172	15099351	867	872	SequenceVariant	D374Y	rs137852912
+173	15099351	877	882	SequenceVariant	N157K	rs143117125
+174	15099351	884	889	SequenceVariant	D374Y	rs137852912
+175	15099351	906	926	DiseaseOrPhenotypicFeature	hypercholesterolemia	D006937
+176	15099351	1055	1060	GeneOrGeneProduct	PCSK9	255738
+177	15099351	1072	1111	DiseaseOrPhenotypicFeature	autosomal dominant hypercholesterolemia	D006938
+178	15122708	0	23	DiseaseOrPhenotypicFeature	Desmin-related myopathy	C563319
+179	15122708	88	103	GeneOrGeneProduct	selenoprotein N	57190
+180	15122708	110	135	DiseaseOrPhenotypicFeature	Desmin-related myopathies	C563319
+181	15122708	137	141	DiseaseOrPhenotypicFeature	DRMs	C563319
+182	15122708	172	188	DiseaseOrPhenotypicFeature	muscle disorders	D009135
+183	15122708	249	255	GeneOrGeneProduct	desmin	1674
+184	15122708	274	280	GeneOrGeneProduct	desmin	1674
+185	15122708	289	307	GeneOrGeneProduct	alpha-B crystallin	1410
+186	15122708	357	360	DiseaseOrPhenotypicFeature	DRM	C563319
+187	15122708	501	505	DiseaseOrPhenotypicFeature	DRMs	C563319
+188	15122708	547	555	OrganismTaxon	patients	9606
+189	15122708	585	600	GeneOrGeneProduct	selenoprotein N	57190
+190	15122708	607	612	GeneOrGeneProduct	SEPN1	57190
+191	15122708	633	654	DiseaseOrPhenotypicFeature	SEPN-related myopathy	D009135
+192	15122708	656	663	DiseaseOrPhenotypicFeature	SEPN-RM	D009135
+193	15122708	687	695	DiseaseOrPhenotypicFeature	myopathy	D009135
+194	15122708	754	784	DiseaseOrPhenotypicFeature	rigid spine muscular dystrophy	C535683
+195	15122708	818	839	DiseaseOrPhenotypicFeature	multiminicore disease	C564969
+196	15122708	924	931	DiseaseOrPhenotypicFeature	SEPN-RM	D009135
+197	15122708	976	979	DiseaseOrPhenotypicFeature	DRM	C563319
+198	15122708	984	989	GeneOrGeneProduct	SEPN1	57190
+199	15122708	1010	1013	DiseaseOrPhenotypicFeature	DRM	C563319
+200	15122708	1077	1082	GeneOrGeneProduct	SEPN1	57190
+201	15122708	1127	1132	GeneOrGeneProduct	SEPN1	57190
+202	15122708	1143	1168	SequenceVariant	del 92 nucleotide -19/+73	c|DEL|-19_+73|92
+203	15122708	1186	1194	OrganismTaxon	patients	9606
+204	15122708	1238	1241	DiseaseOrPhenotypicFeature	DRM	C563319
+205	15122708	1246	1253	DiseaseOrPhenotypicFeature	SEPN-RM	D009135
+206	15122708	1319	1322	DiseaseOrPhenotypicFeature	DRM	C563319
+207	15122708	1348	1355	DiseaseOrPhenotypicFeature	SEPN-RM	D009135
+208	15122708	1416	1419	DiseaseOrPhenotypicFeature	DRM	C563319
+209	15122708	1458	1465	DiseaseOrPhenotypicFeature	SEPN-RM	D009135
+210	15122708	1551	1561	DiseaseOrPhenotypicFeature	myopathies	D009135
+211	15188772	18	69	DiseaseOrPhenotypicFeature	left ventricular systolic and diastolic dysfunction	D018487
+212	15188772	99	110	ChemicalEntity	epinephrine	D004837
+213	15188772	121	134	ChemicalEntity	Catecholamine	D002395
+214	15188772	143	157	DiseaseOrPhenotypicFeature	cardiomyopathy	D009202
+215	15188772	194	208	ChemicalEntity	catecholamines	D002395
+216	15188772	291	313	DiseaseOrPhenotypicFeature	myocardial dysfunction	D009202
+217	15188772	371	376	OrganismTaxon	woman	9606
+218	15188772	436	447	ChemicalEntity	epinephrine	D004837
+219	15188772	458	477	DiseaseOrPhenotypicFeature	myocardial stunning	D017682
+220	15188772	563	614	DiseaseOrPhenotypicFeature	left ventricular systolic and diastolic dysfunction	D018487
+221	15188772	666	685	DiseaseOrPhenotypicFeature	myocardial necrosis	D009202
+222	15614572	30	39	ChemicalEntity	trazodone	D014196
+223	15614572	43	62	GeneOrGeneProduct	5-HT 2A/2C receptor	25187,29595
+224	15614572	78	86	ChemicalEntity	dopamine	D004298
+225	15614572	110	114	OrganismTaxon	rats	10116
+226	15614572	127	146	ChemicalEntity	5-Hydroxytryptamine	D012701
+227	15614572	167	184	GeneOrGeneProduct	5-HT 2C receptors	25187
+228	15614572	279	296	GeneOrGeneProduct	5-HT 2A receptors	29595
+229	15614572	363	372	ChemicalEntity	trazodone	D014196
+230	15614572	378	397	GeneOrGeneProduct	5-HT 2A/2C receptor	25187,29595
+231	15614572	448	457	ChemicalEntity	trazodone	D014196
+232	15614572	594	603	ChemicalEntity	trazodone	D014196
+233	15614572	607	621	ChemicalEntity	dexamphetamine	D003913
+234	15614572	627	638	ChemicalEntity	apomorphine	D001058
+235	15614572	647	664	DiseaseOrPhenotypicFeature	oral stereotypies	D009062
+236	15614572	669	678	DiseaseOrPhenotypicFeature	catalepsy	D002375
+237	15614572	690	701	ChemicalEntity	haloperidol	D006220
+238	15614572	706	717	ChemicalEntity	apomorphine	D001058
+239	15614572	741	752	ChemicalEntity	ergometrine	D004874
+240	15614572	794	804	ChemicalEntity	fluoxetine	D005473
+241	15614572	845	849	OrganismTaxon	rats	10116
+242	15614572	880	889	ChemicalEntity	trazodone	D014196
+243	15614572	898	907	DiseaseOrPhenotypicFeature	catalepsy	D002375
+244	15614572	911	915	OrganismTaxon	rats	10116
+245	15614572	926	935	ChemicalEntity	Trazodone	D014196
+246	15614572	972	981	DiseaseOrPhenotypicFeature	catalepsy	D002375
+247	15614572	1006	1017	ChemicalEntity	apomorphine	D001058
+248	15614572	1051	1062	ChemicalEntity	apomorphine	D001058
+249	15614572	1084	1093	DiseaseOrPhenotypicFeature	catalepsy	D002375
+250	15614572	1146	1155	ChemicalEntity	trazodone	D014196
+251	15614572	1165	1179	ChemicalEntity	dexamphetamine	D003913
+252	15614572	1208	1219	ChemicalEntity	haloperidol	D006220
+253	15614572	1220	1229	DiseaseOrPhenotypicFeature	catalepsy	D002375
+254	15614572	1231	1242	ChemicalEntity	ergometrine	D004874
+255	15614572	1268	1278	ChemicalEntity	fluoxetine	D005473
+256	15614572	1305	1314	ChemicalEntity	Trazodone	D014196
+257	15614572	1351	1360	DiseaseOrPhenotypicFeature	catalepsy	D002375
+258	15614572	1377	1388	ChemicalEntity	apomorphine	D001058
+259	15614572	1393	1407	ChemicalEntity	dexamphetamine	D003913
+260	15614572	1461	1470	ChemicalEntity	trazodone	D014196
+261	15614572	1533	1548	GeneOrGeneProduct	D2 DA receptors	24318
+262	15614572	1611	1626	GeneOrGeneProduct	D2 DA receptors	24318
+263	15614572	1664	1673	ChemicalEntity	trazodone	D014196
+264	15614572	1681	1710	GeneOrGeneProduct	5-HT 2A and 5-HT 2C receptors	25187,29595
+265	15614572	1728	1737	ChemicalEntity	trazodone	D014196
+266	15614572	1776	1793	GeneOrGeneProduct	5-HT 2C receptors	25187
+267	15614572	1870	1874	ChemicalEntity	5-HT	D012701
+268	15614572	1900	1914	ChemicalEntity	dexamphetamine	D003913
+269	15614572	1942	1953	ChemicalEntity	haloperidol	D006220
+270	15614572	1954	1963	DiseaseOrPhenotypicFeature	catalepsy	D002375
+271	15623763	0	5	GeneOrGeneProduct	TGFBI	7045
+272	15623763	29	69	DiseaseOrPhenotypicFeature	lattice and granular corneal dystrophies	C537881,D003317
+273	15623763	80	88	OrganismTaxon	patients	9606
+274	15623763	128	133	GeneOrGeneProduct	TGFBI	7045
+275	15623763	149	157	OrganismTaxon	patients	9606
+276	15623763	163	188	DiseaseOrPhenotypicFeature	lattice corneal dystrophy	C537881
+277	15623763	190	193	DiseaseOrPhenotypicFeature	LCD	C537881
+278	15623763	198	224	DiseaseOrPhenotypicFeature	granular corneal dystrophy	D003317
+279	15623763	226	229	DiseaseOrPhenotypicFeature	GCD	D003317
+280	15623763	312	320	OrganismTaxon	patients	9606
+281	15623763	343	346	DiseaseOrPhenotypicFeature	LCD	C537881
+282	15623763	359	362	DiseaseOrPhenotypicFeature	GCD	D003317
+283	15623763	381	384	DiseaseOrPhenotypicFeature	LCD	C537881
+284	15623763	388	391	DiseaseOrPhenotypicFeature	GCD	D003317
+285	15623763	506	511	GeneOrGeneProduct	TGFBI	7045
+286	15623763	803	811	OrganismTaxon	patients	9606
+287	15623763	817	820	DiseaseOrPhenotypicFeature	LCD	C537881
+288	15623763	835	843	OrganismTaxon	patients	9606
+289	15623763	849	852	DiseaseOrPhenotypicFeature	GCD	D003317
+290	15623763	857	860	DiseaseOrPhenotypicFeature	LCD	C537881
+291	15623763	908	926	SequenceVariant	glycine-594-valine	p|SUB|G|594|V
+292	15623763	928	937	SequenceVariant	Gly594Val	p|SUB|G|594|V
+293	15623763	950	958	OrganismTaxon	patients	9606
+294	15623763	960	984	SequenceVariant	valine-539-aspartic acid	p|SUB|V|539|D
+295	15623763	986	995	SequenceVariant	Val539Asp	p|SUB|V|539|D
+296	15623763	1002	1009	OrganismTaxon	patient	9606
+297	15623763	1015	1049	SequenceVariant	deletion of valine 624, valine 625	p|DEL|624_625|VV
+298	15623763	1051	1067	SequenceVariant	Val624-Val625del	p|DEL|624_625|VV
+299	15623763	1074	1081	OrganismTaxon	patient	9606
+300	15623763	1108	1132	SequenceVariant	arginine 124-to-cysteine	rs121909210
+301	15623763	1134	1143	SequenceVariant	Arg124Cys	rs121909210
+302	15623763	1166	1174	OrganismTaxon	patients	9606
+303	15623763	1179	1204	SequenceVariant	histidine 626-to-arginine	p|SUB|H|626|R
+304	15623763	1206	1215	SequenceVariant	His626Arg	p|SUB|H|626|R
+305	15623763	1228	1236	OrganismTaxon	patients	9606
+306	15623763	1269	1272	DiseaseOrPhenotypicFeature	LCD	C537881
+307	15623763	1287	1295	OrganismTaxon	patients	9606
+308	15623763	1305	1314	SequenceVariant	Gly594Val	p|SUB|G|594|V
+309	15623763	1319	1335	SequenceVariant	Val624-Val625del	p|DEL|624_625|VV
+310	15623763	1350	1353	DiseaseOrPhenotypicFeature	GCD	D003317
+311	15623763	1358	1366	OrganismTaxon	patients	9606
+312	15623763	1372	1382	DiseaseOrPhenotypicFeature	GCD type I	C537304
+313	15623763	1401	1427	SequenceVariant	arginine 555-to-tryptophan	rs121909208
+314	15623763	1429	1438	SequenceVariant	Arg555Trp	rs121909208
+315	15623763	1446	1453	OrganismTaxon	patient	9606
+316	15623763	1459	1471	DiseaseOrPhenotypicFeature	GCD type III	C535476
+317	15623763	1473	1496	DiseaseOrPhenotypicFeature	Reis-Bucklers dystrophy	C535476
+318	15623763	1507	1516	SequenceVariant	Arg124Leu	rs121909211
+319	15623763	1616	1644	SequenceVariant	leucine 269 to phenylalanine	rs199852470
+320	15623763	1646	1655	SequenceVariant	Leu269Phe	rs199852470
+321	15623763	1679	1687	OrganismTaxon	patients	9606
+322	15623763	1697	1706	SequenceVariant	Arg555Trp	rs121909208
+323	15623763	1730	1739	SequenceVariant	Arg124Cys	rs121909210
+324	15623763	1744	1753	SequenceVariant	Arg555Trp	rs121909208
+325	15623763	1801	1804	DiseaseOrPhenotypicFeature	LCD	C537881
+326	15623763	1809	1812	DiseaseOrPhenotypicFeature	GCD	D003317
+327	15818664	15	41	DiseaseOrPhenotypicFeature	sporadic chondrocalcinosis	D002805
+328	15818664	49	67	SequenceVariant	-4-basepair G-to-A	c|SUB|G|-4|A
+329	15818664	112	116	GeneOrGeneProduct	ANKH	56172
+330	15818664	154	158	GeneOrGeneProduct	ANKH	56172
+331	15818664	206	229	ChemicalEntity	inorganic pyrophosphate	D043564
+332	15818664	263	267	GeneOrGeneProduct	ANKH	56172
+333	15818664	336	359	ChemicalEntity	inorganic pyrophosphate	D043564
+334	15818664	361	364	ChemicalEntity	PPi	D043564
+335	15818664	391	436	DiseaseOrPhenotypicFeature	autosomal-dominant familial chondrocalcinosis	D002805
+336	15818664	480	484	GeneOrGeneProduct	ANKH	56172
+337	15818664	523	540	DiseaseOrPhenotypicFeature	chondrocalcinosis	D002805
+338	15818664	551	555	GeneOrGeneProduct	ANKH	56172
+339	15818664	633	650	DiseaseOrPhenotypicFeature	chondrocalcinosis	D002805
+340	15818664	658	666	OrganismTaxon	patients	9606
+341	15818664	688	705	DiseaseOrPhenotypicFeature	chondrocalcinosis	D002805
+342	15818664	709	719	DiseaseOrPhenotypicFeature	pseudogout	D002805
+343	15818664	941	946	OrganismTaxon	human	9606
+344	15818664	960	964	CellLine	CH-8	9606
+345	15818664	998	1024	DiseaseOrPhenotypicFeature	Sporadic chondrocalcinosis	D002805
+346	15818664	1047	1053	SequenceVariant	G-to-A	c|SUB|G||A
+347	15818664	1072	1076	GeneOrGeneProduct	ANKH	56172
+348	15818664	1331	1370	DiseaseOrPhenotypicFeature	familial and sporadic chondrocalcinosis	D002805
+349	15818664	1372	1385	SequenceVariant	+14 bp C-to-T	c|SUB|C|14|T
+350	15818664	1401	1413	SequenceVariant	GAG deletion	c|DEL||GAG
+351	15818664	1449	1475	DiseaseOrPhenotypicFeature	familial chondrocalcinosis	D002805
+352	15818664	1484	1497	SequenceVariant	143-bp T-to-C	c|SUB|T|143|C
+353	15818664	1531	1535	GeneOrGeneProduct	ANKH	56172
+354	15818664	1550	1554	GeneOrGeneProduct	ANKH	56172
+355	15818664	1634	1638	GeneOrGeneProduct	ANKH	56172
+356	15818664	1653	1657	GeneOrGeneProduct	ANKH	56172
+357	15818664	1707	1710	ChemicalEntity	PPi	D043564
+358	15818664	1714	1718	CellLine	CH-8	9606
+359	15818664	1750	1754	GeneOrGeneProduct	ANKH	56172
+360	15818664	1820	1823	ChemicalEntity	PPi	D043564
+361	15818664	1844	1855	DiseaseOrPhenotypicFeature	hypertrophy	D006984
+362	15818664	1864	1879	GeneOrGeneProduct	type X collagen	1300
+363	15818664	1905	1931	DiseaseOrPhenotypicFeature	sporadic chondrocalcinosis	D002805
+364	15818664	1962	1974	SequenceVariant	-4-bp G-to-A	c|SUB|G|-4|A
+365	15818664	1975	1979	GeneOrGeneProduct	ANKH	56172
+366	15818664	2030	2034	GeneOrGeneProduct	ANKH	56172
+367	15818664	2053	2056	ChemicalEntity	PPi	D043564
+368	15818664	2088	2092	GeneOrGeneProduct	ANKH	56172
+369	15818664	2129	2146	DiseaseOrPhenotypicFeature	chondrocalcinosis	D002805
+370	15818664	2205	2208	ChemicalEntity	PPi	D043564
+371	15818664	2225	2236	DiseaseOrPhenotypicFeature	hypertrophy	D006984
+372	15824163	16	20	GeneOrGeneProduct	BRAF	673
+373	15824163	26	34	DiseaseOrPhenotypicFeature	melanoma	D008545
+374	15824163	35	40	DiseaseOrPhenotypicFeature	nevus	D009506
+375	15824163	83	87	GeneOrGeneProduct	BRAF	673
+376	15824163	117	132	DiseaseOrPhenotypicFeature	melanoma tumors	D008545
+377	15824163	144	148	DiseaseOrPhenotypicFeature	nevi	D009506
+378	15824163	173	177	GeneOrGeneProduct	BRAF	673
+379	15824163	240	248	DiseaseOrPhenotypicFeature	melanoma	D008545
+380	15824163	291	295	GeneOrGeneProduct	BRAF	673
+381	15824163	334	351	DiseaseOrPhenotypicFeature	sporadic melanoma	D008545
+382	15824163	355	358	OrganismTaxon	men	9606
+383	15824163	399	403	GeneOrGeneProduct	BRAF	673
+384	15824163	465	470	DiseaseOrPhenotypicFeature	nevus	D009506
+385	15824163	471	479	DiseaseOrPhenotypicFeature	melanoma	D008545
+386	15824163	708	725	DiseaseOrPhenotypicFeature	familial melanoma	D008545
+387	15824163	736	740	GeneOrGeneProduct	BRAF	673
+388	15824163	860	864	GeneOrGeneProduct	BRAF	673
+389	15824163	892	901	SequenceVariant	rs1639679	rs1639679
+390	15824163	934	942	DiseaseOrPhenotypicFeature	melanoma	D008545
+391	15824163	1019	1023	GeneOrGeneProduct	BRAF	673
+392	15824163	1040	1048	DiseaseOrPhenotypicFeature	melanoma	D008545
+393	15824163	1394	1398	GeneOrGeneProduct	BRAF	673
+394	15824163	1484	1488	GeneOrGeneProduct	BRAF	673
+395	15824163	1539	1547	DiseaseOrPhenotypicFeature	melanoma	D008545
+396	15824163	1702	1706	GeneOrGeneProduct	BRAF	673
+397	15824163	1759	1763	DiseaseOrPhenotypicFeature	nevi	D009506
+398	15970799	31	38	GeneOrGeneProduct	SLCO1B1	10599
+399	15970799	40	46	GeneOrGeneProduct	OATP-C	10599
+400	15970799	58	65	GeneOrGeneProduct	SLCO1B1	10599
+401	15970799	69	76	GeneOrGeneProduct	SLCO1B1	10599
+402	15970799	84	91	GeneOrGeneProduct	SLCO1B1	10599
+403	15970799	95	101	SequenceVariant	C1007G	rs72559747
+404	15970799	144	148	CellLine	HeLa	9606
+405	15970799	153	159	CellLine	HEK293	9606
+406	15970799	179	186	GeneOrGeneProduct	SLCO1B1	10599
+407	15970799	193	200	GeneOrGeneProduct	SLCO1B1	10599
+408	15970799	250	261	ChemicalEntity	pravastatin	D017035
+409	15970799	338	345	GeneOrGeneProduct	SLCO1B1	10599
+410	15970799	367	374	GeneOrGeneProduct	OATP1B1	10599
+411	15970799	412	419	GeneOrGeneProduct	SLCO1B1	10599
+412	15970799	442	449	GeneOrGeneProduct	OATP1B1	10599
+413	15970799	560	567	GeneOrGeneProduct	SLCO1B1	10599
+414	15970799	583	589	SequenceVariant	C1007G	rs72559747
+415	15970799	620	627	OrganismTaxon	patient	9606
+416	15970799	633	644	ChemicalEntity	pravastatin	D017035
+417	15970799	653	661	DiseaseOrPhenotypicFeature	myopathy	D009135
+418	15970799	695	702	GeneOrGeneProduct	OATP1B1	10599
+419	15970799	738	744	CellLine	HEK293	9606
+420	15970799	749	753	CellLine	HeLa	9606
+421	15970799	891	898	ChemicalEntity	tritium	D014316
+422	15970799	907	937	ChemicalEntity	estradiol-17beta-D-glucuronide	C025483
+423	15970799	942	959	ChemicalEntity	estrone-3-sulfate	C017296
+424	15970799	977	988	ChemicalEntity	pravastatin	D017035
+425	15970799	990	1002	ChemicalEntity	atorvastatin	D000069059
+426	15970799	1004	1016	ChemicalEntity	cerivastatin	C086276
+427	15970799	1021	1032	ChemicalEntity	simvastatin	D019821
+428	15970799	1144	1151	GeneOrGeneProduct	SLCO1B1	10599
+429	15970799	1167	1173	SequenceVariant	C1007G	rs72559747
+430	15970799	1211	1218	GeneOrGeneProduct	SLCO1B1	10599
+431	15970799	1227	1233	SequenceVariant	C1007G	rs72559747
+432	15970799	1242	1248	SequenceVariant	C1007G	rs72559747
+433	15970799	1310	1321	ChemicalEntity	simvastatin	D019821
+434	15970799	1343	1354	ChemicalEntity	pravastatin	D017035
+435	15970799	1359	1371	ChemicalEntity	atorvastatin	D000069059
+436	15970799	1471	1478	GeneOrGeneProduct	SLCO1B1	10599
+437	15970799	1494	1500	SequenceVariant	C1007G	rs72559747
+438	15970799	1539	1546	GeneOrGeneProduct	SLCO1B1	10599
+439	15970799	1562	1568	SequenceVariant	C1007G	rs72559747
+440	15970799	1702	1708	SequenceVariant	521T>C	c|SUB|T|521|C
+441	15970799	1731	1738	GeneOrGeneProduct	SLCO1B1	10599
+442	15970799	1754	1760	SequenceVariant	C1007G	rs72559747
+443	15970799	1855	1862	GeneOrGeneProduct	SLCO1B1	10599
+444	15970799	1878	1884	SequenceVariant	C1007G	rs72559747
+445	16001362	3	39	DiseaseOrPhenotypicFeature	autosomal dominant cerebellar ataxia	OMIM:604121
+446	16001362	207	245	GeneOrGeneProduct	Rho guanine-nucleotide exchange-factor	9138
+447	16001362	255	291	DiseaseOrPhenotypicFeature	Autosomal dominant cerebellar ataxia	OMIM:604121
+448	16001362	293	297	DiseaseOrPhenotypicFeature	ADCA	OMIM:604121
+449	16001362	327	354	DiseaseOrPhenotypicFeature	neurodegenerative disorders	D019636
+450	16001362	442	461	DiseaseOrPhenotypicFeature	degenerative ataxia	D001259
+451	16001362	489	493	DiseaseOrPhenotypicFeature	ADCA	OMIM:604121
+452	16001362	534	551	DiseaseOrPhenotypicFeature	cerebellar ataxia	D002524
+453	16001362	609	641	DiseaseOrPhenotypicFeature	sensorineural hearing impairment	D034381
+454	16001362	665	671	DiseaseOrPhenotypicFeature	ataxia	D001259
+455	16001362	791	799	OrganismTaxon	patients	9606
+456	16001362	858	863	SequenceVariant	C-->T	c|SUB|C||T
+457	16001362	994	1006	GeneOrGeneProduct	DKFZP434I216	25894
+458	16001362	1030	1043	GeneOrGeneProduct	puratrophin-1	25894
+459	16001362	1046	1088	GeneOrGeneProduct	Purkinje cell atrophy associated protein-1	25894
+460	16001362	1107	1120	GeneOrGeneProduct	puratrophin-1	25894
+461	16001362	1243	1277	GeneOrGeneProduct	guanine-nucleotide exchange factor	9138
+462	16001362	1279	1282	GeneOrGeneProduct	GEF	9138
+463	16001362	1288	1299	GeneOrGeneProduct	Rho GTPases	387
+464	16001362	1368	1381	GeneOrGeneProduct	puratrophin-1	25894
+465	16001362	1413	1418	GeneOrGeneProduct	actin	60
+466	16001362	1452	1465	GeneOrGeneProduct	Puratrophin-1	25894
+467	16001362	1626	1630	DiseaseOrPhenotypicFeature	ADCA	OMIM:604121
+468	16001362	1686	1699	GeneOrGeneProduct	puratrophin-1	25894
+469	16001362	1903	1908	OrganismTaxon	human	9606
+470	16001362	2048	2051	GeneOrGeneProduct	GEF	9138
+471	16001362	2079	2102	DiseaseOrPhenotypicFeature	cerebellar degeneration	D013132
+472	16001362	2106	2112	OrganismTaxon	humans	9606
+473	16321363	0	39	DiseaseOrPhenotypicFeature	Congenital disorder of glycosylation Ic	C535741
+474	16321363	73	79	GeneOrGeneProduct	hALG-6	29929
+475	16321363	117	156	DiseaseOrPhenotypicFeature	congenital disorder of glycosylation-Ic	C535741
+476	16321363	158	164	DiseaseOrPhenotypicFeature	CDG-Ic	C535741
+477	16321363	201	204	DiseaseOrPhenotypicFeature	CDG	D018981
+478	16321363	238	267	ChemicalEntity	lipid-linked oligosaccharides	C023023
+479	16321363	282	289	ChemicalEntity	glucose	D005947
+480	16321363	322	326	GeneOrGeneProduct	ALG6	29929
+481	16321363	404	410	SequenceVariant	338G>A	rs768372697
+482	16321363	457	464	OrganismTaxon	patient	9606
+483	16321363	556	560	GeneOrGeneProduct	ALG6	29929
+484	16321363	694	712	SequenceVariant	deletion (10-12Mb)	c|DEL||10-12MB
+485	16321363	714	732	SequenceVariant	del(1)(p31.2p32.3)	c|DEL|p31.2_p32.3|
+486	16321363	849	852	DiseaseOrPhenotypicFeature	CDG	D018981
+487	16321363	909	915	DiseaseOrPhenotypicFeature	CDG-Ic	C535741
+488	16330669	126	165	DiseaseOrPhenotypicFeature	primary cutaneous large B-cell lymphoma	D016403
+489	16330669	237	276	DiseaseOrPhenotypicFeature	primary cutaneous large B-cell lymphoma	D016403
+490	16330669	278	284	DiseaseOrPhenotypicFeature	PCLBCL	D016403
+491	16330669	287	295	OrganismTaxon	PATIENTS	9606
+492	16330669	335	343	OrganismTaxon	patients	9606
+493	16330669	351	357	DiseaseOrPhenotypicFeature	PCLBCL	D016403
+494	16330669	379	421	DiseaseOrPhenotypicFeature	primary cutaneous follicle center lymphoma	D008224
+495	16330669	423	428	DiseaseOrPhenotypicFeature	PCFCL	D008224
+496	16330669	441	447	DiseaseOrPhenotypicFeature	PCLBCL	D016403
+497	16330669	541	547	DiseaseOrPhenotypicFeature	Cancer	D009369
+498	16330669	775	780	DiseaseOrPhenotypicFeature	PCFCL	D008224
+499	16330669	899	904	GeneOrGeneProduct	c-REL	5966
+500	16330669	922	930	OrganismTaxon	patients	9606
+501	16330669	956	962	DiseaseOrPhenotypicFeature	PCLBCL	D016403
+502	16330669	1077	1082	GeneOrGeneProduct	BCL-2	596
+503	16330669	1087	1092	GeneOrGeneProduct	MALT1	10892
+504	16330669	1182	1188	GeneOrGeneProduct	CDKN2A	1029
+505	16330669	1190	1196	GeneOrGeneProduct	CDKN2B	1030
+506	16330669	1202	1207	GeneOrGeneProduct	NSG-x	27099
+507	16330669	1272	1280	OrganismTaxon	patients	9606
+508	16330669	1286	1292	DiseaseOrPhenotypicFeature	PCLBCL	D016403
+509	16330669	1322	1330	OrganismTaxon	patients	9606
+510	16330669	1336	1341	DiseaseOrPhenotypicFeature	PCFCL	D008224
+511	16330669	1394	1400	GeneOrGeneProduct	CDKN2A	1029
+512	16330669	1430	1436	DiseaseOrPhenotypicFeature	PCLBCL	D016403
+513	16330669	1448	1455	OrganismTaxon	patient	9606
+514	16330669	1489	1496	OrganismTaxon	patient	9606
+515	16330669	1533	1541	OrganismTaxon	patients	9606
+516	16330669	1547	1552	DiseaseOrPhenotypicFeature	PCFCL	D008224
+517	16330669	1569	1575	DiseaseOrPhenotypicFeature	PCLBCL	D016403
+518	16330669	1587	1595	OrganismTaxon	patients	9606
+519	16330669	1651	1657	GeneOrGeneProduct	CDKN2A	1029
+520	16330669	1684	1692	DiseaseOrPhenotypicFeature	lymphoma	D008223
+521	16330669	1787	1792	DiseaseOrPhenotypicFeature	PCFCL	D008224
+522	16330669	1797	1803	DiseaseOrPhenotypicFeature	PCLBCL	D016403
+523	16330669	1915	1921	GeneOrGeneProduct	CDKN2A	1029
+524	16330669	2032	2038	DiseaseOrPhenotypicFeature	PCLBCL	D016403
+525	16419642	27	32	SequenceVariant	F826Y	rs13306592
+526	16419642	41	67	GeneOrGeneProduct	mineralocorticoid receptor	4306
+527	16419642	85	98	DiseaseOrPhenotypicFeature	hypertensives	D006973
+528	16419642	187	192	SequenceVariant	S810L	rs41511344
+529	16419642	254	280	GeneOrGeneProduct	mineralocorticoid receptor	4306
+530	16419642	282	284	GeneOrGeneProduct	MR	4306
+531	16419642	299	304	GeneOrGeneProduct	NR3C2	4306
+532	16419642	337	349	DiseaseOrPhenotypicFeature	hypertension	D006973
+533	16419642	519	531	DiseaseOrPhenotypicFeature	hypertension	D006973
+534	16419642	576	584	OrganismTaxon	patients	9606
+535	16419642	590	602	DiseaseOrPhenotypicFeature	hypertension	D006973
+536	16419642	611	616	SequenceVariant	S810L	rs41511344
+537	16419642	643	645	GeneOrGeneProduct	MR	4306
+538	16419642	671	676	SequenceVariant	S810L	rs41511344
+539	16419642	693	705	DiseaseOrPhenotypicFeature	hypertensive	D006973
+540	16419642	734	739	SequenceVariant	S810L	rs41511344
+541	16419642	786	808	DiseaseOrPhenotypicFeature	essential hypertension	D000075222
+542	16419642	872	877	SequenceVariant	F826Y	rs13306592
+543	16419642	888	896	OrganismTaxon	patients	9606
+544	16419642	1010	1015	SequenceVariant	L809L	rs145670736
+545	16419642	1022	1027	SequenceVariant	F826Y	rs13306592
+546	16419642	1055	1057	GeneOrGeneProduct	MR	4306
+547	16419642	1123	1128	SequenceVariant	F826Y	rs13306592
+548	16419642	1179	1192	DiseaseOrPhenotypicFeature	hypertensives	D006973
+549	16419642	1315	1320	SequenceVariant	F826Y	rs13306592
+550	16419642	1337	1349	DiseaseOrPhenotypicFeature	hypertensive	D006973
+551	16419642	1380	1392	DiseaseOrPhenotypicFeature	hypertensive	D006973
+552	16419642	1561	1573	DiseaseOrPhenotypicFeature	hypertension	D006973
+553	16419642	1628	1633	SequenceVariant	F826Y	rs13306592
+554	16419642	1683	1709	GeneOrGeneProduct	mineralocorticoid receptor	4306
+555	16419642	1821	1823	GeneOrGeneProduct	MR	4306
+556	16629641	29	35	DiseaseOrPhenotypicFeature	anemia	D000740
+557	16629641	39	47	OrganismTaxon	patients	9606
+558	16629641	48	79	DiseaseOrPhenotypicFeature	infected with hepatitis C virus	D006526
+559	16629641	81	121	DiseaseOrPhenotypicFeature	Chronic infection with hepatitis C virus	D019698
+560	16629641	123	126	OrganismTaxon	HCV	11103
+561	16629641	144	153	DiseaseOrPhenotypicFeature	cirrhosis	D005355
+562	16629641	155	179	DiseaseOrPhenotypicFeature	hepatocellular carcinoma	D006528
+563	16629641	185	208	DiseaseOrPhenotypicFeature	end-stage liver disease	D058625
+564	16629641	241	254	DiseaseOrPhenotypicFeature	HCV infection	D006526
+565	16629641	283	303	GeneOrGeneProduct	pegylated interferon	3439
+566	16629641	308	317	ChemicalEntity	ribavirin	D012254
+567	16629641	411	419	OrganismTaxon	patients	9606
+568	16629641	475	491	DiseaseOrPhenotypicFeature	hemolytic anemia	D000743
+569	16629641	493	503	GeneOrGeneProduct	Hemoglobin	3039
+570	16629641	550	559	ChemicalEntity	ribavirin	D012254
+571	16629641	568	577	DiseaseOrPhenotypicFeature	hemolysis	D006461
+572	16629641	588	594	DiseaseOrPhenotypicFeature	anemia	D000740
+573	16629641	617	625	OrganismTaxon	patients	9606
+574	16629641	631	644	DiseaseOrPhenotypicFeature	HCV infection	D006526
+575	16629641	681	714	DiseaseOrPhenotypicFeature	renal or cardiovascular disorders	D002318,D007674
+576	16629641	728	734	DiseaseOrPhenotypicFeature	anemia	D000740
+577	16629641	866	875	ChemicalEntity	ribavirin	D012254
+578	16629641	887	893	DiseaseOrPhenotypicFeature	anemia	D000740
+579	16629641	1034	1039	OrganismTaxon	human	9606
+580	16629641	1040	1054	GeneOrGeneProduct	erythropoietin	2056
+581	16629641	1079	1088	ChemicalEntity	ribavirin	D012254
+582	16629641	1100	1106	DiseaseOrPhenotypicFeature	anemia	D000740
+583	16629641	1146	1156	ChemicalEntity	Viramidine	C026956
+584	16629641	1187	1196	ChemicalEntity	ribavirin	D012254
+585	16629641	1254	1263	ChemicalEntity	ribavirin	D012254
+586	16629641	1293	1309	DiseaseOrPhenotypicFeature	hemolytic anemia	D000743
+587	16629641	1313	1321	OrganismTaxon	patients	9606
+588	16629641	1327	1346	DiseaseOrPhenotypicFeature	chronic hepatitis C	D019698
+589	16731636	9	22	ChemicalEntity	isoproterenol	D007545
+590	16731636	31	50	DiseaseOrPhenotypicFeature	cardiac hypertrophy	D006332
+591	16731636	65	69	OrganismTaxon	rats	10116
+592	16731636	85	100	GeneOrGeneProduct	angiotensinogen	24179
+593	16731636	168	173	GeneOrGeneProduct	renin	24715
+594	16731636	174	185	GeneOrGeneProduct	angiotensin	24179
+595	16731636	370	387	GeneOrGeneProduct	beta-adrenoceptor	24925
+596	16731636	389	396	GeneOrGeneProduct	beta-AR	24925
+597	16731636	406	419	ChemicalEntity	isoproterenol	D007545
+598	16731636	421	424	ChemicalEntity	Iso	D007545
+599	16731636	438	442	OrganismTaxon	rats	10116
+600	16731636	458	473	GeneOrGeneProduct	angiotensinogen	24179
+601	16731636	511	514	ChemicalEntity	Iso	D007545
+602	16731636	671	675	OrganismTaxon	rats	10116
+603	16731636	677	691	DiseaseOrPhenotypicFeature	LV hypertrophy	D006332
+604	16731636	703	706	ChemicalEntity	Iso	D007545
+605	16731636	760	764	OrganismTaxon	rats	10116
+606	16731636	854	868	DiseaseOrPhenotypicFeature	LV hypertrophy	D006332
+607	16731636	876	880	OrganismTaxon	rats	10116
+608	16731636	935	942	GeneOrGeneProduct	beta-AR	24925
+609	16731636	966	982	GeneOrGeneProduct	beta-AR kinase-1	25238
+610	16731636	1021	1025	OrganismTaxon	rats	10116
+611	16731636	1078	1085	GeneOrGeneProduct	beta-AR	24925
+612	16731636	1097	1107	ChemicalEntity	metoprolol	D008790
+613	16731636	1121	1125	OrganismTaxon	rats	10116
+614	16731636	1179	1183	OrganismTaxon	rats	10116
+615	16731636	1270	1278	ChemicalEntity	atropine	D001285
+616	16731636	1368	1375	GeneOrGeneProduct	beta-AR	24925
+617	16731636	1423	1434	DiseaseOrPhenotypicFeature	hypertrophy	D006984
+618	16737910	56	60	GeneOrGeneProduct	ETV6	2120
+619	16737910	62	65	GeneOrGeneProduct	TEL	2120
+620	16737910	76	80	GeneOrGeneProduct	ETV6	2120
+621	16737910	85	111	GeneOrGeneProduct	Translocation-Ets-Leukemia	2120
+622	16737910	113	116	GeneOrGeneProduct	TEL	2120
+623	16737910	296	301	OrganismTaxon	human	9606
+624	16737910	302	308	DiseaseOrPhenotypicFeature	cancer	D009369
+625	16737910	310	314	GeneOrGeneProduct	ETV6	2120
+626	16737910	478	482	GeneOrGeneProduct	ETV6	2120
+627	16737910	629	633	GeneOrGeneProduct	ETV6	2120
+628	16737910	635	639	GeneOrGeneProduct	ETV6	2120
+629	16737910	836	840	GeneOrGeneProduct	ETV6	2120
+630	16737910	899	917	GeneOrGeneProduct	beta-galactosidase	2720
+631	16737910	1063	1067	GeneOrGeneProduct	ETV6	2120
+632	16755009	46	59	OrganismTaxon	Daucus carota	4039
+633	16755009	81	103	DiseaseOrPhenotypicFeature	cognitive dysfunctions	D003072
+634	16755009	165	178	OrganismTaxon	Daucus carota	4039
+635	16755009	221	232	ChemicalEntity	cholesterol	D002784
+636	16755009	250	264	GeneOrGeneProduct	cholinesterase	12038
+637	16755009	277	281	OrganismTaxon	mice	10090
+638	16755009	297	327	ChemicalEntity	extract of Daucus carota seeds	D010936
+639	16755009	329	332	ChemicalEntity	DCE	D010936
+640	16755009	459	463	OrganismTaxon	mice	10090
+641	16755009	582	590	ChemicalEntity	Diazepam	D003975
+642	16755009	593	604	ChemicalEntity	scopolamine	D012601
+643	16755009	625	632	DiseaseOrPhenotypicFeature	amnesia	D000647
+644	16755009	680	683	ChemicalEntity	DCE	D010936
+645	16755009	773	777	OrganismTaxon	mice	10090
+646	16755009	822	825	ChemicalEntity	DCE	D010936
+647	16755009	901	905	OrganismTaxon	mice	10090
+648	16755009	1042	1046	OrganismTaxon	mice	10090
+649	16755009	1061	1064	ChemicalEntity	DCE	D010936
+650	16755009	1078	1085	DiseaseOrPhenotypicFeature	amnesia	D000647
+651	16755009	1097	1108	ChemicalEntity	scopolamine	D012601
+652	16755009	1131	1139	ChemicalEntity	diazepam	D003975
+653	16755009	1157	1178	ChemicalEntity	Daucus carota extract	D010936
+654	16755009	1234	1254	GeneOrGeneProduct	acetylcholinesterase	11423
+655	16755009	1268	1279	ChemicalEntity	cholesterol	D002784
+656	16755009	1305	1309	OrganismTaxon	mice	10090
+657	16755009	1345	1359	GeneOrGeneProduct	cholinesterase	12038
+658	16755009	1379	1382	ChemicalEntity	DCE	D010936
+659	16755009	1441	1445	OrganismTaxon	mice	10090
+660	16755009	1489	1500	ChemicalEntity	cholesterol	D002784
+661	16755009	1588	1591	ChemicalEntity	DCE	D010936
+662	16755009	1604	1607	ChemicalEntity	DCE	D010936
+663	16755009	1662	1684	DiseaseOrPhenotypicFeature	cognitive dysfunctions	D003072
+664	16755009	1771	1782	ChemicalEntity	cholesterol	D002784
+665	16822828	27	35	OrganismTaxon	patients	9606
+666	16822828	41	71	DiseaseOrPhenotypicFeature	17alpha-hydroxylase deficiency	C538237
+667	16822828	180	185	GeneOrGeneProduct	CYP17	1586
+668	16822828	206	236	DiseaseOrPhenotypicFeature	17alpha-Hydroxylase deficiency	C538237
+669	16822828	255	285	DiseaseOrPhenotypicFeature	congenital adrenal hyperplasia	D000312
+670	16822828	296	301	GeneOrGeneProduct	CYP17	1586
+671	16822828	342	350	OrganismTaxon	patients	9606
+672	16822828	356	386	DiseaseOrPhenotypicFeature	17alpha-hydroxylase deficiency	C538237
+673	16822828	403	411	OrganismTaxon	PATIENTS	9606
+674	16822828	422	430	OrganismTaxon	patients	9606
+675	16822828	511	541	DiseaseOrPhenotypicFeature	17alpha-hydroxylase deficiency	C538237
+676	16822828	660	665	GeneOrGeneProduct	CYP17	1586
+677	16822828	708	716	OrganismTaxon	patients	9606
+678	16822828	730	736	SequenceVariant	V311fs	p|FS|V|311||
+679	16822828	741	747	SequenceVariant	Y329fs	p|FS|Y|329||
+680	16822828	788	794	SequenceVariant	V311fs	p|FS|V|311||
+681	16822828	801	836	SequenceVariant	8-bp nucleotide (TTAAATGG) deletion	c|DEL||TTAAATGG
+682	16822828	848	854	SequenceVariant	Y329fs	p|FS|Y|329||
+683	16822828	897	920	SequenceVariant	(TAC-->AA) at codon 329	c|SUB|TAC|CODON329|AA
+684	16822828	952	958	SequenceVariant	Y329fs	p|FS|Y|329||
+685	16822828	993	999	SequenceVariant	Y329fs	p|FS|Y|329||
+686	16822828	1004	1010	SequenceVariant	V311fs	p|FS|V|311||
+687	16822828	1089	1112	SequenceVariant	D487_S488_F489 deletion	p|DEL|487_489|DSF
+688	16822828	1223	1253	DiseaseOrPhenotypicFeature	17alpha-hydroxylase deficiency	C538237
+689	16822828	1259	1282	SequenceVariant	D487_S488_F489 deletion	p|DEL|487_489|DSF
+690	16822828	1474	1479	GeneOrGeneProduct	CYP17	1586
+691	16822828	1538	1544	SequenceVariant	Y329fs	p|FS|Y|329||
+692	16822828	1672	1677	GeneOrGeneProduct	CYP17	1586
+693	16822828	1723	1731	OrganismTaxon	patients	9606
+694	16822828	1779	1785	SequenceVariant	Y329fs	p|FS|Y|329||
+695	16822828	1859	1889	DiseaseOrPhenotypicFeature	17alpha-hydroxylase deficiency	C538237
+696	16904497	0	21	DiseaseOrPhenotypicFeature	Cauda equina syndrome	D011128
+697	16904497	37	44	ChemicalEntity	steroid	D013256
+698	16904497	128	141	DiseaseOrPhenotypicFeature	radiculopathy	D011843
+699	16904497	173	180	ChemicalEntity	steroid	D013256
+700	16904497	244	265	DiseaseOrPhenotypicFeature	Cauda equina syndrome	D011128
+701	16904497	347	368	DiseaseOrPhenotypicFeature	cauda equina syndrome	D011128
+702	16904497	410	423	ChemicalEntity	triamcinolone	D014221
+703	16904497	428	439	ChemicalEntity	bupivacaine	D002045
+704	16904497	474	479	OrganismTaxon	woman	9606
+705	16904497	485	512	DiseaseOrPhenotypicFeature	low back and right leg pain	D010146,D017116
+706	16904497	540	547	ChemicalEntity	steroid	D013256
+707	16904497	808	819	ChemicalEntity	bupivacaine	D002045
+708	16904497	824	847	ChemicalEntity	triamcinolone diacetate	C030262
+709	16904497	975	983	DiseaseOrPhenotypicFeature	numbness	D006987
+710	16904497	988	1012	DiseaseOrPhenotypicFeature	lower extremity weakness	D020335
+711	16904497	1049	1066	DiseaseOrPhenotypicFeature	loss of sensation	D006987
+712	16904497	1275	1282	OrganismTaxon	patient	9606
+713	16904497	1538	1545	ChemicalEntity	steroid	D013256
+714	16904497	1616	1640	DiseaseOrPhenotypicFeature	neurologic deterioration	D009422
+715	16904497	1656	1663	ChemicalEntity	steroid	D013256
+716	16970763	17	20	GeneOrGeneProduct	NDP	4693
+717	16970763	43	57	DiseaseOrPhenotypicFeature	Norrie disease	C537849
+718	16970763	59	95	DiseaseOrPhenotypicFeature	familial exudative vitreoretinopathy	D000080345
+719	16970763	100	126	DiseaseOrPhenotypicFeature	retinopathy of prematurity	D012178
+720	16970763	192	206	DiseaseOrPhenotypicFeature	Norrie disease	C537849
+721	16970763	208	211	GeneOrGeneProduct	NDP	4693
+722	16970763	244	275	DiseaseOrPhenotypicFeature	retinal diseases Norrie disease	C537849
+723	16970763	277	322	DiseaseOrPhenotypicFeature	X-linked familial exudative vitreoretinopathy	D000080345
+724	16970763	324	328	DiseaseOrPhenotypicFeature	FEVR	D000080345
+725	16970763	331	345	DiseaseOrPhenotypicFeature	Coat's disease	D058456
+726	16970763	350	376	DiseaseOrPhenotypicFeature	retinopathy of prematurity	D012178
+727	16970763	378	381	DiseaseOrPhenotypicFeature	ROP	D012178
+728	16970763	417	428	DiseaseOrPhenotypicFeature	Norrie-FEVR	C537849
+729	16970763	434	448	DiseaseOrPhenotypicFeature	Coat's disease	D058456
+730	16970763	453	456	DiseaseOrPhenotypicFeature	ROP	D012178
+731	16970763	457	465	OrganismTaxon	patients	9606
+732	16970763	600	603	GeneOrGeneProduct	NDP	4693
+733	16970763	936	939	GeneOrGeneProduct	NDP	4693
+734	16970763	960	969	SequenceVariant	Leu103Val	p|SUB|L|103|V
+735	16970763	977	981	DiseaseOrPhenotypicFeature	FEVR	D000080345
+736	16970763	982	989	OrganismTaxon	patient	9606
+737	16970763	994	1002	SequenceVariant	His43Arg	p|SUB|H|43|R
+738	16970763	1023	1037	DiseaseOrPhenotypicFeature	Norrie disease	C537849
+739	16970763	1038	1046	OrganismTaxon	patients	9606
+740	16970763	1084	1098	SequenceVariant	14-bp deletion	c|DEL||14
+741	16970763	1145	1148	GeneOrGeneProduct	NDP	4693
+742	16970763	1195	1198	DiseaseOrPhenotypicFeature	ROP	D012178
+743	16970763	1223	1237	SequenceVariant	14-bp deletion	c|DEL||14
+744	16970763	1306	1317	DiseaseOrPhenotypicFeature	Norrie-FEVR	C537849
+745	16970763	1355	1369	DiseaseOrPhenotypicFeature	Norrie disease	C537849
+746	16970763	1375	1383	DiseaseOrPhenotypicFeature	deafness	D003638
+747	16970763	1388	1406	DiseaseOrPhenotypicFeature	mental retardation	D008607
+748	16970763	1472	1475	GeneOrGeneProduct	NDP	4693
+749	16970763	1544	1558	DiseaseOrPhenotypicFeature	Norrie disease	C537849
+750	16970763	1578	1582	DiseaseOrPhenotypicFeature	FEVR	D000080345
+751	16970763	1664	1667	DiseaseOrPhenotypicFeature	ROP	D012178
+752	16970763	1710	1721	DiseaseOrPhenotypicFeature	prematurity	D007235
+753	16970763	1738	1744	ChemicalEntity	oxygen	D010100
+754	16970763	1773	1791	DiseaseOrPhenotypicFeature	retinal detachment	D012163
+755	16970763	1837	1851	DiseaseOrPhenotypicFeature	Norrie disease	C537849
+756	17000021	27	36	SequenceVariant	-1123 G>C	rs2488457
+757	17000021	40	49	SequenceVariant	+2740 A>G	rs1217412
+758	17000021	81	87	GeneOrGeneProduct	PTPN22	26191
+759	17000021	93	108	DiseaseOrPhenotypicFeature	type 1 diabetes	D003922
+760	17000021	113	142	DiseaseOrPhenotypicFeature	juvenile idiopathic arthritis	D001171
+761	17000021	191	197	GeneOrGeneProduct	PTPN22	26191
+762	17000021	250	258	SequenceVariant	+1858C>T	rs2476601
+763	17000021	260	265	SequenceVariant	R620W	rs2476601
+764	17000021	333	352	DiseaseOrPhenotypicFeature	autoimmune diseases	D001327
+765	17000021	364	379	DiseaseOrPhenotypicFeature	type 1 diabetes	D003922
+766	17000021	381	384	DiseaseOrPhenotypicFeature	T1D	D003922
+767	17000021	390	419	DiseaseOrPhenotypicFeature	juvenile idiopathic arthritis	D001171
+768	17000021	421	424	DiseaseOrPhenotypicFeature	JIA	D001171
+769	17000021	712	718	GeneOrGeneProduct	PTPN22	26191
+770	17000021	789	792	DiseaseOrPhenotypicFeature	T1D	D003922
+771	17000021	802	805	DiseaseOrPhenotypicFeature	JIA	D001171
+772	17000021	823	826	DiseaseOrPhenotypicFeature	T1D	D003922
+773	17000021	900	909	SequenceVariant	rs2488457	rs2488457
+774	17000021	919	928	SequenceVariant	rs2476601	rs2476601
+775	17000021	934	939	SequenceVariant	R620W	rs2476601
+776	17000021	966	975	SequenceVariant	rs1217412	rs1217412
+777	17000021	1049	1052	DiseaseOrPhenotypicFeature	T1D	D003922
+778	17000021	1072	1075	DiseaseOrPhenotypicFeature	JIA	D001171
+779	17000021	1144	1147	DiseaseOrPhenotypicFeature	T1D	D003922
+780	17000021	1549	1572	SequenceVariant	(W) allele at codon 620	rs2476601
+781	17000021	1593	1596	DiseaseOrPhenotypicFeature	T1D	D003922
+782	17000021	1672	1675	DiseaseOrPhenotypicFeature	JIA	D001171
+783	17000021	1751	1774	SequenceVariant	(R) allele at codon 620	rs2476601
+784	17000021	1846	1867	DiseaseOrPhenotypicFeature	autoimmune conditions	D001327
+785	17000021	2099	2105	GeneOrGeneProduct	PTPN22	26191
+786	17033974	26	33	ChemicalEntity	calcium	D002118
+787	17033974	50	58	GeneOrGeneProduct	CACNA2D4	93589
+788	17033974	86	100	DiseaseOrPhenotypicFeature	cone dystrophy	D000077765
+789	17033974	183	190	ChemicalEntity	calcium	D002118
+790	17033974	297	305	GeneOrGeneProduct	Cacna2d4	319734
+791	17033974	328	333	OrganismTaxon	mouse	10090
+792	17033974	450	458	GeneOrGeneProduct	Cacna2d4	319734
+793	17033974	475	543	GeneOrGeneProduct	l-type calcium-channel auxiliary subunit of the alpha (2) delta type	781
+794	17033974	562	567	OrganismTaxon	human	9606
+795	17033974	580	588	GeneOrGeneProduct	CACNA2D4	93589
+796	17033974	679	687	OrganismTaxon	patients	9606
+797	17033974	725	740	DiseaseOrPhenotypicFeature	night blindness	D009755
+798	17033974	823	834	SequenceVariant	c.2406C-->A	rs71454844
+799	17033974	839	847	GeneOrGeneProduct	CACNA2D4	93589
+800	17033974	967	975	OrganismTaxon	patients	9606
+801	17033974	1013	1027	DiseaseOrPhenotypicFeature	cone dystrophy	D000077765
+802	17033974	1092	1097	OrganismTaxon	human	9606
+803	17033974	1098	1106	GeneOrGeneProduct	CACNA2D4	93589
+804	17033974	1175	1189	DiseaseOrPhenotypicFeature	cone dystrophy	D000077765
+805	17273972	0	5	OrganismTaxon	Human	9606
+806	17273972	6	10	GeneOrGeneProduct	TBX1	6899
+807	17273972	88	105	DiseaseOrPhenotypicFeature	22q11.2 deletions	D004062
+808	17273972	107	132	DiseaseOrPhenotypicFeature	Deletion 22q11.2 syndrome	D004062
+809	17273972	245	297	DiseaseOrPhenotypicFeature	DiGeorge and Shprintzen (velocardiofacial) syndromes	D004062
+810	17273972	334	360	GeneOrGeneProduct	T-box transcription factor	6899
+811	17273972	366	370	GeneOrGeneProduct	TBX1	6899
+812	17273972	454	458	GeneOrGeneProduct	TBX1	6899
+813	17273972	527	552	DiseaseOrPhenotypicFeature	22q11.2 deletion syndrome	D004062
+814	17273972	749	754	SequenceVariant	H194Q	rs74315522
+815	17273972	778	797	DiseaseOrPhenotypicFeature	Shprintzen syndrome	D004062
+816	17273972	988	992	GeneOrGeneProduct	TBX1	6899
+817	17286451	0	14	DiseaseOrPhenotypicFeature	Retinoblastoma	D012175
+818	17286451	230	233	GeneOrGeneProduct	RB1	5925
+819	17286451	278	284	DiseaseOrPhenotypicFeature	tumors	D009369
+820	17286451	288	296	OrganismTaxon	patients	9606
+821	17286451	344	347	GeneOrGeneProduct	RB1	5925
+822	17286451	474	488	DiseaseOrPhenotypicFeature	retinoblastoma	D012175
+823	17286451	490	492	DiseaseOrPhenotypicFeature	RB	D012175
+824	17286451	548	554	DiseaseOrPhenotypicFeature	tumors	D009369
+825	17286451	561	563	DiseaseOrPhenotypicFeature	RB	D012175
+826	17286451	564	572	OrganismTaxon	patients	9606
+827	17286451	669	672	GeneOrGeneProduct	RB1	5925
+828	17286451	867	872	DiseaseOrPhenotypicFeature	tumor	D009369
+829	17286451	895	897	DiseaseOrPhenotypicFeature	RB	D012175
+830	17286451	898	906	OrganismTaxon	patients	9606
+831	17286451	914	922	OrganismTaxon	patients	9606
+832	17286451	1026	1028	DiseaseOrPhenotypicFeature	RB	D012175
+833	17286451	1029	1037	OrganismTaxon	patients	9606
+834	17286451	1070	1073	GeneOrGeneProduct	RB1	5925
+835	17286451	1112	1114	DiseaseOrPhenotypicFeature	RB	D012175
+836	17286451	1115	1123	OrganismTaxon	patients	9606
+837	17286451	1316	1319	GeneOrGeneProduct	RB1	5925
+838	17286451	1357	1362	DiseaseOrPhenotypicFeature	tumor	D009369
+839	17286451	1400	1403	GeneOrGeneProduct	RB1	5925
+840	17286451	1578	1580	DiseaseOrPhenotypicFeature	RB	D012175
+841	17318851	0	30	GeneOrGeneProduct	Interferon regulatory factor 6	3664
+842	17318851	32	36	GeneOrGeneProduct	IRF6	3664
+843	17318851	42	77	GeneOrGeneProduct	fibroblast growth factor receptor 1	2260
+844	17318851	79	84	GeneOrGeneProduct	FGFR1	2260
+845	17318851	100	105	OrganismTaxon	human	9606
+846	17318851	106	120	DiseaseOrPhenotypicFeature	tooth agenesis	D000848
+847	17318851	301	323	DiseaseOrPhenotypicFeature	craniofacial syndromes	D019465
+848	17318851	325	330	GeneOrGeneProduct	FGFR1	2260
+849	17318851	335	339	GeneOrGeneProduct	IRF6	3664
+850	17318851	383	397	DiseaseOrPhenotypicFeature	tooth agenesis	D000848
+851	17318851	856	860	GeneOrGeneProduct	IRF6	3664
+852	17318851	900	916	DiseaseOrPhenotypicFeature	orofacial clefts	C566121
+853	17318851	942	947	OrganismTaxon	human	9606
+854	17318851	948	962	DiseaseOrPhenotypicFeature	tooth agenesis	D000848
+855	17318851	964	972	SequenceVariant	rs861019	rs861019
+856	17318851	985	995	SequenceVariant	rs17015215	rs17015215
+857	17318851	996	1001	SequenceVariant	V274I	rs2235371
+858	17318851	1015	1021	SequenceVariant	rs7802	rs7802
+859	17318851	1048	1052	GeneOrGeneProduct	IRF6	3664
+860	17318851	1059	1106	DiseaseOrPhenotypicFeature	Van der Woude and popliteal pterygium syndromes	C536528,C562509
+861	17318851	1179	1190	DiseaseOrPhenotypicFeature	oral clefts	D002972
+862	17318851	1208	1222	DiseaseOrPhenotypicFeature	tooth agenesis	D000848
+863	17318851	1258	1280	DiseaseOrPhenotypicFeature	pits on the lower lips	C536528,C562509
+864	17318851	1353	1358	GeneOrGeneProduct	FGFR1	2260
+865	17318851	1375	1379	GeneOrGeneProduct	IRF6	3664
+866	17318851	1459	1463	GeneOrGeneProduct	IRF6	3664
+867	17318851	1488	1492	GeneOrGeneProduct	MSX1	4487
+868	17318851	1520	1524	GeneOrGeneProduct	TGFA	7039
+869	17327131	26	32	GeneOrGeneProduct	CYP2F1	1572
+870	17327131	104	110	GeneOrGeneProduct	CYP2F1	1572
+871	17327131	116	121	OrganismTaxon	human	9606
+872	17327131	122	137	GeneOrGeneProduct	cytochrome P450	1572
+873	17327131	256	268	DiseaseOrPhenotypicFeature	carcinogenic	D009369
+874	17327131	433	439	GeneOrGeneProduct	CYP2F1	1572
+875	17327131	503	511	OrganismTaxon	patients	9606
+876	17327131	517	528	DiseaseOrPhenotypicFeature	lung cancer	D008175
+877	17327131	822	828	GeneOrGeneProduct	CYP2F1	1572
+878	17327131	862	868	GeneOrGeneProduct	CYP2F1	1572
+879	17327131	958	964	GeneOrGeneProduct	CYP2F1	1572
+880	17327131	1047	1056	SequenceVariant	Asp218Asn	rs305974
+881	17327131	1061	1070	SequenceVariant	Gln266His	rs75405062
+882	17327131	1078	1092	SequenceVariant	1-bp insertion	rs11399890
+883	17327131	1094	1105	SequenceVariant	c.14_15insC	rs11399890
+884	17327131	1413	1419	GeneOrGeneProduct	CYP2F1	1572
+885	17327131	1675	1681	GeneOrGeneProduct	CYP2F1	1572
+886	17327131	1743	1754	DiseaseOrPhenotypicFeature	lung cancer	D008175
+887	17384765	0	8	ChemicalEntity	Succimer	D004113
+888	17384765	75	79	ChemicalEntity	lead	D007854
+889	17384765	88	92	OrganismTaxon	rats	10116
+890	17384765	114	134	DiseaseOrPhenotypicFeature	cognitive impairment	D003072
+891	17384765	153	157	ChemicalEntity	lead	D007854
+892	17384765	284	288	ChemicalEntity	lead	D007854
+893	17384765	387	389	ChemicalEntity	Pb	D007854
+894	17384765	505	507	ChemicalEntity	Pb	D007854
+895	17384765	628	630	ChemicalEntity	Pb	D007854
+896	17384765	659	667	ChemicalEntity	succimer	D004113
+897	17384765	720	732	DiseaseOrPhenotypicFeature	Pb poisoning	D007855
+898	17384765	743	745	ChemicalEntity	Pb	D007854
+899	17384765	772	850	DiseaseOrPhenotypicFeature	impairments in learning, attention, inhibitory control, and arousal regulation	D007859,D019958
+900	17384765	897	899	ChemicalEntity	Pb	D007854
+901	17384765	918	926	ChemicalEntity	Succimer	D004113
+902	17384765	944	946	ChemicalEntity	Pb	D007854
+903	17384765	955	959	OrganismTaxon	rats	10116
+904	17384765	1095	1097	ChemicalEntity	Pb	D007854
+905	17384765	1163	1171	ChemicalEntity	succimer	D004113
+906	17384765	1185	1189	OrganismTaxon	rats	10116
+907	17384765	1216	1218	ChemicalEntity	Pb	D007854
+908	17384765	1250	1285	DiseaseOrPhenotypicFeature	cognitive and affective dysfunction	D003072,D019964
+909	17384765	1341	1343	ChemicalEntity	Pb	D007854
+910	17384765	1481	1499	DiseaseOrPhenotypicFeature	cognitive deficits	D003072
+911	17384765	1507	1509	ChemicalEntity	Pb	D007854
+912	17384765	1581	1589	ChemicalEntity	succimer	D004113
+913	17384765	1645	1647	ChemicalEntity	Pb	D007854
+914	17384765	1698	1706	ChemicalEntity	succimer	D004113
+915	17384765	1803	1805	ChemicalEntity	Pb	D007854
+916	17391797	4	48	GeneOrGeneProduct	phosphatidylethanolamine N-methyltransferase	10400
+917	17391797	54	59	SequenceVariant	V175M	rs7946
+918	17391797	121	125	DiseaseOrPhenotypicFeature	NASH	D065626
+919	17391797	216	244	DiseaseOrPhenotypicFeature	nonalcoholic steatohepatitis	D065626
+920	17391797	246	250	DiseaseOrPhenotypicFeature	NASH	D065626
+921	17391797	306	315	SequenceVariant	Val175Met	rs7946
+922	17391797	332	376	GeneOrGeneProduct	phosphatidylethanolamine N-methyltransferase	10400
+923	17391797	378	382	GeneOrGeneProduct	PEMT	10400
+924	17391797	417	441	ChemicalEntity	phosphatidylethanolamine	D010714
+925	17391797	445	464	ChemicalEntity	phosphatidylcholine	D010713
+926	17391797	531	540	SequenceVariant	Val175Met	rs7946
+927	17391797	561	565	GeneOrGeneProduct	PEMT	10400
+928	17391797	599	603	DiseaseOrPhenotypicFeature	NASH	D065626
+929	17391797	635	643	OrganismTaxon	patients	9606
+930	17391797	663	667	DiseaseOrPhenotypicFeature	NASH	D065626
+931	17391797	806	815	SequenceVariant	Val175Met	rs7946
+932	17391797	838	842	GeneOrGeneProduct	PEMT	10400
+933	17391797	883	887	DiseaseOrPhenotypicFeature	NASH	D065626
+934	17391797	888	896	OrganismTaxon	patients	9606
+935	17391797	951	960	SequenceVariant	Val175Met	rs7946
+936	17391797	1005	1009	DiseaseOrPhenotypicFeature	NASH	D065626
+937	17391797	1010	1018	OrganismTaxon	patients	9606
+938	17391797	1062	1066	DiseaseOrPhenotypicFeature	NASH	D065626
+939	17391797	1067	1075	OrganismTaxon	patients	9606
+940	17391797	1135	1140	DiseaseOrPhenotypicFeature	obese	D009765
+941	17391797	1141	1149	OrganismTaxon	patients	9606
+942	17391797	1208	1217	SequenceVariant	Val175Met	rs7946
+943	17391797	1259	1263	GeneOrGeneProduct	PEMT	10400
+944	17391797	1278	1287	SequenceVariant	Val175Met	rs7946
+945	17391797	1299	1303	GeneOrGeneProduct	PEMT	10400
+946	17391797	1372	1376	DiseaseOrPhenotypicFeature	NASH	D065626
+947	17391797	1420	1424	DiseaseOrPhenotypicFeature	NASH	D065626
+948	17391797	1425	1433	OrganismTaxon	patients	9606
+949	17391797	1442	1447	DiseaseOrPhenotypicFeature	obese	D009765
+950	17391797	1461	1470	SequenceVariant	Val175Met	rs7946
+951	17391797	1482	1486	GeneOrGeneProduct	PEMT	10400
+952	17391797	1514	1518	DiseaseOrPhenotypicFeature	NASH	D065626
+953	17495183	0	11	GeneOrGeneProduct	Tenomodulin	64102
+954	17495183	31	38	DiseaseOrPhenotypicFeature	obesity	D009765
+955	17495183	43	51	DiseaseOrPhenotypicFeature	diabetes	D003920
+956	17495183	70	78	DiseaseOrPhenotypicFeature	diabetes	D003920
+957	17495183	205	215	DiseaseOrPhenotypicFeature	overweight	D050177
+958	17495183	233	259	DiseaseOrPhenotypicFeature	impaired glucose tolerance	D018149
+959	17495183	261	264	DiseaseOrPhenotypicFeature	IGT	D018149
+960	17495183	313	324	GeneOrGeneProduct	tenomodulin	64102
+961	17495183	326	330	GeneOrGeneProduct	TNMD	64102
+962	17495183	472	481	DiseaseOrPhenotypicFeature	adiposity	D009765
+963	17495183	483	490	ChemicalEntity	glucose	D005947
+964	17495183	519	534	DiseaseOrPhenotypicFeature	type 2 diabetes	D003924
+965	17495183	536	539	DiseaseOrPhenotypicFeature	T2D	D003924
+966	17495183	663	671	DiseaseOrPhenotypicFeature	Diabetes	D003920
+967	17495183	804	813	DiseaseOrPhenotypicFeature	adiposity	D009765
+968	17495183	817	822	OrganismTaxon	women	9606
+969	17495183	824	833	SequenceVariant	rs5966709	rs5966709
+970	17495183	835	844	SequenceVariant	rs4828037	rs4828037
+971	17495183	850	853	OrganismTaxon	men	9606
+972	17495183	855	865	SequenceVariant	rs11798018	rs11798018
+973	17495183	876	885	SequenceVariant	rs2073163	rs2073163
+974	17495183	890	899	SequenceVariant	rs1155794	rs1155794
+975	17495183	953	960	ChemicalEntity	glucose	D005947
+976	17495183	971	974	OrganismTaxon	men	9606
+977	17495183	1039	1048	SequenceVariant	rs2073162	rs2073162
+978	17495183	1083	1086	DiseaseOrPhenotypicFeature	IGT	D018149
+979	17495183	1090	1093	DiseaseOrPhenotypicFeature	T2D	D003924
+980	17495183	1097	1100	OrganismTaxon	men	9606
+981	17495183	1125	1128	DiseaseOrPhenotypicFeature	T2D	D003924
+982	17495183	1221	1228	ChemicalEntity	glucose	D005947
+983	17495183	1282	1291	SequenceVariant	rs2073162	rs2073162
+984	17495183	1317	1326	SequenceVariant	rs2073163	rs2073163
+985	17495183	1356	1365	SequenceVariant	rs1155974	rs1155974
+986	17495183	1396	1400	GeneOrGeneProduct	TNMD	64102
+987	17495183	1435	1444	DiseaseOrPhenotypicFeature	adiposity	D009765
+988	17495183	1459	1466	ChemicalEntity	glucose	D005947
+989	17495183	1498	1501	DiseaseOrPhenotypicFeature	IGT	D018149
+990	17495183	1505	1508	DiseaseOrPhenotypicFeature	T2D	D003924
+991	17495183	1512	1515	OrganismTaxon	men	9606
+992	17572393	27	36	ChemicalEntity	melatonin	D008550
+993	17572393	81	84	OrganismTaxon	rat	10116
+994	17572393	94	98	ChemicalEntity	BCNU	D002330
+995	17572393	107	125	DiseaseOrPhenotypicFeature	cortical dysplasia	D054220
+996	17572393	127	145	DiseaseOrPhenotypicFeature	Cortical dysplasia	D054220
+997	17572393	298	301	OrganismTaxon	rat	10116
+998	17572393	345	355	ChemicalEntity	carmustine	D002330
+999	17572393	357	393	ChemicalEntity	1,3-bis (2-chloroethyl)-1-nitrosoure	D002330
+1000	17572393	396	400	ChemicalEntity	BCNU	D002330
+1001	17572393	446	455	ChemicalEntity	melatonin	D008550
+1002	17572393	472	476	ChemicalEntity	BCNU	D002330
+1003	17572393	485	503	DiseaseOrPhenotypicFeature	cortical dysplasia	D054220
+1004	17572393	566	570	OrganismTaxon	rats	10116
+1005	17572393	633	642	ChemicalEntity	melatonin	D008550
+1006	17572393	652	656	ChemicalEntity	BCNU	D002330
+1007	17572393	669	673	ChemicalEntity	BCNU	D002330
+1008	17572393	687	696	ChemicalEntity	melatonin	D008550
+1009	17572393	698	702	OrganismTaxon	Rats	10116
+1010	17572393	719	723	ChemicalEntity	BCNU	D002330
+1011	17572393	748	757	ChemicalEntity	melatonin	D008550
+1012	17572393	890	905	ChemicalEntity	malondialdehyde	D008315
+1013	17572393	910	920	ChemicalEntity	superoxide	D013481
+1014	17572393	1117	1121	ChemicalEntity	BCNU	D002330
+1015	17572393	1130	1148	DiseaseOrPhenotypicFeature	cortical dysplasia	D054220
+1016	17572393	1251	1255	ChemicalEntity	BCNU	D002330
+1017	17572393	1307	1338	GeneOrGeneProduct	glial fibrillary acidic protein	24387
+1018	17572393	1340	1353	GeneOrGeneProduct	synaptophysin	24804
+1019	17572393	1358	1390	GeneOrGeneProduct	transforming growth factor beta1	59086
+1020	17572393	1442	1451	ChemicalEntity	melatonin	D008550
+1021	17572393	1490	1505	ChemicalEntity	Malondialdehyde	D008315
+1022	17572393	1515	1519	ChemicalEntity	BCNU	D002330
+1023	17572393	1578	1587	ChemicalEntity	melatonin	D008550
+1024	17572393	1598	1613	ChemicalEntity	malondialdehyde	D008315
+1025	17572393	1624	1628	ChemicalEntity	BCNU	D002330
+1026	17572393	1696	1716	GeneOrGeneProduct	superoxide dismutase	24786
+1027	17572393	1793	1797	ChemicalEntity	BCNU	D002330
+1028	17572393	1871	1880	ChemicalEntity	melatonin	D008550
+1029	17572393	1928	1932	ChemicalEntity	BCNU	D002330
+1030	17935240	33	62	DiseaseOrPhenotypicFeature	X-linked retinitis pigmentosa	D012174
+1031	17935240	68	90	SequenceVariant	g.ORF15 + 652-653delAG	g|DEL|ORF15+652_653|AG
+1032	17935240	107	111	GeneOrGeneProduct	RPGR	6103
+1033	17935240	150	179	DiseaseOrPhenotypicFeature	X-linked retinitis pigmentosa	D012174
+1034	17935240	181	185	DiseaseOrPhenotypicFeature	XLRP	D012174
+1035	17935240	270	274	DiseaseOrPhenotypicFeature	XLRP	D012174
+1036	17935240	305	307	DiseaseOrPhenotypicFeature	RP	D012174
+1037	17935240	431	435	GeneOrGeneProduct	RPGR	6103
+1038	17935240	740	762	SequenceVariant	g.ORF15 + 652-653delAG	g|DEL|ORF15+652_653|AG
+1039	17935240	819	827	OrganismTaxon	patients	9606
+1040	17935240	1050	1087	SequenceVariant	AG-deletion at nucleotide 652 and 653	g|DEL|652_653|AG
+1041	17935240	1276	1281	OrganismTaxon	woman	9606
+1042	17935240	1319	1323	GeneOrGeneProduct	RPGR	6103
+1043	17935240	1409	1413	DiseaseOrPhenotypicFeature	XLRP	D012174
+1044	17935240	1493	1495	DiseaseOrPhenotypicFeature	RP	D012174
+1045	17935240	1545	1547	DiseaseOrPhenotypicFeature	RP	D012174
+1046	17962394	28	46	DiseaseOrPhenotypicFeature	X linked nystagmus	C580539
+1047	17962394	77	84	SequenceVariant	p.R229G	rs137852212
+1048	17962394	111	116	GeneOrGeneProduct	FRMD7	90167
+1049	17962394	173	187	DiseaseOrPhenotypicFeature	genetic defect	D030342
+1050	17962394	207	225	DiseaseOrPhenotypicFeature	X linked nystagmus	C580539
+1051	17962394	227	230	DiseaseOrPhenotypicFeature	NYS	C580539
+1052	17962394	352	357	GeneOrGeneProduct	FRMD7	90167
+1053	17962394	553	563	SequenceVariant	CAG repeat	c|DUP||CAG|
+1054	17962394	571	588	GeneOrGeneProduct	androgen receptor	367
+1055	17962394	660	663	DiseaseOrPhenotypicFeature	NYS	C580539
+1056	17962394	725	733	SequenceVariant	c.686C>G	rs137852212
+1057	17962394	789	835	SequenceVariant	arginine at amino acid position 229 by glycine	rs137852212
+1058	17962394	837	844	SequenceVariant	p.R229G	rs137852212
+1059	17962394	863	868	GeneOrGeneProduct	FRMD7	90167
+1060	17962394	1179	1186	SequenceVariant	p.R229G	rs137852212
+1061	17962394	1203	1208	GeneOrGeneProduct	FRMD7	90167
+1062	17962394	1225	1228	DiseaseOrPhenotypicFeature	NYS	C580539
+1063	17962394	1313	1325	DiseaseOrPhenotypicFeature	X linked NYS	C580539
+1064	18235024	0	44	DiseaseOrPhenotypicFeature	Cone dystrophy with supernormal rod response	C563678
+1065	18235024	86	91	GeneOrGeneProduct	KCNV2	169522
+1066	18235024	102	146	DiseaseOrPhenotypicFeature	Cone dystrophy with supernormal rod response	C563678
+1067	18235024	148	153	DiseaseOrPhenotypicFeature	CDSRR	C563678
+1068	18235024	160	176	DiseaseOrPhenotypicFeature	retinal disorder	D012164
+1069	18235024	217	237	DiseaseOrPhenotypicFeature	color vision defects	D003117
+1070	18235024	374	379	GeneOrGeneProduct	PDE6H	5149
+1071	18235024	387	392	GeneOrGeneProduct	KCNV2	169522
+1072	18235024	416	421	DiseaseOrPhenotypicFeature	CDSRR	C563678
+1073	18235024	490	498	OrganismTaxon	patients	9606
+1074	18235024	504	509	DiseaseOrPhenotypicFeature	CDSRR	C563678
+1075	18235024	558	566	OrganismTaxon	patients	9606
+1076	18235024	826	831	GeneOrGeneProduct	PDE6C	5146
+1077	18235024	836	841	GeneOrGeneProduct	KCNV2	169522
+1078	18235024	995	1000	GeneOrGeneProduct	PDE6H	5149
+1079	18235024	1020	1025	GeneOrGeneProduct	KCNV2	169522
+1080	18235024	1049	1057	OrganismTaxon	patients	9606
+1081	18235024	1351	1356	DiseaseOrPhenotypicFeature	CDSRR	C563678
+1082	18235024	1432	1452	DiseaseOrPhenotypicFeature	color vision defects	D003117
+1083	18235024	1526	1533	DiseaseOrPhenotypicFeature	atrophy	D001284
+1084	18235024	1555	1563	OrganismTaxon	patients	9606
+1085	18235024	1628	1636	OrganismTaxon	patients	9606
+1086	18235024	1688	1732	DiseaseOrPhenotypicFeature	cone dystrophy with supernormal rod response	C563678
+1087	18235024	1769	1774	GeneOrGeneProduct	KCNV2	169522
+1088	18408250	40	44	GeneOrGeneProduct	IRF5	3663
+1089	18408250	98	118	DiseaseOrPhenotypicFeature	rheumatoid arthritis	D001172
+1090	18408250	159	189	GeneOrGeneProduct	Interferon regulatory factor 5	3663
+1091	18408250	191	195	GeneOrGeneProduct	IRF5	3663
+1092	18408250	216	219	GeneOrGeneProduct	IRF	3663
+1093	18408250	286	311	GeneOrGeneProduct	proinflammatory cytokines	3553
+1094	18408250	334	338	GeneOrGeneProduct	IRF5	3663
+1095	18408250	388	417	DiseaseOrPhenotypicFeature	systemic lupus erythaematosus	D008180
+1096	18408250	419	422	DiseaseOrPhenotypicFeature	SLE	D008180
+1097	18408250	491	510	DiseaseOrPhenotypicFeature	autoimmune diseases	D001327
+1098	18408250	569	573	GeneOrGeneProduct	IRF5	3663
+1099	18408250	595	615	DiseaseOrPhenotypicFeature	rheumatoid arthritis	D001172
+1100	18408250	617	619	DiseaseOrPhenotypicFeature	RA	D001172
+1101	18408250	757	761	GeneOrGeneProduct	IRF5	3663
+1102	18408250	856	864	OrganismTaxon	patients	9606
+1103	18408250	870	872	DiseaseOrPhenotypicFeature	RA	D001172
+1104	18408250	908	916	OrganismTaxon	patients	9606
+1105	18408250	922	924	DiseaseOrPhenotypicFeature	RA	D001172
+1106	18408250	991	996	OrganismTaxon	human	9606
+1107	18408250	997	1025	GeneOrGeneProduct	leukocyte antigen (HLA)-DRB1	3123
+1108	18408250	1139	1147	SequenceVariant	rs729302	rs729302
+1109	18408250	1162	1164	DiseaseOrPhenotypicFeature	RA	D001172
+1110	18408250	1291	1299	OrganismTaxon	patients	9606
+1111	18408250	1331	1339	SequenceVariant	rs729302	rs729302
+1112	18408250	1387	1389	DiseaseOrPhenotypicFeature	RA	D001172
+1113	18408250	1393	1401	OrganismTaxon	patients	9606
+1114	18408250	1483	1491	OrganismTaxon	patients	9606
+1115	18408250	1626	1628	DiseaseOrPhenotypicFeature	RA	D001172
+1116	18408250	1649	1657	SequenceVariant	rs729302	rs729302
+1117	18408250	1759	1763	GeneOrGeneProduct	IRF5	3663
+1118	18408250	1813	1815	DiseaseOrPhenotypicFeature	RA	D001172
+1119	18408250	1881	1889	OrganismTaxon	patients	9606
+1120	18487244	59	67	OrganismTaxon	patients	9606
+1121	18487244	73	78	GeneOrGeneProduct	POLG1	5428
+1122	18487244	249	291	GeneOrGeneProduct	mitochondrial DNA (mtDNA) gamma polymerase	5428
+1123	18487244	293	298	GeneOrGeneProduct	POLG1	5428
+1124	18487244	316	331	DiseaseOrPhenotypicFeature	Alpers syndrome	D002549
+1125	18487244	354	359	GeneOrGeneProduct	POLG1	5428
+1126	18487244	402	422	DiseaseOrPhenotypicFeature	hepatoencephalopathy	C563797
+1127	18487244	541	549	OrganismTaxon	Patients	9606
+1128	18487244	702	710	OrganismTaxon	patients	9606
+1129	18487244	805	813	OrganismTaxon	patients	9606
+1130	18487244	858	863	GeneOrGeneProduct	POLG1	5428
+1131	18487244	957	965	OrganismTaxon	patients	9606
+1132	18487244	1041	1049	DiseaseOrPhenotypicFeature	Epilepsy	D004827
+1133	18487244	1057	1074	DiseaseOrPhenotypicFeature	movement disorder	D009069
+1134	18487244	1328	1335	OrganismTaxon	patient	9606
+1135	18487244	1415	1420	GeneOrGeneProduct	POLG1	5428
+1136	18487244	1500	1505	GeneOrGeneProduct	POLG1	5428
+1137	18631865	0	15	ChemicalEntity	mToR inhibitors	-
+1138	18631865	24	35	DiseaseOrPhenotypicFeature	proteinuria	D011507
+1139	18631865	153	175	ChemicalEntity	calcineurin inhibitors	D065095
+1140	18631865	179	226	ChemicalEntity	mammalian target of rapamycin (mToR) inhibitors	-
+1141	18631865	239	248	ChemicalEntity	sirolimus	D020123
+1142	18631865	286	315	DiseaseOrPhenotypicFeature	chronic allograft nephropathy	D051436
+1143	18631865	325	336	DiseaseOrPhenotypicFeature	proteinuria	D011507
+1144	18631865	473	484	DiseaseOrPhenotypicFeature	proteinuria	D011507
+1145	18631865	496	505	ChemicalEntity	sirolimus	D020123
+1146	18631865	531	553	ChemicalEntity	calcineurin inhibitors	D065095
+1147	18631865	600	611	DiseaseOrPhenotypicFeature	proteinuria	D011507
+1148	18631865	637	646	ChemicalEntity	sirolimus	D020123
+1149	18631865	687	695	OrganismTaxon	patients	9606
+1150	18631865	709	718	ChemicalEntity	sirolimus	D020123
+1151	18631865	764	782	DiseaseOrPhenotypicFeature	glomerulosclerosis	D005921
+1152	18631865	804	808	GeneOrGeneProduct	mToR	2475
+1153	18631865	828	836	OrganismTaxon	patients	9606
+1154	18631865	965	969	GeneOrGeneProduct	mToR	2475
+1155	18631865	987	998	DiseaseOrPhenotypicFeature	proteinuria	D011507
+1156	18768591	0	44	GeneOrGeneProduct	Serum- and glucocorticoid-inducible kinase 1	20393
+1157	18768591	48	59	ChemicalEntity	doxorubicin	D004317
+1158	18768591	68	86	DiseaseOrPhenotypicFeature	nephrotic syndrome	D009404
+1159	18768591	88	99	ChemicalEntity	Doxorubicin	D004317
+1160	18768591	108	119	DiseaseOrPhenotypicFeature	nephropathy	D007674
+1161	18768591	140	146	ChemicalEntity	sodium	D012964
+1162	18768591	172	188	DiseaseOrPhenotypicFeature	volume retention	D016055
+1163	18768591	193	207	DiseaseOrPhenotypicFeature	renal fibrosis	D007674
+1164	18768591	213	224	ChemicalEntity	aldosterone	D000450
+1165	18768591	235	277	GeneOrGeneProduct	serum- and glucocorticoid-inducible kinase	20393
+1166	18768591	278	282	GeneOrGeneProduct	SGK1	20393
+1167	18768591	355	369	DiseaseOrPhenotypicFeature	renal fibrosis	D007674
+1168	18768591	380	397	ChemicalEntity	mineralocorticoid	D008901
+1169	18768591	402	406	ChemicalEntity	salt	D012492
+1170	18768591	472	476	GeneOrGeneProduct	SGK1	20393
+1171	18768591	484	500	DiseaseOrPhenotypicFeature	volume retention	D016055
+1172	18768591	505	513	DiseaseOrPhenotypicFeature	fibrosis	D005355
+1173	18768591	521	539	DiseaseOrPhenotypicFeature	nephrotic syndrome	D009404
+1174	18768591	554	565	ChemicalEntity	doxorubicin	D004317
+1175	18768591	631	635	OrganismTaxon	mice	10090
+1176	18768591	644	648	GeneOrGeneProduct	SGK1	20393
+1177	18768591	650	654	GeneOrGeneProduct	sgk1	20393
+1178	18768591	694	698	GeneOrGeneProduct	sgk1	20393
+1179	18768591	706	717	ChemicalEntity	Doxorubicin	D004317
+1180	18768591	746	757	DiseaseOrPhenotypicFeature	proteinuria	D011507
+1181	18768591	778	782	ChemicalEntity	crea	D003404
+1182	18768591	796	800	GeneOrGeneProduct	sgk1	20393
+1183	18768591	819	823	GeneOrGeneProduct	sgk1	20393
+1184	18768591	829	833	OrganismTaxon	mice	10090
+1185	18768591	852	870	DiseaseOrPhenotypicFeature	nephrotic syndrome	D009404
+1186	18768591	876	883	DiseaseOrPhenotypicFeature	ascites	D001201
+1187	18768591	885	894	DiseaseOrPhenotypicFeature	lipidemia	D006949
+1188	18768591	900	915	DiseaseOrPhenotypicFeature	hypoalbuminemia	D034141
+1189	18768591	942	953	ChemicalEntity	aldosterone	D000450
+1190	18768591	974	983	DiseaseOrPhenotypicFeature	nephrotic	D009404
+1191	18768591	984	988	OrganismTaxon	mice	10090
+1192	18768591	1037	1041	GeneOrGeneProduct	SGK1	20393
+1193	18768591	1064	1068	GeneOrGeneProduct	sgk1	20393
+1194	18768591	1074	1078	OrganismTaxon	mice	10090
+1195	18768591	1088	1094	ChemicalEntity	sodium	D012964
+1196	18768591	1142	1146	GeneOrGeneProduct	sgk1	20393
+1197	18768591	1152	1156	OrganismTaxon	mice	10090
+1198	18768591	1176	1180	ChemicalEntity	crea	D003404
+1199	18768591	1190	1194	GeneOrGeneProduct	sgk1	20393
+1200	18768591	1200	1204	OrganismTaxon	mice	10090
+1201	18768591	1224	1228	ChemicalEntity	crea	D003404
+1202	18768591	1282	1293	DiseaseOrPhenotypicFeature	weight gain	D015430
+1203	18768591	1297	1301	GeneOrGeneProduct	sgk1	20393
+1204	18768591	1321	1325	GeneOrGeneProduct	sgk1	20393
+1205	18768591	1331	1335	OrganismTaxon	mice	10090
+1206	18768591	1392	1410	DiseaseOrPhenotypicFeature	nephrotic syndrome	D009404
+1207	18768591	1418	1422	ChemicalEntity	urea	D014508
+1208	18768591	1472	1476	GeneOrGeneProduct	sgk1	20393
+1209	18768591	1482	1486	OrganismTaxon	mice	10090
+1210	18768591	1495	1499	GeneOrGeneProduct	sgk1	20393
+1211	18768591	1505	1509	OrganismTaxon	mice	10090
+1212	18768591	1521	1527	DiseaseOrPhenotypicFeature	uremia	D014511
+1213	18768591	1561	1565	GeneOrGeneProduct	sgk1	20393
+1214	18768591	1571	1575	OrganismTaxon	mice	10090
+1215	18768591	1595	1599	GeneOrGeneProduct	sgk1	20393
+1216	18768591	1605	1609	OrganismTaxon	mice	10090
+1217	18768591	1641	1645	OrganismTaxon	mice	10090
+1218	18768591	1654	1658	GeneOrGeneProduct	SGK1	20393
+1219	18768591	1674	1690	DiseaseOrPhenotypicFeature	volume retention	D016055
+1220	18768591	1723	1737	DiseaseOrPhenotypicFeature	renal fibrosis	D007674
+1221	18768591	1758	1776	DiseaseOrPhenotypicFeature	nephrotic syndrome	D009404
+1222	18991055	37	44	GeneOrGeneProduct	SLC30A8	169026
+1223	18991055	46	50	GeneOrGeneProduct	HHEX	3087
+1224	18991055	52	60	GeneOrGeneProduct	CDKN2A/B	1029,1030
+1225	18991055	62	69	GeneOrGeneProduct	IGF2BP2	10644
+1226	18991055	71	74	GeneOrGeneProduct	FTO	79068
+1227	18991055	76	80	GeneOrGeneProduct	WFS1	7466
+1228	18991055	82	88	GeneOrGeneProduct	CDKAL1	54901
+1229	18991055	90	95	GeneOrGeneProduct	KCNQ1	3784
+1230	18991055	100	115	DiseaseOrPhenotypicFeature	type 2 diabetes	D003924
+1231	18991055	281	305	DiseaseOrPhenotypicFeature	type 2 diabetes mellitus	D003924
+1232	18991055	307	311	DiseaseOrPhenotypicFeature	T2DM	D003924
+1233	18991055	405	412	GeneOrGeneProduct	SLC30A8	169026
+1234	18991055	414	418	GeneOrGeneProduct	HHEX	3087
+1235	18991055	420	428	GeneOrGeneProduct	CDKN2A/B	1029,1030
+1236	18991055	430	437	GeneOrGeneProduct	IGF2BP2	10644
+1237	18991055	439	442	GeneOrGeneProduct	FTO	79068
+1238	18991055	444	448	GeneOrGeneProduct	WFS1	7466
+1239	18991055	450	456	GeneOrGeneProduct	CDKAL1	54901
+1240	18991055	461	466	GeneOrGeneProduct	KCNQ1	3784
+1241	18991055	483	487	DiseaseOrPhenotypicFeature	T2DM	D003924
+1242	18991055	586	594	OrganismTaxon	patients	9606
+1243	18991055	600	604	DiseaseOrPhenotypicFeature	T2DM	D003924
+1244	18991055	617	625	DiseaseOrPhenotypicFeature	diabetic	D003920
+1245	18991055	649	659	SequenceVariant	rs13266634	rs13266634
+1246	18991055	661	670	SequenceVariant	rs1111875	rs1111875
+1247	18991055	672	682	SequenceVariant	rs10811661	rs10811661
+1248	18991055	684	693	SequenceVariant	rs4402960	rs4402960
+1249	18991055	695	704	SequenceVariant	rs8050136	rs8050136
+1250	18991055	706	714	SequenceVariant	rs734312	rs734312
+1251	18991055	716	725	SequenceVariant	rs7754840	rs7754840
+1252	18991055	730	739	SequenceVariant	rs2237892	rs2237892
+1253	18991055	805	812	ChemicalEntity	glucose	D005947
+1254	18991055	820	828	OrganismTaxon	patients	9606
+1255	18991055	895	901	GeneOrGeneProduct	CDKAL1	54901
+1256	18991055	903	912	SequenceVariant	rs7754840	rs7754840
+1257	18991055	994	1003	SequenceVariant	rs1111875	rs1111875
+1258	18991055	1057	1061	GeneOrGeneProduct	HHEX	3087
+1259	18991055	1080	1090	SequenceVariant	rs10811661	rs10811661
+1260	18991055	1144	1152	GeneOrGeneProduct	CDKN2A/B	1029,1030
+1261	18991055	1174	1183	SequenceVariant	rs2237892	rs2237892
+1262	18991055	1230	1235	GeneOrGeneProduct	KCNQ1	3784
+1263	18991055	1273	1277	DiseaseOrPhenotypicFeature	T2DM	D003924
+1264	18991055	1279	1289	SequenceVariant	Rs13266634	rs13266634
+1265	18991055	1336	1343	GeneOrGeneProduct	SLC30A8	169026
+1266	18991055	1390	1394	DiseaseOrPhenotypicFeature	T2DM	D003924
+1267	18991055	1412	1419	GeneOrGeneProduct	IGF2BP2	10644
+1268	18991055	1421	1424	GeneOrGeneProduct	FTO	79068
+1269	18991055	1429	1433	GeneOrGeneProduct	WFS1	7466
+1270	18991055	1497	1501	GeneOrGeneProduct	HHEX	3087
+1271	18991055	1503	1511	GeneOrGeneProduct	CDKN2A/B	1029,1030
+1272	18991055	1513	1519	GeneOrGeneProduct	CDKAL1	54901
+1273	18991055	1521	1526	GeneOrGeneProduct	KCNQ1	3784
+1274	18991055	1531	1538	GeneOrGeneProduct	SLC30A8	169026
+1275	18991055	1556	1560	DiseaseOrPhenotypicFeature	T2DM	D003924
+1276	19058010	10	19	ChemicalEntity	green tea	D010936
+1277	19058010	24	33	ChemicalEntity	vitamin E	D014810
+1278	19058010	49	62	ChemicalEntity	isoproterenol	D007545
+1279	19058010	71	92	DiseaseOrPhenotypicFeature	myocardial infarction	D009203
+1280	19058010	96	100	OrganismTaxon	rats	10116
+1281	19058010	169	178	ChemicalEntity	green tea	D010936
+1282	19058010	183	192	ChemicalEntity	vitamin E	D014810
+1283	19058010	245	250	ChemicalEntity	lipid	D008055
+1284	19058010	276	288	ChemicalEntity	antioxidants	D000975
+1285	19058010	319	332	ChemicalEntity	isoproterenol	D007545
+1286	19058010	334	337	ChemicalEntity	ISO	D007545
+1287	19058010	347	368	DiseaseOrPhenotypicFeature	myocardial infarction	D009203
+1288	19058010	372	376	OrganismTaxon	rats	10116
+1289	19058010	396	400	OrganismTaxon	rats	10116
+1290	19058010	415	418	ChemicalEntity	ISO	D007545
+1291	19058010	550	555	ChemicalEntity	lipid	D008055
+1292	19058010	573	584	ChemicalEntity	Ca+2 ATPase	D000252
+1293	19058010	668	680	ChemicalEntity	antioxidants	D000975
+1294	19058010	682	696	ChemicalEntity	Na+/ K+ ATPase	D000254
+1295	19058010	701	712	ChemicalEntity	Mg+2 ATPase	D017301
+1296	19058010	739	748	ChemicalEntity	green tea	D010936
+1297	19058010	775	784	ChemicalEntity	vitamin E	D014810
+1298	19058010	860	863	ChemicalEntity	ISO	D007545
+1299	19058010	968	973	ChemicalEntity	lipid	D008055
+1300	19058010	988	999	ChemicalEntity	Ca+2 ATPase	D000252
+1301	19058010	1058	1070	ChemicalEntity	antioxidants	D000975
+1302	19058010	1072	1085	ChemicalEntity	Na+/K+ ATPase	D000254
+1303	19058010	1090	1101	ChemicalEntity	Mg+2 ATPase	D017301
+1304	19058010	1121	1124	ChemicalEntity	ISO	D007545
+1305	19058010	1143	1152	ChemicalEntity	green tea	D010936
+1306	19058010	1156	1165	ChemicalEntity	vitamin E	D014810
+1307	19058010	1249	1258	ChemicalEntity	green tea	D010936
+1308	19058010	1263	1272	ChemicalEntity	vitamin E	D014810
+1309	19058010	1280	1283	ChemicalEntity	ISO	D007545
+1310	19058010	1292	1313	DiseaseOrPhenotypicFeature	myocardial infarction	D009203
+1311	19058010	1317	1321	OrganismTaxon	rats	10116
+1312	19218574	0	29	GeneOrGeneProduct	Phosphatidylinositol 3-kinase	5295
+1313	19218574	30	38	GeneOrGeneProduct	p85alpha	5295
+1314	19218574	63	72	SequenceVariant	Met326Ile	rs3730089
+1315	19218574	89	94	OrganismTaxon	women	9606
+1316	19218574	100	125	DiseaseOrPhenotypicFeature	polycystic ovary syndrome	D011085
+1317	19218574	139	157	DiseaseOrPhenotypicFeature	Insulin resistance	D007333
+1318	19218574	179	204	DiseaseOrPhenotypicFeature	polycystic ovary syndrome	D011085
+1319	19218574	206	210	DiseaseOrPhenotypicFeature	PCOS	D011085
+1320	19218574	213	247	GeneOrGeneProduct	Phosphatidylinositol (PI) 3-kinase	5295
+1321	19218574	284	291	GeneOrGeneProduct	insulin	3630
+1322	19218574	334	341	GeneOrGeneProduct	insulin	3630
+1323	19218574	351	358	ChemicalEntity	glucose	D005947
+1324	19218574	397	405	GeneOrGeneProduct	p85alpha	5295
+1325	19218574	454	463	SequenceVariant	Met326Ile	rs3730089
+1326	19218574	538	546	GeneOrGeneProduct	p85alpha	5295
+1327	19218574	570	580	GeneOrGeneProduct	PI3-kinase	5295
+1328	19218574	607	616	SequenceVariant	Met326Ile	rs3730089
+1329	19218574	670	674	DiseaseOrPhenotypicFeature	PCOS	D011085
+1330	19218574	675	683	OrganismTaxon	patients	9606
+1331	19218574	814	823	SequenceVariant	Met326Ile	rs3730089
+1332	19218574	844	848	DiseaseOrPhenotypicFeature	PCOS	D011085
+1333	19218574	900	909	SequenceVariant	Met326Met	rs3730089
+1334	19218574	910	919	SequenceVariant	Met326Ile	rs3730089
+1335	19218574	920	929	SequenceVariant	Ile326Ile	rs3730089
+1336	19218574	987	991	DiseaseOrPhenotypicFeature	PCOS	D011085
+1337	19218574	1041	1045	DiseaseOrPhenotypicFeature	PCOS	D011085
+1338	19218574	1124	1130	SequenceVariant	326Ile	rs3730089
+1339	19218574	1189	1195	SequenceVariant	326Ile	rs3730089
+1340	19218574	1222	1231	SequenceVariant	Met326Met	rs3730089
+1341	19218574	1258	1280	ChemicalEntity	17-hydroxyprogesterone	D019326
+1342	19218574	1282	1288	ChemicalEntity	17-OHP	D019326
+1343	19218574	1358	1367	SequenceVariant	Met326Met	rs3730089
+1344	19218574	1425	1434	SequenceVariant	Ile326Ile	rs3730089
+1345	19218574	1439	1448	SequenceVariant	Met326Ile	rs3730089
+1346	19218574	1481	1493	ChemicalEntity	testosterone	D013739
+1347	19218574	1533	1542	SequenceVariant	Met326Met	rs3730089
+1348	19218574	1590	1599	SequenceVariant	Ile326Ile	rs3730089
+1349	19218574	1604	1613	SequenceVariant	Met326Ile	rs3730089
+1350	19218574	1679	1689	GeneOrGeneProduct	PI3-kinase	5295
+1351	19218574	1695	1704	SequenceVariant	Met326Ile	rs3730089
+1352	19218574	1772	1776	DiseaseOrPhenotypicFeature	PCOS	D011085
+1353	19218574	1826	1832	ChemicalEntity	17-OHP	D019326
+1354	19218574	1841	1853	ChemicalEntity	testosterone	D013739
+1355	19218574	1857	1861	DiseaseOrPhenotypicFeature	PCOS	D011085
+1356	19218574	1862	1870	OrganismTaxon	patients	9606
+1357	19353688	112	117	GeneOrGeneProduct	PCDH9	5101
+1358	19353688	146	184	DiseaseOrPhenotypicFeature	autosomal dominant auditory neuropathy	C563790
+1359	19353688	186	191	DiseaseOrPhenotypicFeature	AUNA1	C563790
+1360	19353688	716	724	DiseaseOrPhenotypicFeature	deafness	D003638
+1361	19353688	726	743	DiseaseOrPhenotypicFeature	duodenal stenosis	C535720
+1362	19353688	745	775	DiseaseOrPhenotypicFeature	developmental and growth delay	D002658
+1363	19353688	777	796	DiseaseOrPhenotypicFeature	vertebral anomalies	C535781
+1364	19353688	802	821	DiseaseOrPhenotypicFeature	facial dysmorphisms	D019465
+1365	19353688	864	876	DiseaseOrPhenotypicFeature	dysmorphisms	D019465
+1366	19353688	885	890	DiseaseOrPhenotypicFeature	AUNA1	C563790
+1367	19353688	891	899	DiseaseOrPhenotypicFeature	deafness	D003638
+1368	19353688	941	946	GeneOrGeneProduct	PCDH9	5101
+1369	19353688	948	963	GeneOrGeneProduct	protocadherin-9	5101
+1370	19353688	978	983	GeneOrGeneProduct	PCDH9	5101
+1371	19353688	1025	1033	DiseaseOrPhenotypicFeature	deafness	D003638
+1372	19353688	1119	1124	DiseaseOrPhenotypicFeature	AUNA1	C563790
+1373	19353688	1151	1156	GeneOrGeneProduct	PCDH9	5101
+1374	19353688	1241	1246	DiseaseOrPhenotypicFeature	AUNA1	C563790
+1375	19353688	1312	1319	OrganismTaxon	patient	9606
+1376	19353688	1360	1365	DiseaseOrPhenotypicFeature	AUNA1	C563790
+1377	19353688	1366	1374	DiseaseOrPhenotypicFeature	deafness	D003638
+1378	19353688	1413	1421	DiseaseOrPhenotypicFeature	deafness	D003638
+1379	19353688	1462	1470	DiseaseOrPhenotypicFeature	deafness	D003638
+1380	19353688	1499	1504	GeneOrGeneProduct	PCHD9	5101
+1381	19521089	0	21	GeneOrGeneProduct	Serotonin transporter	6532
+1382	19521089	47	55	GeneOrGeneProduct	5-HTTLPR	6532
+1383	19521089	87	106	DiseaseOrPhenotypicFeature	Parkinson's disease	D010300
+1384	19521089	117	136	DiseaseOrPhenotypicFeature	Parkinson's disease	D010300
+1385	19521089	138	140	DiseaseOrPhenotypicFeature	PD	D010300
+1386	19521089	147	173	DiseaseOrPhenotypicFeature	neurodegenerative disorder	D019636
+1387	19521089	182	199	DiseaseOrPhenotypicFeature	muscular rigidity	D009127
+1388	19521089	201	215	DiseaseOrPhenotypicFeature	resting tremor	D014202
+1389	19521089	220	232	DiseaseOrPhenotypicFeature	bradykinesia	D018476
+1390	19521089	282	284	DiseaseOrPhenotypicFeature	PD	D010300
+1391	19521089	321	342	GeneOrGeneProduct	serotonin transporter	6532
+1392	19521089	349	355	GeneOrGeneProduct	SLC6A4	6532
+1393	19521089	376	384	GeneOrGeneProduct	5-HTTLPR	6532
+1394	19521089	403	461	SequenceVariant	insertion/deletion (long allele-L/short allele-S) of 43 bp	c|INDEL||43
+1395	19521089	469	475	GeneOrGeneProduct	SLC6A4	6532
+1396	19521089	497	503	GeneOrGeneProduct	SLC6A4	6532
+1397	19521089	544	551	SequenceVariant	rs25531	rs25531
+1398	19521089	552	557	SequenceVariant	A-->G	rs25531
+1399	19521089	621	623	DiseaseOrPhenotypicFeature	PD	D010300
+1400	19521089	667	675	GeneOrGeneProduct	5-HTTLPR	6532
+1401	19521089	701	703	DiseaseOrPhenotypicFeature	PD	D010300
+1402	19521089	771	778	SequenceVariant	rs25531	rs25531
+1403	19521089	797	805	GeneOrGeneProduct	5-HTTLPR	6532
+1404	19521089	806	813	SequenceVariant	rs25531	rs25531
+1405	19521089	845	847	DiseaseOrPhenotypicFeature	PD	D010300
+1406	19521089	876	884	GeneOrGeneProduct	5-HTTLPR	6532
+1407	19521089	916	922	GeneOrGeneProduct	SLC6A4	6532
+1408	19521089	963	965	DiseaseOrPhenotypicFeature	PD	D010300
+1409	19592582	0	12	GeneOrGeneProduct	Matriptase-2	164656
+1410	19592582	26	30	ChemicalEntity	iron	D007501
+1411	19592582	42	64	DiseaseOrPhenotypicFeature	iron deficiency anemia	D018798
+1412	19592582	65	73	OrganismTaxon	patients	9606
+1413	19592582	167	179	GeneOrGeneProduct	matriptase-2	164656
+1414	19592582	204	210	OrganismTaxon	humans	9606
+1415	19592582	234	272	DiseaseOrPhenotypicFeature	iron-refractory iron deficiency anemia	C562385
+1416	19592582	274	279	DiseaseOrPhenotypicFeature	IRIDA	C562385
+1417	19592582	297	305	GeneOrGeneProduct	hepcidin	57817
+1418	19592582	375	387	GeneOrGeneProduct	matriptase-2	164656
+1419	19592582	389	396	GeneOrGeneProduct	TMPRSS6	164656
+1420	19592582	443	448	DiseaseOrPhenotypicFeature	IRIDA	C562385
+1421	19592582	498	504	SequenceVariant	P686fs	p|FS|P|686||
+1422	19592582	520	558	SequenceVariant	insertion of the four nucleotides CCCC	c|INS||CCCC
+1423	19592582	571	587	SequenceVariant	2172_2173insCCCC	c|INS|2172_2173|CCCC
+1424	19592582	715	723	SequenceVariant	c.467C>A	c|SUB|C|467|A
+1425	19592582	728	736	SequenceVariant	c.468C>T	c|SUB|C|468|T
+1426	19592582	781	786	SequenceVariant	A118D	p|SUB|A|118|D
+1427	19592582	841	853	GeneOrGeneProduct	matriptase-2	164656
+1428	19592582	891	903	GeneOrGeneProduct	matriptase-2	164656
+1429	19592582	972	980	GeneOrGeneProduct	hepcidin	57817
+1430	19592582	1025	1030	SequenceVariant	A118D	p|SUB|A|118|D
+1431	19592582	1111	1123	GeneOrGeneProduct	matriptase-2	164656
+1432	19592582	1186	1193	GeneOrGeneProduct	TMPRSS6	164656
+1433	19592582	1220	1225	DiseaseOrPhenotypicFeature	IRIDA	C562385
+1434	19592582	1382	1394	GeneOrGeneProduct	matriptase-2	164656
+1435	19592582	1402	1417	DiseaseOrPhenotypicFeature	iron deficiency	D018798
+1436	19642243	0	19	DiseaseOrPhenotypicFeature	Acute renal failure	D058186
+1437	19642243	23	31	OrganismTaxon	patients	9606
+1438	19642243	37	41	DiseaseOrPhenotypicFeature	AIDS	D000163
+1439	19642243	45	54	ChemicalEntity	tenofovir	D000068698
+1440	19642243	81	91	ChemicalEntity	vancomycin	D014640
+1441	19642243	103	116	DiseaseOrPhenotypicFeature	osteomyelitis	D010019
+1442	19642243	118	131	DiseaseOrPhenotypicFeature	Renal failure	D051437
+1443	19642243	170	180	ChemicalEntity	vancomycin	D014640
+1444	19642243	194	202	OrganismTaxon	patients	9606
+1445	19642243	222	251	ChemicalEntity	tenofovir disoproxil fumarate	D000068698
+1446	19642243	290	299	ChemicalEntity	Tenofovir	D000068698
+1447	19642243	342	358	DiseaseOrPhenotypicFeature	Fanconi syndrome	D005198
+1448	19642243	363	382	DiseaseOrPhenotypicFeature	renal insufficiency	D051437
+1449	19642243	436	446	ChemicalEntity	Vancomycin	D014640
+1450	19642243	447	461	DiseaseOrPhenotypicFeature	nephrotoxicity	D007674
+1451	19642243	520	531	DiseaseOrPhenotypicFeature	nephrotoxic	D007674
+1452	19642243	571	580	ChemicalEntity	tenofovir	D000068698
+1453	19642243	603	616	DiseaseOrPhenotypicFeature	renal failure	D051437
+1454	19642243	652	662	ChemicalEntity	vancomycin	D014640
+1455	19696792	34	39	GeneOrGeneProduct	ABCG2	9429
+1456	19696792	59	69	ChemicalEntity	irinotecan	D000077146
+1457	19696792	85	101	DiseaseOrPhenotypicFeature	myelosuppression	D001855
+1458	19696792	103	113	ChemicalEntity	Irinotecan	D000077146
+1459	19696792	175	202	DiseaseOrPhenotypicFeature	colorectal and lung cancers	D008175,D015179
+1460	19696792	221	231	DiseaseOrPhenotypicFeature	toxicities	D064420
+1461	19696792	247	263	DiseaseOrPhenotypicFeature	myelosuppression	D001855
+1462	19696792	268	276	DiseaseOrPhenotypicFeature	diarrhea	D003967
+1463	19696792	353	363	ChemicalEntity	irinotecan	D000077146
+1464	19696792	379	395	DiseaseOrPhenotypicFeature	myelosuppression	D001855
+1465	19696792	437	445	OrganismTaxon	patients	9606
+1466	19696792	467	483	DiseaseOrPhenotypicFeature	myelosuppression	D001855
+1467	19696792	491	499	OrganismTaxon	patients	9606
+1468	19696792	524	532	DiseaseOrPhenotypicFeature	toxicity	D064420
+1469	19696792	650	660	ChemicalEntity	irinotecan	D000077146
+1470	19696792	744	760	DiseaseOrPhenotypicFeature	myelosuppression	D001855
+1471	19696792	882	891	SequenceVariant	rs2622604	rs2622604
+1472	19696792	896	901	GeneOrGeneProduct	ABCG2	9429
+1473	19696792	998	1014	DiseaseOrPhenotypicFeature	myelosuppression	D001855
+1474	19696792	1182	1187	GeneOrGeneProduct	ABCG2	9429
+1475	19696792	1282	1292	ChemicalEntity	irinotecan	D000077146
+1476	19696792	1312	1328	DiseaseOrPhenotypicFeature	myelosuppression	D001855
+1477	19728177	10	21	DiseaseOrPhenotypicFeature	hypothermia	D007036
+1478	19728177	50	64	DiseaseOrPhenotypicFeature	cerebral edema	D001929
+1479	19728177	69	94	DiseaseOrPhenotypicFeature	intracranial hypertension	D019586
+1480	19728177	111	136	DiseaseOrPhenotypicFeature	fulminant hepatic failure	D017114
+1481	19728177	196	204	OrganismTaxon	patients	9606
+1482	19728177	210	224	DiseaseOrPhenotypicFeature	cerebral edema	D001929
+1483	19728177	238	263	DiseaseOrPhenotypicFeature	fulminant hepatic failure	D017114
+1484	19728177	265	268	DiseaseOrPhenotypicFeature	FHF	D017114
+1485	19728177	312	323	DiseaseOrPhenotypicFeature	hypothermia	D007036
+1486	19728177	456	459	DiseaseOrPhenotypicFeature	FHF	D017114
+1487	19728177	465	478	ChemicalEntity	acetaminophen	D000082
+1488	19728177	493	507	DiseaseOrPhenotypicFeature	cerebral edema	D001929
+1489	19728177	522	529	OrganismTaxon	patient	9606
+1490	19728177	600	608	DiseaseOrPhenotypicFeature	toxicity	D064420
+1491	19728177	614	627	ChemicalEntity	acetaminophen	D000082
+1492	19728177	672	679	OrganismTaxon	patient	9606
+1493	19728177	684	693	DiseaseOrPhenotypicFeature	depressed	D003866
+1494	19728177	782	785	DiseaseOrPhenotypicFeature	FHF	D017114
+1495	19728177	791	804	ChemicalEntity	acetaminophen	D000082
+1496	19728177	809	823	DiseaseOrPhenotypicFeature	cerebral edema	D001929
+1497	19728177	829	836	OrganismTaxon	patient	9606
+1498	19728177	876	892	DiseaseOrPhenotypicFeature	hyperventilation	D006985
+1499	19728177	917	926	DiseaseOrPhenotypicFeature	paralysis	D010243
+1500	19728177	1035	1046	DiseaseOrPhenotypicFeature	hypothermia	D007036
+1501	19728177	1094	1101	OrganismTaxon	patient	9606
+1502	19728177	1124	1138	DiseaseOrPhenotypicFeature	cerebral edema	D001929
+1503	19728177	1143	1168	DiseaseOrPhenotypicFeature	intracranial hypertension	D019586
+1504	19728177	1264	1272	OrganismTaxon	patients	9606
+1505	19728177	1278	1281	DiseaseOrPhenotypicFeature	FHF	D017114
+1506	19728177	1286	1300	DiseaseOrPhenotypicFeature	cerebral edema	D001929
+1507	19728177	1306	1319	ChemicalEntity	acetaminophen	D000082
+1508	19728177	1352	1363	DiseaseOrPhenotypicFeature	hypothermia	D007036
+1509	19728177	1486	1497	DiseaseOrPhenotypicFeature	hypothermia	D007036
+1510	19728177	1501	1509	OrganismTaxon	patients	9606
+1511	19811499	37	64	GeneOrGeneProduct	tumor necrosis factor-alpha	21926,7124
+1512	19811499	66	87	GeneOrGeneProduct	nuclear factor-kappaB	18033,4790
+1513	19811499	93	121	GeneOrGeneProduct	bone morphogenetic protein-2	12156,650
+1514	19811499	139	149	DiseaseOrPhenotypicFeature	metastasis	D009362
+1515	19811499	170	185	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+1516	19811499	234	242	CellLine	MC3T3-E1	10090
+1517	19811499	303	334	DiseaseOrPhenotypicFeature	prostate cancer (PC) metastasis	D009362,D011471
+1518	19811499	404	453	GeneOrGeneProduct	phosphoinositide 3-kinase (PI3K)/protein kinase B	207
+1519	19811499	455	458	GeneOrGeneProduct	Akt	207
+1520	19811499	514	548	GeneOrGeneProduct	bone morphogenetic protein (BMP)-2	650
+1521	19811499	562	588	GeneOrGeneProduct	nuclear factor (NF)-kappaB	4790
+1522	19811499	608	623	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+1523	19811499	673	682	GeneOrGeneProduct	NF-kappaB	4790
+1524	19811499	717	722	OrganismTaxon	human	9606
+1525	19811499	723	756	GeneOrGeneProduct	tumor necrosis factor (TNF)-alpha	7124
+1526	19811499	789	792	GeneOrGeneProduct	p65	5970
+1527	19811499	875	879	CellLine	PC-3	9606
+1528	19811499	884	889	CellLine	C4-2B	9606
+1529	19811499	899	904	CellLine	LNCaP	9606
+1530	19811499	999	1010	GeneOrGeneProduct	osteopontin	6696
+1531	19811499	1012	1023	GeneOrGeneProduct	osteocalcin	632
+1532	19811499	1029	1041	GeneOrGeneProduct	collagen IA1	1277
+1533	19811499	1057	1059	DiseaseOrPhenotypicFeature	PC	D011471
+1534	19811499	1108	1110	DiseaseOrPhenotypicFeature	PC	D011471
+1535	19811499	1125	1130	GeneOrGeneProduct	BMP-4	652
+1536	19811499	1132	1137	GeneOrGeneProduct	BMP-2	650
+1537	19811499	1182	1187	CellLine	C4-2B	9606
+1538	19811499	1206	1211	CellLine	LNCaP	9606
+1539	19811499	1254	1260	GeneOrGeneProduct	Noggin	9241
+1540	19811499	1275	1280	GeneOrGeneProduct	BMP-2	650
+1541	19811499	1290	1299	GeneOrGeneProduct	TNF-alpha	7124
+1542	19811499	1320	1325	CellLine	C4-2B	9606
+1543	19811499	1337	1346	GeneOrGeneProduct	NF-kappaB	4790
+1544	19811499	1366	1375	GeneOrGeneProduct	TNF-alpha	7124
+1545	19811499	1405	1414	GeneOrGeneProduct	TNF-alpha	7124
+1546	19811499	1426	1431	CellLine	C4-2B	9606
+1547	19811499	1450	1455	GeneOrGeneProduct	BMP-2	12156
+1548	19811499	1460	1463	GeneOrGeneProduct	BMP	12156
+1549	19811499	1474	1478	GeneOrGeneProduct	Smad	17127
+1550	19811499	1505	1543	GeneOrGeneProduct	receptor activator of NF-kappaB ligand	21943
+1551	19811499	1559	1568	CellLine	RAW 264.7	10090
+1552	19811499	1738	1747	GeneOrGeneProduct	TNF-alpha	7124
+1553	19811499	1761	1765	GeneOrGeneProduct	BMP2	650
+1554	19811499	1777	1782	CellLine	C4-2B	9606
+1555	19811499	1824	1832	CellLine	MC3T3-E1	10090
+1556	19811499	1855	1860	GeneOrGeneProduct	BMP-2	12156
+1557	19811499	1875	1884	GeneOrGeneProduct	NF-kappaB	4790
+1558	19811499	2082	2084	DiseaseOrPhenotypicFeature	PC	D011471
+1559	19918264	0	5	GeneOrGeneProduct	FGFR4	2264
+1560	19918264	6	15	SequenceVariant	Gly388Arg	rs351855
+1561	19918264	33	48	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+1562	19918264	66	69	OrganismTaxon	men	9606
+1563	19918264	71	106	GeneOrGeneProduct	Fibroblast growth factor receptor 4	2264
+1564	19918264	108	113	GeneOrGeneProduct	FGFR4	2264
+1565	19918264	132	158	GeneOrGeneProduct	fibroblast growth receptor	2264
+1566	19918264	318	323	GeneOrGeneProduct	FGFR4	2264
+1567	19918264	375	408	SequenceVariant	glycine (Gly) with arginine (Arg)	rs351855
+1568	19918264	477	492	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+1569	19918264	493	501	OrganismTaxon	patients	9606
+1570	19918264	551	566	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+1571	19918264	567	575	OrganismTaxon	patients	9606
+1572	19918264	581	584	DiseaseOrPhenotypicFeature	BPH	D011470
+1573	19918264	585	593	OrganismTaxon	patients	9606
+1574	19918264	711	716	GeneOrGeneProduct	FGFR4	2264
+1575	19918264	840	855	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+1576	19918264	944	950	DiseaseOrPhenotypicFeature	cancer	D009369
+1577	19918264	987	990	DiseaseOrPhenotypicFeature	BPH	D011470
+1578	19918264	1067	1073	DiseaseOrPhenotypicFeature	cancer	D009369
+1579	19918264	1078	1081	DiseaseOrPhenotypicFeature	BPH	D011470
+1580	19918264	1082	1090	OrganismTaxon	patients	9606
+1581	19918264	1107	1113	DiseaseOrPhenotypicFeature	cancer	D009369
+1582	19918264	1179	1190	SequenceVariant	Gly(388)Arg	rs351855
+1583	19918264	1194	1199	GeneOrGeneProduct	FGFR4	2264
+1584	19918264	1241	1256	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+1585	19918264	1269	1272	OrganismTaxon	men	9606
+1586	19923525	0	10	ChemicalEntity	Nimodipine	D009553
+1587	19923525	20	37	DiseaseOrPhenotypicFeature	memory impairment	D008569
+1588	19923525	48	61	ChemicalEntity	nitroglycerin	D005996
+1589	19923525	70	81	DiseaseOrPhenotypicFeature	hypotension	D007022
+1590	19923525	91	95	OrganismTaxon	mice	10090
+1591	19923525	109	120	DiseaseOrPhenotypicFeature	Hypotension	D007022
+1592	19923525	212	233	DiseaseOrPhenotypicFeature	cognitive dysfunction	D003072
+1593	19923525	265	275	ChemicalEntity	nimodipine	D009553
+1594	19923525	277	281	ChemicalEntity	NIMO	D009553
+1595	19923525	312	325	ChemicalEntity	nitroglycerin	D005996
+1596	19923525	327	330	ChemicalEntity	NTG	D005996
+1597	19923525	340	351	DiseaseOrPhenotypicFeature	hypotension	D007022
+1598	19923525	712	716	OrganismTaxon	mice	10090
+1599	19923525	790	793	ChemicalEntity	NTG	D005996
+1600	19923525	825	828	ChemicalEntity	NTG	D005996
+1601	19923525	852	855	ChemicalEntity	NTG	D005996
+1602	19923525	860	864	ChemicalEntity	NIMO	D009553
+1603	19923525	885	889	ChemicalEntity	NIMO	D009553
+1604	19923525	911	922	DiseaseOrPhenotypicFeature	hypotension	D007022
+1605	19923525	1120	1124	OrganismTaxon	Mice	10090
+1606	19923525	1138	1149	DiseaseOrPhenotypicFeature	hypotensive	D007022
+1607	19923525	1263	1266	ChemicalEntity	NTG	D005996
+1608	19923525	1269	1273	ChemicalEntity	NIMO	D009553
+1609	19923525	1286	1289	ChemicalEntity	NTG	D005996
+1610	19923525	1508	1512	OrganismTaxon	mice	10090
+1611	19923525	1567	1570	ChemicalEntity	NTG	D005996
+1612	19923525	1583	1586	ChemicalEntity	NTG	D005996
+1613	19923525	1589	1593	ChemicalEntity	NIMO	D009553
+1614	19923525	1809	1813	OrganismTaxon	mice	10090
+1615	19923525	1827	1831	ChemicalEntity	NIMO	D009553
+1616	19923525	2042	2045	ChemicalEntity	NTG	D005996
+1617	19923525	2117	2120	ChemicalEntity	NTG	D005996
+1618	19923525	2123	2127	ChemicalEntity	NIMO	D009553
+1619	19923525	2259	2262	ChemicalEntity	NTG	D005996
+1620	19923525	2359	2363	OrganismTaxon	mice	10090
+1621	19923525	2389	2400	DiseaseOrPhenotypicFeature	hypotension	D007022
+1622	19923525	2416	2420	ChemicalEntity	NIMO	D009553
+1623	19923525	2494	2497	ChemicalEntity	NTG	D005996
+1624	19923525	2544	2555	DiseaseOrPhenotypicFeature	hypotension	D007022
+1625	19923525	2580	2584	ChemicalEntity	NIMO	D009553
+1626	19923525	2635	2642	ChemicalEntity	calcium	D002118
+1627	19923525	2662	2673	DiseaseOrPhenotypicFeature	hypotension	D007022
+1628	20105280	10	13	GeneOrGeneProduct	Ras	3265
+1629	20105280	122	125	GeneOrGeneProduct	Ras	3265
+1630	20105280	242	247	OrganismTaxon	human	9606
+1631	20105280	248	255	DiseaseOrPhenotypicFeature	cancers	D009369
+1632	20105280	257	262	DiseaseOrPhenotypicFeature	Tumor	D009369
+1633	20105280	290	293	GeneOrGeneProduct	Ras	3265
+1634	20105280	410	416	OrganismTaxon	murine	10090
+1635	20105280	539	563	GeneOrGeneProduct	fibroblast growth factor	64654
+1636	20105280	565	568	GeneOrGeneProduct	FGF	64654
+1637	20105280	841	845	OrganismTaxon	mice	10090
+1638	20105280	894	899	OrganismTaxon	human	9606
+1639	20105280	900	905	GeneOrGeneProduct	H-Ras	3265
+1640	20105280	944	947	GeneOrGeneProduct	Ras	3265
+1641	20105280	1056	1072	GeneOrGeneProduct	cyclin D1 and D2	12443,12444
+1642	20105280	1205	1208	GeneOrGeneProduct	cdk	12575
+1643	20105280	1220	1227	GeneOrGeneProduct	p27Kip1	12576
+1644	20105280	1232	1239	GeneOrGeneProduct	p57Kip2	12577
+1645	20105280	1264	1267	GeneOrGeneProduct	Ras	3265
+1646	20105280	1318	1322	GeneOrGeneProduct	Erk1	26417
+1647	20105280	1327	1331	GeneOrGeneProduct	Erk2	26413
+1648	20105280	1391	1397	GeneOrGeneProduct	Spry 1	24063
+1649	20105280	1402	1408	GeneOrGeneProduct	Spry 2	24064
+1650	20105280	1433	1436	GeneOrGeneProduct	Ras	3265
+1651	20105280	1437	1440	GeneOrGeneProduct	Raf	109880
+1652	20105280	1441	1444	GeneOrGeneProduct	Erk	26413,26417
+1653	20105280	1593	1596	GeneOrGeneProduct	Ras	3265
+1654	20105280	1609	1612	GeneOrGeneProduct	Ras	3265
+1655	20105280	1701	1704	GeneOrGeneProduct	Ras	3265
+1656	20105280	1755	1760	GeneOrGeneProduct	Prox1	19130
+1657	20105280	1936	1946	GeneOrGeneProduct	Keratin 12	268482
+1658	20105280	2015	2018	GeneOrGeneProduct	Ras	3265
+1659	20105280	2093	2096	GeneOrGeneProduct	Ras	3265
+1660	20195852	8	19	DiseaseOrPhenotypicFeature	nephropathy	D007674
+1661	20195852	50	64	ChemicalEntity	contrast media	D003287
+1662	20195852	169	183	ChemicalEntity	contrast media	D003287
+1663	20195852	192	203	DiseaseOrPhenotypicFeature	nephropathy	D007674
+1664	20195852	205	208	DiseaseOrPhenotypicFeature	CIN	D007674
+1665	20195852	481	484	DiseaseOrPhenotypicFeature	CIN	D007674
+1666	20195852	502	516	ChemicalEntity	contrast media	D003287
+1667	20195852	518	520	ChemicalEntity	CM	D003287
+1668	20195852	523	532	ChemicalEntity	iopromide	C038192
+1669	20195852	537	544	ChemicalEntity	iohexol	D007472
+1670	20195852	669	671	ChemicalEntity	CM	D003287
+1671	20195852	692	700	DiseaseOrPhenotypicFeature	cyanosis	D003490
+1672	20195852	761	770	ChemicalEntity	iopromide	C038192
+1673	20195852	792	799	ChemicalEntity	iohexol	D007472
+1674	20195852	825	831	ChemicalEntity	sodium	D012964
+1675	20195852	833	835	ChemicalEntity	Na	D012964
+1676	20195852	838	847	ChemicalEntity	potassium	D011188
+1677	20195852	849	850	ChemicalEntity	K	D011188
+1678	20195852	857	867	ChemicalEntity	creatinine	D003404
+1679	20195852	869	871	ChemicalEntity	Cr	D003404
+1680	20195852	989	991	ChemicalEntity	CM	D003287
+1681	20195852	1015	1017	ChemicalEntity	Na	D012964
+1682	20195852	1022	1024	ChemicalEntity	Cr	D003404
+1683	20195852	1074	1087	DiseaseOrPhenotypicFeature	renal failure	D051437
+1684	20195852	1089	1109	DiseaseOrPhenotypicFeature	Injury to the kidney	D058186
+1685	20195852	1111	1137	DiseaseOrPhenotypicFeature	Failure of kidney function	D051437
+1686	20195852	1139	1162	DiseaseOrPhenotypicFeature	Loss of kidney function	D051437
+1687	20195852	1178	1190	DiseaseOrPhenotypicFeature	renal damage	D007674
+1688	20195852	1228	1231	DiseaseOrPhenotypicFeature	CIN	D007674
+1689	20195852	1301	1304	DiseaseOrPhenotypicFeature	CIN	D007674
+1690	20195852	1389	1401	DiseaseOrPhenotypicFeature	renal injury	D058186
+1691	20195852	1457	1469	DiseaseOrPhenotypicFeature	renal injury	D058186
+1692	20195852	1506	1509	DiseaseOrPhenotypicFeature	CIN	D007674
+1693	20195852	1561	1563	ChemicalEntity	CM	D003287
+1694	20195852	1688	1691	DiseaseOrPhenotypicFeature	CIN	D007674
+1695	20195852	1728	1730	ChemicalEntity	CM	D003287
+1696	20195852	1771	1774	DiseaseOrPhenotypicFeature	CIN	D007674
+1697	20195852	1791	1816	DiseaseOrPhenotypicFeature	congenital heart diseases	D006331
+1698	20195852	1945	1948	DiseaseOrPhenotypicFeature	CIN	D007674
+1699	20195852	2049	2051	ChemicalEntity	CM	D003287
+1700	20195852	2076	2084	DiseaseOrPhenotypicFeature	cyanosis	D003490
+1701	20195852	2099	2102	DiseaseOrPhenotypicFeature	CIN	D007674
+1702	20520283	23	32	ChemicalEntity	asenapine	C522667
+1703	20520283	51	62	ChemicalEntity	haloperidol	D006220
+1704	20520283	119	132	DiseaseOrPhenotypicFeature	schizophrenia	D012559
+1705	20520283	134	143	ChemicalEntity	Asenapine	C522667
+1706	20520283	226	239	DiseaseOrPhenotypicFeature	schizophrenia	D012559
+1707	20520283	246	251	DiseaseOrPhenotypicFeature	manic	D001714
+1708	20520283	286	304	DiseaseOrPhenotypicFeature	bipolar I disorder	D001714
+1709	20520283	321	330	DiseaseOrPhenotypicFeature	psychotic	D011618
+1710	20520283	397	410	DiseaseOrPhenotypicFeature	schizophrenia	D012559
+1711	20520283	463	472	ChemicalEntity	asenapine	C522667
+1712	20520283	500	509	ChemicalEntity	asenapine	C522667
+1713	20520283	536	547	ChemicalEntity	haloperidol	D006220
+1714	20520283	761	770	ChemicalEntity	asenapine	C522667
+1715	20520283	795	806	ChemicalEntity	haloperidol	D006220
+1716	20520283	950	959	ChemicalEntity	asenapine	C522667
+1717	20520283	1015	1026	ChemicalEntity	haloperidol	D006220
+1718	20520283	1194	1203	ChemicalEntity	asenapine	C522667
+1719	20520283	1423	1432	ChemicalEntity	asenapine	C522667
+1720	20520283	1453	1464	ChemicalEntity	haloperidol	D006220
+1721	20520283	1500	1523	DiseaseOrPhenotypicFeature	Extrapyramidal symptoms	D001480
+1722	20520283	1585	1594	ChemicalEntity	asenapine	C522667
+1723	20520283	1615	1626	ChemicalEntity	haloperidol	D006220
+1724	20520283	1810	1819	ChemicalEntity	asenapine	C522667
+1725	20520283	1824	1835	ChemicalEntity	haloperidol	D006220
+1726	20520283	1884	1907	DiseaseOrPhenotypicFeature	extrapyramidal symptoms	D001480
+1727	20528871	21	31	ChemicalEntity	nelarabine	C104457
+1728	20528871	33	42	ChemicalEntity	etoposide	D005047
+1729	20528871	48	64	ChemicalEntity	cyclophosphamide	D003520
+1730	20528871	99	142	DiseaseOrPhenotypicFeature	T-cell lymphoblastic leukaemia and lymphoma	D015458|D016399
+1731	20528871	168	178	ChemicalEntity	nelarabine	C104457
+1732	20528871	180	184	ChemicalEntity	AraG	C104457
+1733	20528871	198	207	ChemicalEntity	etoposide	D005047
+1734	20528871	209	211	ChemicalEntity	VP	D005047
+1735	20528871	217	233	ChemicalEntity	cyclophosphamide	D003520
+1736	20528871	235	238	ChemicalEntity	CPM	D003520
+1737	20528871	356	384	DiseaseOrPhenotypicFeature	T-cell leukaemia or lymphoma	D015458|D016399
+1738	20528871	435	439	ChemicalEntity	AraG	C104457
+1739	20528871	481	491	DiseaseOrPhenotypicFeature	neuropathy	D009422
+1740	20528871	496	516	DiseaseOrPhenotypicFeature	musculoskeletal pain	D059352
+1741	20528871	518	541	DiseaseOrPhenotypicFeature	Haematological toxicity	D006402
+1742	20528871	579	583	ChemicalEntity	AraG	C104457
+1743	20528871	827	831	ChemicalEntity	AraG	C104457
+1744	20528871	832	834	ChemicalEntity	VP	D005047
+1745	20528871	835	838	ChemicalEntity	CPM	D003520
+1746	20528871	885	889	ChemicalEntity	AraG	C104457
+1747	20528871	927	936	ChemicalEntity	etoposide	D005047
+1748	20528871	941	957	ChemicalEntity	cyclophosphamide	D003520
+1749	20528871	968	989	DiseaseOrPhenotypicFeature	neurological toxicity	D009422
+1750	20648600	18	28	ChemicalEntity	lamivudine	D019259
+1751	20648600	63	71	OrganismTaxon	patients	9606
+1752	20648600	72	108	DiseaseOrPhenotypicFeature	co-infected with HIV and hepatitis B	D006509,D015658
+1753	20648600	173	183	ChemicalEntity	lamivudine	D019259
+1754	20648600	185	188	ChemicalEntity	LAM	D019259
+1755	20648600	194	203	ChemicalEntity	tenofovir	D000068698
+1756	20648600	205	208	ChemicalEntity	TDF	D000068698
+1757	20648600	245	253	OrganismTaxon	patients	9606
+1758	20648600	254	296	DiseaseOrPhenotypicFeature	co-infected with HIV and hepatitis B virus	D006509,D015658
+1759	20648600	298	301	OrganismTaxon	HBV	10407
+1760	20648600	335	343	OrganismTaxon	patients	9606
+1761	20648600	349	352	OrganismTaxon	HIV	11676
+1762	20648600	368	376	OrganismTaxon	Patients	9606
+1763	20648600	404	409	ChemicalEntity	HBsAg	D006514
+1764	20648600	433	436	OrganismTaxon	HBV	10407
+1765	20648600	509	512	OrganismTaxon	HBV	10407
+1766	20648600	590	597	GeneOrGeneProduct	precore	944568
+1767	20648600	654	662	OrganismTaxon	patients	9606
+1768	20648600	671	680	DiseaseOrPhenotypicFeature	infection	D007239
+1769	20648600	718	721	OrganismTaxon	HBV	10407
+1770	20648600	744	752	OrganismTaxon	patients	9606
+1771	20648600	840	848	OrganismTaxon	patients	9606
+1772	20648600	867	870	ChemicalEntity	LAM	D019259
+1773	20648600	879	887	OrganismTaxon	patients	9606
+1774	20648600	906	909	ChemicalEntity	LAM	D019259
+1775	20648600	915	918	ChemicalEntity	TDF	D000068698
+1776	20648600	946	949	ChemicalEntity	LAM	D019259
+1777	20648600	954	957	ChemicalEntity	TDF	D000068698
+1778	20648600	987	990	ChemicalEntity	LAM	D019259
+1779	20648600	1019	1024	SequenceVariant	L180M	p|SUB|L|180|M
+1780	20648600	1029	1034	SequenceVariant	M204V	p|SUB|M|204|V
+1781	20648600	1072	1080	OrganismTaxon	patients	9606
+1782	20648600	1086	1093	DiseaseOrPhenotypicFeature	viremia	D014766
+1783	20648600	1130	1135	SequenceVariant	V173L	p|SUB|V|173|L
+1784	20648600	1163	1171	OrganismTaxon	patients	9606
+1785	20648600	1179	1187	OrganismTaxon	patients	9606
+1786	20648600	1204	1214	GeneOrGeneProduct	polymerase	944565
+1787	20648600	1239	1244	SequenceVariant	V173L	p|SUB|V|173|L
+1788	20648600	1249	1254	SequenceVariant	L180M	p|SUB|L|180|M
+1789	20648600	1259	1264	SequenceVariant	M204V	p|SUB|M|204|V
+1790	20648600	1296	1304	GeneOrGeneProduct	envelope	944569
+1791	20648600	1312	1317	SequenceVariant	E164D	p|SUB|E|164|D
+1792	20648600	1321	1326	SequenceVariant	I195M	p|SUB|I|195|M
+1793	20648600	1358	1364	SequenceVariant	A1762T	g|SUB|A|1762|T
+1794	20648600	1366	1372	SequenceVariant	G1764A	g|SUB|G|1764|A
+1795	20648600	1385	1392	GeneOrGeneProduct	precore	944568
+1796	20648600	1401	1407	SequenceVariant	G1896A	g|SUB|G|1896|A
+1797	20648600	1409	1415	SequenceVariant	G1899A	g|SUB|G|1899|A
+1798	20648600	1446	1449	ChemicalEntity	TDF	D000068698
+1799	20648600	1520	1523	ChemicalEntity	LAM	D019259
+1800	20648600	1590	1593	OrganismTaxon	HBV	10407
+1801	20648600	1682	1685	ChemicalEntity	TDF	D000068698
+1802	20648600	1740	1743	ChemicalEntity	TDF	D000068698
+1803	20683499	18	51	ChemicalEntity	constituents of Crocus sativus L.	D010936
+1804	20683499	53	59	ChemicalEntity	crocin	C029036
+1805	20683499	63	75	ChemicalEntity	streptozocin	D013311
+1806	20683499	102	121	DiseaseOrPhenotypicFeature	Alzheimer's disease	D000544
+1807	20683499	130	134	OrganismTaxon	rats	10116
+1808	20683499	181	192	ChemicalEntity	carotenoids	D002338
+1809	20683499	194	201	ChemicalEntity	crocins	C029036
+1810	20683499	240	265	ChemicalEntity	Crocus sativus L. extract	D010936
+1811	20683499	354	361	ChemicalEntity	crocins	C029036
+1812	20683499	374	393	DiseaseOrPhenotypicFeature	Alzheimer's disease	D000544
+1813	20683499	435	447	ChemicalEntity	streptozocin	D013311
+1814	20683499	449	452	ChemicalEntity	STZ	D013311
+1815	20683499	462	466	OrganismTaxon	rats	10116
+1816	20683499	512	516	OrganismTaxon	rats	10116
+1817	20683499	579	586	ChemicalEntity	crocins	C029036
+1818	20683499	609	612	ChemicalEntity	STZ	D013311
+1819	20683499	623	626	ChemicalEntity	STZ	D013311
+1820	20683499	629	636	ChemicalEntity	crocins	C029036
+1821	20683499	666	685	DiseaseOrPhenotypicFeature	Alzheimer's disease	D000544
+1822	20683499	694	698	OrganismTaxon	rats	10116
+1823	20683499	718	721	ChemicalEntity	STZ	D013311
+1824	20683499	789	792	ChemicalEntity	STZ	D013311
+1825	20683499	826	829	ChemicalEntity	STZ	D013311
+1826	20683499	832	838	ChemicalEntity	crocin	C029036
+1827	20683499	854	860	ChemicalEntity	crocin	C029036
+1828	20683499	975	981	ChemicalEntity	crocin	C029036
+1829	20683499	1210	1216	ChemicalEntity	crocin	C029036
+1830	20683499	1236	1239	ChemicalEntity	STZ	D013311
+1831	20683499	1249	1253	OrganismTaxon	rats	10116
+1832	20683499	1330	1333	ChemicalEntity	STZ	D013311
+1833	20683499	1343	1347	OrganismTaxon	rats	10116
+1834	20683499	1362	1368	ChemicalEntity	crocin	C029036
+1835	20683499	1422	1452	DiseaseOrPhenotypicFeature	learning and memory impairment	D007859,D008569
+1836	20683499	1464	1467	ChemicalEntity	STZ	D013311
+1837	20683499	1580	1586	ChemicalEntity	crocin	C029036
+1838	20683499	1618	1636	DiseaseOrPhenotypicFeature	cognitive deficits	D003072
+1839	20683499	1647	1650	ChemicalEntity	STZ	D013311
+1840	20683499	1658	1662	OrganismTaxon	rats	10116
+1841	20683499	1701	1727	DiseaseOrPhenotypicFeature	neurodegenerative diseases	D019636
+1842	20683499	1736	1755	DiseaseOrPhenotypicFeature	Alzheimer's disease	D000544
+1843	20806042	20	24	GeneOrGeneProduct	GJA8	2703
+1844	20806042	44	73	DiseaseOrPhenotypicFeature	cataract-microcornea syndrome	C538287
+1845	20806042	133	147	DiseaseOrPhenotypicFeature	genetic defect	D030342
+1846	20806042	229	258	DiseaseOrPhenotypicFeature	cataract-microcornea syndrome	C538287
+1847	20806042	260	264	DiseaseOrPhenotypicFeature	CCMC	C538287
+1848	20806042	647	657	SequenceVariant	c.592C-->T	c|SUB|C|592|T
+1849	20806042	675	704	GeneOrGeneProduct	gap junction protein, alpha 8	2703
+1850	20806042	706	710	GeneOrGeneProduct	GJA8	2703
+1851	20806042	821	856	SequenceVariant	arginine to tryptophan at codon 198	p|SUB|R|198|W
+1852	20806042	858	865	SequenceVariant	p.R198W	p|SUB|R|198|W
+1853	20806042	1071	1078	SequenceVariant	p.R198W	p|SUB|R|198|W
+1854	20806042	1091	1095	GeneOrGeneProduct	GJA8	2703
+1855	20806042	1101	1105	DiseaseOrPhenotypicFeature	CCMC	C538287
+1856	20806042	1151	1155	GeneOrGeneProduct	GJA8	2703
+1857	20806042	1186	1194	DiseaseOrPhenotypicFeature	cataract	D002386
+1858	20806042	1199	1210	DiseaseOrPhenotypicFeature	microcornea	D005124
+1859	21496008	56	83	GeneOrGeneProduct	Aristaless-related homeobox	170302
+1860	21496008	85	88	GeneOrGeneProduct	ARX	170302
+1861	21496008	96	99	GeneOrGeneProduct	ARX	170302
+1862	21496008	138	143	OrganismTaxon	human	9606
+1863	21496008	175	206	DiseaseOrPhenotypicFeature	brain and genital malformations	D000013
+1864	21496008	224	247	DiseaseOrPhenotypicFeature	intellectual disability	D008607
+1865	21496008	249	251	DiseaseOrPhenotypicFeature	ID	D008607
+1866	21496008	254	257	GeneOrGeneProduct	ARX	170302
+1867	21496008	324	335	ChemicalEntity	polyalanine	C019529
+1868	21496008	337	339	ChemicalEntity	pA	C019529
+1869	21496008	474	476	DiseaseOrPhenotypicFeature	ID	D008607
+1870	21496008	509	512	GeneOrGeneProduct	ARX	170302
+1871	21496008	524	540	SequenceVariant	c.304ins(GCG)(7)	c|INS|304|GCG(7)
+1872	21496008	563	575	SequenceVariant	c.429_452dup	c|DUP|429_452||
+1873	21496008	577	584	SequenceVariant	dup24bp	c|DUP||24|
+1874	21496008	660	663	GeneOrGeneProduct	ARX	170302
+1875	21496008	847	850	GeneOrGeneProduct	ARX	170302
+1876	21496008	971	978	SequenceVariant	dup24bp	c|DUP||24|
+1877	21496008	1016	1023	SequenceVariant	dup24bp	c|DUP||24|
+1878	21496008	1045	1052	SequenceVariant	dup27bp	c|DUP||27|
+1879	21496008	1054	1061	SequenceVariant	dup33bp	c|DUP||33|
+1880	21496008	1147	1156	SequenceVariant	c.1074G>T	c|SUB|G|1074|T
+1881	21496008	1197	1200	GeneOrGeneProduct	ARX	170302
+1882	21496008	1250	1258	OrganismTaxon	patients	9606
+1883	21496008	1375	1378	GeneOrGeneProduct	ARX	170302
+1884	21699520	0	5	GeneOrGeneProduct	PTCH1	5727
+1885	21699520	110	115	OrganismTaxon	human	9606
+1886	21699520	116	137	DiseaseOrPhenotypicFeature	basal cell carcinomas	D002280
+1887	21699520	151	172	DiseaseOrPhenotypicFeature	Basal cell carcinomas	D002280
+1888	21699520	174	178	DiseaseOrPhenotypicFeature	BCCs	D002280
+1889	21699520	202	207	OrganismTaxon	human	9606
+1890	21699520	208	214	DiseaseOrPhenotypicFeature	cancer	D009369
+1891	21699520	291	306	DiseaseOrPhenotypicFeature	Gorlin syndrome	D001478
+1892	21699520	317	353	DiseaseOrPhenotypicFeature	inherited autosomal dominant disease	D030342
+1893	21699520	385	389	DiseaseOrPhenotypicFeature	BCCs	D002280
+1894	21699520	400	413	DiseaseOrPhenotypicFeature	birth defects	D000013
+1895	21699520	443	447	DiseaseOrPhenotypicFeature	BCCs	D002280
+1896	21699520	485	490	DiseaseOrPhenotypicFeature	tumor	D009369
+1897	21699520	507	512	GeneOrGeneProduct	PTCH1	5727
+1898	21699520	572	577	GeneOrGeneProduct	PTCH2	8643
+1899	21699520	665	669	DiseaseOrPhenotypicFeature	BCCs	D002280
+1900	21699520	713	718	DiseaseOrPhenotypicFeature	tumor	D009369
+1901	21699520	792	797	GeneOrGeneProduct	PTCH1	5727
+1902	21699520	802	807	GeneOrGeneProduct	PTCH2	8643
+1903	21699520	987	991	DiseaseOrPhenotypicFeature	BCCs	D002280
+1904	21699520	1039	1042	DiseaseOrPhenotypicFeature	BCC	D002280
+1905	21699520	1066	1075	SequenceVariant	g.2885G>C	g|SUB|G|2885|C
+1906	21699520	1090	1095	GeneOrGeneProduct	PTCH1	5727
+1907	21699520	1129	1136	SequenceVariant	p.R962T	p|SUB|R|962|T
+1908	21699520	1207	1212	DiseaseOrPhenotypicFeature	tumor	D009369
+1909	21699520	1226	1233	OrganismTaxon	patient	9606
+1910	21699520	1239	1254	DiseaseOrPhenotypicFeature	Gorlin syndrome	D001478
+1911	21699520	1275	1284	SequenceVariant	g.2839T>G	g|SUB|T|2839|G
+1912	21699520	1329	1339	SequenceVariant	p.E947stop	p|SUB|E|947|X
+1913	21699520	1379	1384	DiseaseOrPhenotypicFeature	tumor	D009369
+1914	21699520	1403	1414	SequenceVariant	IVS9 + 217T	c|Allele|T|IVS9+217
+1915	21699520	1430	1435	GeneOrGeneProduct	PTCH1	5727
+1916	21699520	1472	1477	GeneOrGeneProduct	PTCH1	5727
+1917	21699520	1575	1579	DiseaseOrPhenotypicFeature	BCCs	D002280
+1918	21799811	22	29	SequenceVariant	677 C>T	rs1801133
+1919	21799811	50	55	GeneOrGeneProduct	MTHFR	4524
+1920	21799811	66	82	DiseaseOrPhenotypicFeature	male infertility	D007248
+1921	21799811	149	184	GeneOrGeneProduct	Methylenetetrahydrofolate reductase	4524
+1922	21799811	186	191	GeneOrGeneProduct	MTHFR	4524
+1923	21799811	219	225	ChemicalEntity	folate	D005492
+1924	21799811	230	240	ChemicalEntity	methionine	D008715
+1925	21799811	349	354	GeneOrGeneProduct	MTHFR	4524
+1926	21799811	360	366	SequenceVariant	677C>T	rs1801133
+1927	21799811	938	944	SequenceVariant	677C>T	rs1801133
+1928	21799811	961	977	DiseaseOrPhenotypicFeature	male infertility	D007248
+1929	21799811	1639	1645	SequenceVariant	677C>T	rs1801133
+1930	21799811	1664	1680	DiseaseOrPhenotypicFeature	male infertility	D007248
+1931	21799811	1708	1714	SequenceVariant	677C>T	rs1801133
+1932	21799811	1753	1769	DiseaseOrPhenotypicFeature	male infertility	D007248
+1933	21799811	1869	1885	DiseaseOrPhenotypicFeature	male infertility	D007248
+1934	21810259	0	5	OrganismTaxon	HIV-1	11676
+1935	21810259	6	9	GeneOrGeneProduct	Tat	155871
+1936	21810259	20	47	GeneOrGeneProduct	indoleamine 2,3 dioxygenase	15930
+1937	21810259	51	57	OrganismTaxon	murine	10090
+1938	21810259	102	138	GeneOrGeneProduct	p38 mitogen-activated protein kinase	26416
+1939	21810259	212	222	ChemicalEntity	tryptophan	D014364
+1940	21810259	240	267	GeneOrGeneProduct	indoleamine 2,3 dioxygenase	15930
+1941	21810259	269	272	GeneOrGeneProduct	IDO	15930
+1942	21810259	337	347	DiseaseOrPhenotypicFeature	depressive	D000275
+1943	21810259	371	406	OrganismTaxon	human immunodeficiency virus type 1	11676
+1944	21810259	408	413	OrganismTaxon	HIV-1	11676
+1945	21810259	415	418	GeneOrGeneProduct	Tat	155871
+1946	21810259	434	444	DiseaseOrPhenotypicFeature	depressive	D000275
+1947	21810259	462	466	OrganismTaxon	mice	10090
+1948	21810259	508	511	GeneOrGeneProduct	IDO	15930
+1949	21810259	584	591	CellLine	C57BL/6	10090
+1950	21810259	592	596	OrganismTaxon	mice	10090
+1951	21810259	607	617	DiseaseOrPhenotypicFeature	Depressive	D000275
+1952	21810259	635	643	CellLine	C57BL/6J	10090
+1953	21810259	644	648	OrganismTaxon	mice	10090
+1954	21810259	715	718	GeneOrGeneProduct	IDO	15930
+1955	21810259	848	856	GeneOrGeneProduct	p38 MAPK	26416
+1956	21810259	963	966	GeneOrGeneProduct	Tat	155871
+1957	21810259	983	993	DiseaseOrPhenotypicFeature	depressive	D000275
+1958	21810259	1048	1051	GeneOrGeneProduct	Tat	155871
+1959	21810259	1097	1100	GeneOrGeneProduct	IDO	15930
+1960	21810259	1188	1192	GeneOrGeneProduct	IFNg	15978
+1961	21810259	1194	1197	GeneOrGeneProduct	Tat	155871
+1962	21810259	1240	1244	GeneOrGeneProduct	TNFa	21926
+1963	21810259	1249	1253	GeneOrGeneProduct	IL-6	16193
+1964	21810259	1327	1369	GeneOrGeneProduct	inducible isoform of nitric oxide synthase	18126
+1965	21810259	1371	1375	GeneOrGeneProduct	iNOS	18126
+1966	21810259	1385	1406	GeneOrGeneProduct	serotonin transporter	15567
+1967	21810259	1408	1412	GeneOrGeneProduct	SERT	15567
+1968	21810259	1415	1418	GeneOrGeneProduct	Tat	155871
+1969	21810259	1460	1464	GeneOrGeneProduct	IFNg	15978
+1970	21810259	1495	1498	GeneOrGeneProduct	Tat	155871
+1971	21810259	1507	1510	GeneOrGeneProduct	IDO	15930
+1972	21810259	1555	1591	GeneOrGeneProduct	p38 mitogen-activated protein kinase	26416
+1973	21810259	1593	1597	GeneOrGeneProduct	MAPK	26416
+1974	21810259	1609	1618	ChemicalEntity	SB 202190	C090942
+1975	21810259	1637	1640	GeneOrGeneProduct	Tat	155871
+1976	21810259	1652	1661	ChemicalEntity	SB 202190	C090942
+1977	21810259	1686	1689	GeneOrGeneProduct	IDO	15930
+1978	21810259	1712	1715	GeneOrGeneProduct	Tat	155871
+1979	21810259	1767	1770	GeneOrGeneProduct	Tat	155871
+1980	21810259	1793	1797	GeneOrGeneProduct	TNFa	21926
+1981	21810259	1799	1803	GeneOrGeneProduct	IL-6	16193
+1982	21810259	1805	1809	GeneOrGeneProduct	iNOS	18126
+1983	21810259	1814	1818	GeneOrGeneProduct	SERT	15567
+1984	21810259	1858	1861	GeneOrGeneProduct	Tat	155871
+1985	21810259	1870	1873	GeneOrGeneProduct	IDO	15930
+1986	21810259	1892	1896	GeneOrGeneProduct	IFNg	15978
+1987	21810259	1951	1959	GeneOrGeneProduct	p38 MAPK	26416
+1988	21810259	1971	1974	GeneOrGeneProduct	IDO	3620
+1989	21810259	1989	1997	GeneOrGeneProduct	p38 MAPK	26416
+1990	21810259	2059	2079	DiseaseOrPhenotypicFeature	depressive disorders	D000275
+1991	21810259	2083	2097	DiseaseOrPhenotypicFeature	HIV-1-infected	D015658
+1992	21810259	2098	2106	OrganismTaxon	patients	9606
+1993	21911891	0	38	GeneOrGeneProduct	Plasminogen activator inhibitor type 1	5054
+1994	21911891	92	97	DiseaseOrPhenotypicFeature	obese	D009765
+1995	21911891	107	115	OrganismTaxon	patients	9606
+1996	21911891	121	154	DiseaseOrPhenotypicFeature	non-alcoholic fatty liver disease	D065626
+1997	21911891	172	210	GeneOrGeneProduct	plasminogen activator inhibitor type-1	5054
+1998	21911891	212	217	GeneOrGeneProduct	PAI-1	5054
+1999	21911891	413	418	GeneOrGeneProduct	PAI-1	5054
+2000	21911891	435	440	GeneOrGeneProduct	PAI-1	5054
+2001	21911891	468	488	DiseaseOrPhenotypicFeature	hepatic fibrogenesis	D008107
+2002	21911891	524	529	GeneOrGeneProduct	PAI-1	5054
+2003	21911891	581	595	DiseaseOrPhenotypicFeature	liver fibrosis	D008103
+2004	21911891	610	643	DiseaseOrPhenotypicFeature	non-alcoholic fatty liver disease	D065626
+2005	21911891	645	650	DiseaseOrPhenotypicFeature	NAFLD	D065626
+2006	21911891	664	669	DiseaseOrPhenotypicFeature	obese	D009765
+2007	21911891	670	678	OrganismTaxon	patients	9606
+2008	21911891	727	732	DiseaseOrPhenotypicFeature	obese	D009765
+2009	21911891	733	741	OrganismTaxon	patients	9606
+2010	21911891	782	787	DiseaseOrPhenotypicFeature	obese	D009765
+2011	21911891	891	896	GeneOrGeneProduct	PAI-1	5054
+2012	21911891	1009	1022	ChemicalEntity	triglycerides	D014280
+2013	21911891	1033	1045	DiseaseOrPhenotypicFeature	hypertension	D006973
+2014	21911891	1050	1058	DiseaseOrPhenotypicFeature	diabetes	D003920
+2015	21911891	1088	1093	DiseaseOrPhenotypicFeature	obese	D009765
+2016	21911891	1094	1102	OrganismTaxon	patients	9606
+2017	21911891	1133	1138	GeneOrGeneProduct	PAI-1	5054
+2018	21911891	1164	1169	DiseaseOrPhenotypicFeature	obese	D009765
+2019	21911891	1170	1178	OrganismTaxon	patients	9606
+2020	21911891	1298	1303	GeneOrGeneProduct	PAI-1	5054
+2021	21911891	1385	1390	GeneOrGeneProduct	PAI-1	5054
+2022	21911891	1411	1416	DiseaseOrPhenotypicFeature	obese	D009765
+2023	21911891	1417	1425	OrganismTaxon	patients	9606
+2024	21911891	1431	1445	DiseaseOrPhenotypicFeature	liver fibrosis	D008103
+2025	21911891	1471	1479	OrganismTaxon	patients	9606
+2026	21911891	1488	1502	DiseaseOrPhenotypicFeature	liver fibrosis	D008103
+2027	21911891	1527	1532	GeneOrGeneProduct	PAI-1	5054
+2028	21911891	1586	1594	OrganismTaxon	patients	9606
+2029	21911891	1611	1625	DiseaseOrPhenotypicFeature	liver fibrosis	D008103
+2030	21911891	1640	1644	DiseaseOrPhenotypicFeature	NASH	D065626
+2031	21911891	1678	1683	DiseaseOrPhenotypicFeature	obese	D009765
+2032	21911891	1684	1692	OrganismTaxon	patients	9606
+2033	21911891	1717	1722	GeneOrGeneProduct	PAI-1	5054
+2034	21911891	1749	1754	GeneOrGeneProduct	PAI-1	5054
+2035	21911891	1799	1804	DiseaseOrPhenotypicFeature	obese	D009765
+2036	21911891	1970	1975	GeneOrGeneProduct	PAI-1	5054
+2037	21911891	2012	2026	DiseaseOrPhenotypicFeature	liver fibrosis	D008103
+2038	21911891	2030	2035	DiseaseOrPhenotypicFeature	obese	D009765
+2039	21911891	2036	2044	OrganismTaxon	patients	9606
+2040	22048266	56	60	GeneOrGeneProduct	ETS2	2114
+2041	22048266	65	69	GeneOrGeneProduct	SIM2	6493
+2042	22048266	79	92	DiseaseOrPhenotypicFeature	Down syndrome	D004314
+2043	22048266	182	195	DiseaseOrPhenotypicFeature	Down syndrome	D004314
+2044	22048266	197	199	DiseaseOrPhenotypicFeature	DS	D004314
+2045	22048266	341	343	DiseaseOrPhenotypicFeature	DS	D004314
+2046	22048266	414	429	GeneOrGeneProduct	Single minded 2	6493
+2047	22048266	431	435	GeneOrGeneProduct	SIM2	6493
+2048	22048266	441	491	GeneOrGeneProduct	V-ets erythroblastosis virus E26 oncogene homolog2	2114
+2049	22048266	493	497	GeneOrGeneProduct	ETS2	2114
+2050	22048266	576	578	DiseaseOrPhenotypicFeature	DS	D004314
+2051	22048266	624	626	DiseaseOrPhenotypicFeature	DS	D004314
+2052	22048266	799	803	GeneOrGeneProduct	ETS2	2114
+2053	22048266	804	812	SequenceVariant	rs461155	rs461155
+2054	22048266	843	845	DiseaseOrPhenotypicFeature	DS	D004314
+2055	22048266	880	884	GeneOrGeneProduct	SIM2	6493
+2056	22048266	900	909	SequenceVariant	rs2073601	rs2073601
+2057	22048266	910	919	SequenceVariant	rs2073416	rs2073416
+2058	22048266	953	955	DiseaseOrPhenotypicFeature	DS	D004314
+2059	22048266	1135	1137	DiseaseOrPhenotypicFeature	DS	D004314
+2060	22048266	1215	1224	SequenceVariant	rs2073601	rs2073601
+2061	22048266	1283	1304	SequenceVariant	leucine to methionine	rs2073601
+2062	22048266	1328	1330	DiseaseOrPhenotypicFeature	DS	D004314
+2063	22180037	28	56	GeneOrGeneProduct	glutathione-S-transferase P1	2950
+2064	22180037	63	68	GeneOrGeneProduct	GSTP1	2950
+2065	22180037	92	107	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+2066	22180037	136	164	GeneOrGeneProduct	Glutathione-S-transferase P1	2950
+2067	22180037	166	171	GeneOrGeneProduct	GSTP1	2950
+2068	22180037	280	285	GeneOrGeneProduct	GSTP1	2950
+2069	22180037	289	312	SequenceVariant	A > G at nucleotide 313	rs1695
+2070	22180037	359	368	SequenceVariant	Ile105Val	rs1695
+2071	22180037	403	408	GeneOrGeneProduct	GSTP1	2950
+2072	22180037	443	448	GeneOrGeneProduct	GSTP1	2950
+2073	22180037	469	474	GeneOrGeneProduct	GSTP1	2950
+2074	22180037	475	484	SequenceVariant	Ile105Val	rs1695
+2075	22180037	507	522	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+2076	22180037	603	618	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+2077	22180037	632	659	DiseaseOrPhenotypicFeature	benign prostate hyperplasia	D011470
+2078	22180037	683	688	GeneOrGeneProduct	GSTP1	2950
+2079	22180037	689	698	SequenceVariant	Ile105Val	rs1695
+2080	22180037	865	870	GeneOrGeneProduct	GSTP1	2950
+2081	22180037	871	880	SequenceVariant	Ile105Val	rs1695
+2082	22180037	984	999	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+2083	22180037	1032	1059	DiseaseOrPhenotypicFeature	benign prostate hyperplasia	D011470
+2084	22180037	1177	1182	GeneOrGeneProduct	GSTP1	2950
+2085	22180037	1183	1190	SequenceVariant	Ile/Val	rs1695
+2086	22180037	1261	1266	GeneOrGeneProduct	GSTP1	2950
+2087	22180037	1267	1274	SequenceVariant	Ile/Val	rs1695
+2088	22180037	1315	1330	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+2089	22369755	22	25	ChemicalEntity	NNK	C016583
+2090	22369755	30	37	GeneOrGeneProduct	SLURP-1	57152
+2091	22369755	116	149	GeneOrGeneProduct	nicotinic acetylcholine receptors	1136
+2092	22369755	215	222	OrganismTaxon	tobacco	4097
+2093	22369755	223	234	ChemicalEntity	nitrosamine	D009602
+2094	22369755	236	282	ChemicalEntity	4-(methylnitrosamino)-1-(3-pyridyl)-1-butanone	C016583
+2095	22369755	285	288	ChemicalEntity	NNK	C016583
+2096	22369755	301	313	DiseaseOrPhenotypicFeature	carcinogenic	D009369
+2097	22369755	350	353	ChemicalEntity	NNK	C016583
+2098	22369755	435	498	GeneOrGeneProduct	Ly-6/urokinase plasminogen activator receptor related protein-1	57152
+2099	22369755	500	507	GeneOrGeneProduct	SLURP-1	57152
+2100	22369755	533	536	ChemicalEntity	NNK	C016583
+2101	22369755	556	563	GeneOrGeneProduct	SLURP-1	57152
+2102	22369755	602	615	DiseaseOrPhenotypicFeature	tumorigenesis	D009369
+2103	22369755	619	624	OrganismTaxon	human	9606
+2104	22369755	679	684	CellLine	BEP2D	9606
+2105	22369755	689	695	CellLine	Het-1A	9606
+2106	22369755	725	728	ChemicalEntity	NNK	C016583
+2107	22369755	781	784	GeneOrGeneProduct	MYB	4602
+2108	22369755	789	795	GeneOrGeneProduct	PIK3CA	5290
+2109	22369755	799	804	CellLine	BEP2D	9606
+2110	22369755	806	810	GeneOrGeneProduct	ETS1	2113
+2111	22369755	812	816	GeneOrGeneProduct	NRAS	4893
+2112	22369755	821	824	GeneOrGeneProduct	SRC	6714
+2113	22369755	828	834	CellLine	Het-1A	9606
+2114	22369755	840	844	GeneOrGeneProduct	AKT1	207
+2115	22369755	846	849	GeneOrGeneProduct	KIT	3815
+2116	22369755	854	857	GeneOrGeneProduct	RB1	5925
+2117	22369755	922	930	GeneOrGeneProduct	rSLURP-1	57152
+2118	22369755	938	944	DiseaseOrPhenotypicFeature	cancer	D009369
+2119	22369755	981	984	ChemicalEntity	NNK	C016583
+2120	22369755	1004	1012	GeneOrGeneProduct	rSLURP-1	57152
+2121	22369755	1037	1040	GeneOrGeneProduct	EGF	1950
+2122	22369755	1044	1049	CellLine	BEP2D	9606
+2123	22369755	1060	1063	GeneOrGeneProduct	HGF	3082
+2124	22369755	1067	1073	CellLine	Het-1A	9606
+2125	22369755	1111	1117	GeneOrGeneProduct	CDKN2A	1029
+2126	22369755	1122	1127	GeneOrGeneProduct	STAT3	6774
+2127	22369755	1129	1135	CellLine	Het-1A	9606
+2128	22369755	1143	1146	ChemicalEntity	NNK	C016583
+2129	22369755	1183	1187	GeneOrGeneProduct	BCL2	596
+2130	22369755	1189	1195	CellLine	Het-1A	9606
+2131	22369755	1233	1236	GeneOrGeneProduct	TNF	7124
+2132	22369755	1238	1244	CellLine	Het-1A	9606
+2133	22369755	1247	1250	GeneOrGeneProduct	BAX	581
+2134	22369755	1255	1260	GeneOrGeneProduct	CASP8	841
+2135	22369755	1262	1267	CellLine	BEP2D	9606
+2136	22369755	1315	1323	GeneOrGeneProduct	rSLURP-1	57152
+2137	22369755	1325	1328	ChemicalEntity	NNK	C016583
+2138	22369755	1357	1363	GeneOrGeneProduct	CTNNB1	1499
+2139	22369755	1414	1426	GeneOrGeneProduct	beta-catenin	1499
+2140	22369755	1428	1433	CellLine	BEP2D	9606
+2141	22369755	1447	1452	DiseaseOrPhenotypicFeature	tumor	D009369
+2142	22369755	1465	1470	GeneOrGeneProduct	CDKN3	1033
+2143	22369755	1475	1480	GeneOrGeneProduct	FOXD3	27022
+2144	22369755	1484	1489	CellLine	BEP2D	9606
+2145	22369755	1500	1508	GeneOrGeneProduct	SERPINB5	5268
+2146	22369755	1512	1518	CellLine	Het-1A	9606
+2147	22369755	1557	1560	ChemicalEntity	NNK	C016583
+2148	22369755	1579	1587	GeneOrGeneProduct	rSLURP-1	57152
+2149	22369755	1610	1615	GeneOrGeneProduct	RUNX3	864
+2150	22369755	1685	1688	ChemicalEntity	NNK	C016583
+2151	22369755	1693	1700	GeneOrGeneProduct	SLURP-1	57152
+2152	22369755	1774	1785	DiseaseOrPhenotypicFeature	tumorigenic	D009369
+2153	22729903	16	21	GeneOrGeneProduct	STAT4	6775
+2154	22729903	61	89	DiseaseOrPhenotypicFeature	systemic lupus erythematosus	D008180
+2155	22729903	120	125	GeneOrGeneProduct	STAT4	6775
+2156	22729903	188	216	DiseaseOrPhenotypicFeature	systemic lupus erythematosus	D008180
+2157	22729903	218	221	DiseaseOrPhenotypicFeature	SLE	D008180
+2158	22729903	333	336	DiseaseOrPhenotypicFeature	SLE	D008180
+2159	22729903	386	391	GeneOrGeneProduct	STAT4	6775
+2160	22729903	392	397	SequenceVariant	G > C	rs7582694
+2161	22729903	399	408	SequenceVariant	rs7582694	rs7582694
+2162	22729903	426	434	OrganismTaxon	patients	9606
+2163	22729903	440	443	DiseaseOrPhenotypicFeature	SLE	D008180
+2164	22729903	529	537	OrganismTaxon	patients	9606
+2165	22729903	547	552	GeneOrGeneProduct	STAT4	6775
+2166	22729903	615	618	DiseaseOrPhenotypicFeature	SLE	D008180
+2167	22729903	776	781	GeneOrGeneProduct	STAT4	6775
+2168	22729903	839	842	DiseaseOrPhenotypicFeature	SLE	D008180
+2169	22729903	923	928	GeneOrGeneProduct	STAT4	6775
+2170	22729903	954	957	DiseaseOrPhenotypicFeature	SLE	D008180
+2171	22729903	958	966	OrganismTaxon	patients	9606
+2172	22729903	972	986	DiseaseOrPhenotypicFeature	renal symptoms	D007674
+2173	22729903	1052	1055	DiseaseOrPhenotypicFeature	SLE	D008180
+2174	22729903	1056	1064	OrganismTaxon	patients	9606
+2175	22729903	1192	1197	GeneOrGeneProduct	STAT4	6775
+2176	22729903	1248	1253	GeneOrGeneProduct	snRNP	57819
+2177	22729903	1344	1350	GeneOrGeneProduct	Scl-70	7150
+2178	22729903	1457	1462	GeneOrGeneProduct	STAT4	6775
+2179	22729903	1466	1475	SequenceVariant	rs7582694	rs7582694
+2180	22729903	1509	1512	DiseaseOrPhenotypicFeature	SLE	D008180
+2181	23872883	23	49	ChemicalEntity	Solidago virgaurea extract	D010936
+2182	23872883	66	80	DiseaseOrPhenotypicFeature	cardiotoxicity	D066126
+2183	23872883	82	105	DiseaseOrPhenotypicFeature	Cardiovascular diseases	D002318
+2184	23872883	107	111	DiseaseOrPhenotypicFeature	CVDs	D002318
+2185	23872883	277	303	ChemicalEntity	Solidago virgaurea extract	D010936
+2186	23872883	307	320	ChemicalEntity	isoproterenol	D007545
+2187	23872883	329	343	DiseaseOrPhenotypicFeature	cardiotoxicity	D066126
+2188	23872883	347	351	OrganismTaxon	rats	10116
+2189	23872883	383	396	ChemicalEntity	isoproterenol	D007545
+2190	23872883	413	417	OrganismTaxon	rats	10116
+2191	23872883	513	534	GeneOrGeneProduct	lactate dehydrogenase	24533
+2192	23872883	536	558	GeneOrGeneProduct	creatine phosphokinase	24264
+2193	23872883	560	580	GeneOrGeneProduct	alanine transaminase	81670
+2194	23872883	582	604	GeneOrGeneProduct	aspartate transaminase	25721
+2195	23872883	610	639	GeneOrGeneProduct	angiotensin-converting enzyme	24310
+2196	23872883	658	669	ChemicalEntity	cholesterol	D002784
+2197	23872883	671	684	ChemicalEntity	triglycerides	D014280
+2198	23872883	697	707	ChemicalEntity	fatty acid	D005227
+2199	23872883	724	739	ChemicalEntity	malondialdehyde	D008315
+2200	23872883	741	744	ChemicalEntity	MDA	D008315
+2201	23872883	751	763	ChemicalEntity	nitric oxide	D009569
+2202	23872883	811	822	ChemicalEntity	glutathione	D005978
+2203	23872883	827	847	GeneOrGeneProduct	superoxide dismutase	24786
+2204	23872883	936	956	ChemicalEntity	S. virgaurea extract	D010936
+2205	23872883	1004	1017	ChemicalEntity	isoproterenol	D007545
+2206	23872883	1078	1087	ChemicalEntity	Captopril	D002216
+2207	23872883	1134	1163	GeneOrGeneProduct	angiotensin-converting enzyme	24310
+2208	23872883	1183	1204	ChemicalEntity	cardioprotective drug	D002316
+2209	23872883	1295	1315	ChemicalEntity	S. virgaurea extract	D010936
+2210	23872883	1359	1362	ChemicalEntity	MDA	D008315
+2211	23872883	1410	1423	ChemicalEntity	isoproterenol	D007545
+2212	23872883	1432	1436	OrganismTaxon	rats	10116
+2213	23872883	1484	1504	ChemicalEntity	S. virgaurea extract	D010936
+2214	23872883	1510	1532	ChemicalEntity	cardioprotective agent	D002316
+2215	24114426	0	10	DiseaseOrPhenotypicFeature	Depression	D003866
+2216	24114426	12	25	DiseaseOrPhenotypicFeature	impulsiveness	D010554
+2217	24114426	83	116	ChemicalEntity	3,4-methylenedioxymethamphetamine	D018817
+2218	24114426	118	122	ChemicalEntity	MDMA	D018817
+2219	24114426	124	131	ChemicalEntity	ecstasy	D018817
+2220	24114426	145	152	ChemicalEntity	Ecstasy	D018817
+2221	24114426	154	187	ChemicalEntity	3,4-methylenedioxymethamphetamine	D018817
+2222	24114426	189	193	ChemicalEntity	MDMA	D018817
+2223	24114426	270	275	OrganismTaxon	human	9606
+2224	24114426	430	433	ChemicalEntity	5HT	D012701
+2225	24114426	482	489	ChemicalEntity	ecstasy	D018817
+2226	24114426	731	738	ChemicalEntity	alcohol	D000431
+2227	24114426	739	747	ChemicalEntity	nicotine	D009538
+2228	24114426	749	751	ChemicalEntity	AN	D000431,D009538
+2229	24114426	754	762	ChemicalEntity	cannabis	D002188
+2230	24114426	763	770	ChemicalEntity	alcohol	D000431
+2231	24114426	771	779	ChemicalEntity	nicotine	D009538
+2232	24114426	781	784	ChemicalEntity	CAN	D000431,D002188,D009538
+2233	24114426	791	798	ChemicalEntity	ecstasy	D018817
+2234	24114426	823	830	ChemicalEntity	ecstasy	D018817
+2235	24114426	857	861	ChemicalEntity	MDMA	D018817
+2236	24114426	882	886	ChemicalEntity	MDMA	D018817
+2237	24114426	1135	1138	ChemicalEntity	CAN	D000431,D002188,D009538
+2238	24114426	1219	1223	ChemicalEntity	MDMA	D018817
+2239	24114426	1231	1235	ChemicalEntity	MDMA	D018817
+2240	24114426	1415	1422	ChemicalEntity	ecstasy	D018817
+2241	24114426	1481	1488	ChemicalEntity	ecstasy	D018817
+2242	24114426	1656	1671	DiseaseOrPhenotypicFeature	impaired memory	D008569
+2243	24114426	1709	1719	DiseaseOrPhenotypicFeature	depression	D003866
+2244	24114426	1721	1734	DiseaseOrPhenotypicFeature	impulsiveness	D010554
+2245	24114426	1740	1757	DiseaseOrPhenotypicFeature	sleep disturbance	D020920
+2246	24114426	1803	1810	ChemicalEntity	ecstasy	D018817
+2247	24126708	42	48	GeneOrGeneProduct	HOMER1	9456
+2248	24126708	59	67	ChemicalEntity	levodopa	D007980
+2249	24126708	87	106	DiseaseOrPhenotypicFeature	Parkinson's disease	D010300
+2250	24126708	107	115	OrganismTaxon	patients	9606
+2251	24126708	117	125	ChemicalEntity	Levodopa	D007980
+2252	24126708	172	191	DiseaseOrPhenotypicFeature	Parkinson's disease	D010300
+2253	24126708	281	291	DiseaseOrPhenotypicFeature	dyskinesia	D004409
+2254	24126708	296	317	DiseaseOrPhenotypicFeature	visual hallucinations	D006212
+2255	24126708	319	325	GeneOrGeneProduct	HOMER1	9456
+2256	24126708	364	373	ChemicalEntity	glutamate	D018698
+2257	24126708	508	514	GeneOrGeneProduct	HOMER1	9456
+2258	24126708	603	611	ChemicalEntity	levodopa	D007980
+2259	24126708	636	644	OrganismTaxon	patients	9606
+2260	24126708	650	680	DiseaseOrPhenotypicFeature	idiopathic Parkinson's disease	D010300
+2261	24126708	700	708	OrganismTaxon	Patients	9606
+2262	24126708	728	737	SequenceVariant	rs4704559	rs4704559
+2263	24126708	739	749	SequenceVariant	rs10942891	rs10942891
+2264	24126708	754	763	SequenceVariant	rs4704560	rs4704560
+2265	24126708	814	823	SequenceVariant	rs4704559	rs4704559
+2266	24126708	875	885	DiseaseOrPhenotypicFeature	dyskinesia	D004409
+2267	24126708	971	992	DiseaseOrPhenotypicFeature	visual hallucinations	D006212
+2268	24126708	1056	1062	GeneOrGeneProduct	HOMER1	9456
+2269	24126708	1063	1072	SequenceVariant	rs4704559	rs4704559
+2270	24126708	1127	1135	ChemicalEntity	levodopa	D007980
+2271	24132704	0	6	ChemicalEntity	Crocin	C029036
+2272	24132704	16	21	ChemicalEntity	lipid	D008055
+2273	24132704	48	56	ChemicalEntity	diazinon	D003976
+2274	24132704	74	80	GeneOrGeneProduct	ERK1/2	116590,50689
+2275	24132704	92	95	OrganismTaxon	rat	10116
+2276	24132704	117	125	ChemicalEntity	Diazinon	D003976
+2277	24132704	159	175	ChemicalEntity	organophosphorus	D010755
+2278	24132704	240	248	ChemicalEntity	diazinon	D003976
+2279	24132704	268	273	ChemicalEntity	lipid	D008055
+2280	24132704	324	330	ChemicalEntity	crocin	C029036
+2281	24132704	396	433	GeneOrGeneProduct	Extracellular signal-regulated kinase	116590,50689
+2282	24132704	435	438	GeneOrGeneProduct	ERK	116590,50689
+2283	24132704	452	484	GeneOrGeneProduct	low-density lipoprotein receptor	300438
+2284	24132704	486	490	GeneOrGeneProduct	LDLr	300438
+2285	24132704	571	576	ChemicalEntity	lipid	D008055
+2286	24132704	589	592	GeneOrGeneProduct	ERK	116590,50689
+2287	24132704	597	601	GeneOrGeneProduct	LDLr	300438
+2288	24132704	629	633	OrganismTaxon	rats	10116
+2289	24132704	654	662	ChemicalEntity	diazinon	D003976
+2290	24132704	699	705	ChemicalEntity	crocin	C029036
+2291	24132704	709	717	ChemicalEntity	diazinon	D003976
+2292	24132704	736	747	ChemicalEntity	cholesterol	D002784
+2293	24132704	785	789	OrganismTaxon	Rats	10116
+2294	24132704	864	872	ChemicalEntity	Corn oil	D003314
+2295	24132704	884	892	ChemicalEntity	diazinon	D003976
+2296	24132704	923	929	ChemicalEntity	crocin	C029036
+2297	24132704	996	1004	ChemicalEntity	diazinon	D003976
+2298	24132704	1031	1042	ChemicalEntity	cholesterol	D002784
+2299	24132704	1044	1056	ChemicalEntity	triglyceride	D014280
+2300	24132704	1061	1064	ChemicalEntity	LDL	D008077
+2301	24132704	1077	1081	OrganismTaxon	rats	10116
+2302	24132704	1121	1125	GeneOrGeneProduct	LDLr	300438
+2303	24132704	1130	1136	GeneOrGeneProduct	ERK1/2	116590,50689
+2304	24132704	1195	1201	GeneOrGeneProduct	ERK1/2	116590,50689
+2305	24132704	1205	1208	OrganismTaxon	rat	10116
+2306	24132704	1364	1372	ChemicalEntity	diazinon	D003976
+2307	24132704	1415	1426	ChemicalEntity	cholesterol	D002784
+2308	24132704	1428	1440	ChemicalEntity	triglyceride	D014280
+2309	24132704	1445	1448	ChemicalEntity	LDL	D008077
+2310	24132704	1459	1467	ChemicalEntity	diazinon	D003976
+2311	24132704	1478	1484	GeneOrGeneProduct	ERK1/2	116590,50689
+2312	24132704	1513	1517	GeneOrGeneProduct	LDLr	300438
+2313	24132704	1530	1536	ChemicalEntity	Crocin	C029036
+2314	24132704	1559	1562	GeneOrGeneProduct	ERK	116590,50689
+2315	24132704	1578	1586	ChemicalEntity	diazinon	D003976
+2316	24132704	1595	1607	DiseaseOrPhenotypicFeature	hyperlipemia	D006949
+2317	24132704	1632	1636	GeneOrGeneProduct	LDLr	300438
+2318	24132704	1662	1668	ChemicalEntity	Crocin	C029036
+2319	24132704	1718	1726	ChemicalEntity	diazinon	D003976
+2320	24132704	1735	1747	DiseaseOrPhenotypicFeature	hyperlipemia	D006949
+2321	24132704	1770	1773	GeneOrGeneProduct	ERK	116590,50689
+2322	24132704	1798	1802	GeneOrGeneProduct	LDLr	300438
+2323	24535067	14	23	ChemicalEntity	etomidate	D005045
+2324	24535067	32	41	DiseaseOrPhenotypicFeature	myoclonus	D009207
+2325	24535067	62	70	ChemicalEntity	Fentanyl	D005283
+2326	24535067	72	81	ChemicalEntity	midazolam	D008874
+2327	24535067	230	238	ChemicalEntity	fentanyl	D005283
+2328	24535067	240	249	ChemicalEntity	midazolam	D008874
+2329	24535067	272	280	ChemicalEntity	fentanyl	D005283
+2330	24535067	285	294	ChemicalEntity	midazolam	D008874
+2331	24535067	306	315	ChemicalEntity	etomidate	D005045
+2332	24535067	324	333	DiseaseOrPhenotypicFeature	myoclonus	D009207
+2333	24535067	494	503	ChemicalEntity	etomidate	D005045
+2334	24535067	576	584	ChemicalEntity	fentanyl	D005283
+2335	24535067	606	615	ChemicalEntity	midazolam	D008874
+2336	24535067	644	653	ChemicalEntity	midazolam	D008874
+2337	24535067	670	678	ChemicalEntity	fentanyl	D005283
+2338	24535067	875	884	ChemicalEntity	etomidate	D005045
+2339	24535067	940	959	DiseaseOrPhenotypicFeature	Myoclonic movements	D009069
+2340	24535067	1064	1073	ChemicalEntity	etomidate	D005045
+2341	24535067	1101	1105	DiseaseOrPhenotypicFeature	pain	D010146
+2342	24535067	1113	1122	ChemicalEntity	etomidate	D005045
+2343	24535067	1246	1255	DiseaseOrPhenotypicFeature	myoclonus	D009207
+2344	24535067	1454	1462	ChemicalEntity	fentanyl	D005283
+2345	24535067	1481	1489	ChemicalEntity	fentanyl	D005283
+2346	24535067	1494	1503	ChemicalEntity	midazolam	D008874
+2347	24535067	1532	1541	ChemicalEntity	etomidate	D005045
+2348	24535067	1550	1559	DiseaseOrPhenotypicFeature	myoclonus	D009207
+2349	24739405	11	33	ChemicalEntity	dehydroepiandrosterone	D003687
+2350	24739405	37	48	ChemicalEntity	amphetamine	D000661
+2351	24739405	57	70	DiseaseOrPhenotypicFeature	schizophrenia	D012559
+2352	24739405	81	85	OrganismTaxon	mice	10090
+2353	24739405	124	146	ChemicalEntity	dehydroepiandrosterone	D003687
+2354	24739405	148	152	ChemicalEntity	DHEA	D003687
+2355	24739405	174	187	DiseaseOrPhenotypicFeature	schizophrenia	D012559
+2356	24739405	226	230	OrganismTaxon	mice	10090
+2357	24739405	269	280	ChemicalEntity	amphetamine	D000661
+2358	24739405	297	308	ChemicalEntity	amphetamine	D000661
+2359	24739405	328	332	ChemicalEntity	DHEA	D003687
+2360	24739405	338	342	ChemicalEntity	DHEA	D003687
+2361	24739405	395	406	ChemicalEntity	Amphetamine	D000661
+2362	24739405	428	444	DiseaseOrPhenotypicFeature	hyper locomotion	D006948
+2363	24739405	446	457	ChemicalEntity	apomorphine	D001058
+2364	24739405	512	523	ChemicalEntity	haloperidol	D006220
+2365	24739405	547	556	DiseaseOrPhenotypicFeature	catalepsy	D002375
+2366	24739405	593	606	DiseaseOrPhenotypicFeature	schizophrenia	D012559
+2367	24739405	860	876	DiseaseOrPhenotypicFeature	hyper locomotion	D006948
+2368	24739405	913	922	DiseaseOrPhenotypicFeature	catalepsy	D002375
+2369	24739405	946	957	ChemicalEntity	amphetamine	D000661
+2370	24739405	1051	1062	ChemicalEntity	amphetamine	D000661
+2371	24739405	1080	1084	ChemicalEntity	DHEA	D003687
+2372	24739405	1183	1194	ChemicalEntity	amphetamine	D000661
+2373	24739405	1278	1289	ChemicalEntity	haloperidol	D006220
+2374	24739405	1298	1307	DiseaseOrPhenotypicFeature	catalepsy	D002375
+2375	24739405	1413	1424	ChemicalEntity	apomorphine	D001058
+2376	24739405	1486	1490	ChemicalEntity	DHEA	D003687
+2377	24739405	1532	1541	DiseaseOrPhenotypicFeature	catalepsy	D002375
+2378	24739405	1618	1622	ChemicalEntity	DHEA	D003687
+2379	24739405	1702	1715	DiseaseOrPhenotypicFeature	schizophrenia	D012559
+2380	24768818	52	69	GeneOrGeneProduct	collagen receptor	4921,780
+2381	24768818	70	74	GeneOrGeneProduct	DDR1	780
+2382	24768818	138	164	GeneOrGeneProduct	discoidin domain receptors	4921,780
+2383	24768818	166	170	GeneOrGeneProduct	DDRs	4921,780
+2384	24768818	173	177	GeneOrGeneProduct	DDR1	780
+2385	24768818	182	186	GeneOrGeneProduct	DDR2	4921
+2386	24768818	215	240	GeneOrGeneProduct	receptor tyrosine kinases	4921,780
+2387	24768818	293	301	GeneOrGeneProduct	collagen	1277
+2388	24768818	326	330	GeneOrGeneProduct	DDR1	780
+2389	24768818	335	339	GeneOrGeneProduct	DDR2	4921
+2390	24768818	386	391	OrganismTaxon	human	9606
+2391	24768818	412	420	DiseaseOrPhenotypicFeature	fibrosis	D005355
+2392	24768818	422	437	DiseaseOrPhenotypicFeature	atherosclerosis	D050197
+2393	24768818	442	448	DiseaseOrPhenotypicFeature	cancer	D009369
+2394	24768818	492	517	GeneOrGeneProduct	receptor tyrosine kinases	4921,780
+2395	24768818	540	546	DiseaseOrPhenotypicFeature	cancer	D009369
+2396	24768818	553	561	ChemicalEntity	imatinib	D000068877
+2397	24768818	566	575	ChemicalEntity	ponatinib	C545373
+2398	24768818	620	629	ChemicalEntity	DDR1-IN-1	-
+2399	24768818	631	640	ChemicalEntity	Ponatinib	C545373
+2400	24768818	699	703	GeneOrGeneProduct	DDR1	780
+2401	24768818	708	712	GeneOrGeneProduct	DDR2	4921
+2402	24768818	759	764	OrganismTaxon	human	9606
+2403	24768818	765	769	GeneOrGeneProduct	DDR1	780
+2404	24768818	779	782	ChemicalEntity	DFG	C553185
+2405	24768818	801	804	ChemicalEntity	DFG	C553185
+2406	24768818	806	817	ChemicalEntity	Asp-Phe-Gly	C553185
+2407	24768818	942	956	GeneOrGeneProduct	Abelson kinase	25
+2408	24768818	958	961	GeneOrGeneProduct	ABL	25
+2409	24768818	983	987	GeneOrGeneProduct	DDR1	780
+2410	24768818	1050	1053	GeneOrGeneProduct	ABL	25
+2411	24768818	1074	1078	GeneOrGeneProduct	DDR1	780
+2412	24768818	1110	1113	GeneOrGeneProduct	ABL	25
+2413	24768818	1153	1156	ChemicalEntity	ATP	D000255
+2414	24768818	1173	1181	ChemicalEntity	imatinib	D000068877
+2415	24768818	1186	1195	ChemicalEntity	ponatinib	C545373
+2416	24768818	1222	1225	GeneOrGeneProduct	DDR	4921,780
+2417	24768818	1230	1233	GeneOrGeneProduct	ABL	25
+2418	24768818	1279	1282	GeneOrGeneProduct	ABL	25
+2419	24768818	1317	1326	ChemicalEntity	DDR1-IN-1	-
+2420	24768818	1365	1369	GeneOrGeneProduct	DDR1	780
+2421	24768818	1448	1452	GeneOrGeneProduct	DDR1	780
+2422	24768818	1457	1461	GeneOrGeneProduct	DDR2	4921
+2423	24768818	1500	1511	DiseaseOrPhenotypicFeature	lung cancer	D008175
+2424	24853300	16	30	GeneOrGeneProduct	calbindin-D28k	12307
+2425	24853300	54	73	DiseaseOrPhenotypicFeature	Alzheimer's disease	D000544
+2426	24853300	74	79	OrganismTaxon	mouse	10090
+2427	24853300	87	101	GeneOrGeneProduct	Calbindin-D28k	12307
+2428	24853300	103	105	GeneOrGeneProduct	CB	12307
+2429	24853300	125	132	ChemicalEntity	calcium	D002118
+2430	24853300	201	215	DiseaseOrPhenotypicFeature	neuronal death	D009410
+2431	24853300	239	246	ChemicalEntity	calcium	D002118
+2432	24853300	290	292	GeneOrGeneProduct	CB	12307,793
+2433	24853300	340	344	OrganismTaxon	mice	10090
+2434	24853300	349	355	OrganismTaxon	humans	9606
+2435	24853300	361	378	DiseaseOrPhenotypicFeature	Alzheimer disease	D000544
+2436	24853300	380	382	DiseaseOrPhenotypicFeature	AD	D000544
+2437	24853300	435	437	DiseaseOrPhenotypicFeature	AD	D000544
+2438	24853300	501	503	GeneOrGeneProduct	CB	12307
+2439	24853300	518	520	DiseaseOrPhenotypicFeature	AD	D000544
+2440	24853300	551	553	DiseaseOrPhenotypicFeature	AD	D000544
+2441	24853300	568	570	DiseaseOrPhenotypicFeature	AD	D000544
+2442	24853300	576	580	OrganismTaxon	mice	10090
+2443	24853300	586	588	GeneOrGeneProduct	CB	12307
+2444	24853300	600	602	GeneOrGeneProduct	CB	12307
+2445	24853300	606	610	OrganismTaxon	mice	10090
+2446	24853300	638	640	GeneOrGeneProduct	CB	12307
+2447	24853300	646	648	DiseaseOrPhenotypicFeature	AD	D000544
+2448	24853300	650	652	GeneOrGeneProduct	CB	12307
+2449	24853300	658	662	OrganismTaxon	mice	10090
+2450	24853300	776	778	GeneOrGeneProduct	CB	12307
+2451	24853300	785	789	OrganismTaxon	mice	10090
+2452	24853300	872	874	GeneOrGeneProduct	CB	12307
+2453	24853300	879	883	OrganismTaxon	mice	10090
+2454	24853300	900	913	DiseaseOrPhenotypicFeature	neuronal loss	D009410
+2455	24853300	979	996	GeneOrGeneProduct	amyloid b-peptide	11820
+2456	24853300	998	1000	GeneOrGeneProduct	Ab	11820
+2457	24853300	1069	1094	DiseaseOrPhenotypicFeature	mitochondrial dysfunction	D028361
+2458	24853300	1112	1116	OrganismTaxon	mice	10090
+2459	24853300	1128	1130	GeneOrGeneProduct	CB	12307
+2460	24853300	1135	1139	OrganismTaxon	mice	10090
+2461	24853300	1173	1205	GeneOrGeneProduct	mitogen-activated protein kinase	26413,26417
+2462	24853300	1207	1249	GeneOrGeneProduct	extracellular signal-regulated kinase) 1/2	26413,26417
+2463	24853300	1254	1291	GeneOrGeneProduct	cAMP response element-binding protein	12912
+2464	24853300	1295	1302	SequenceVariant	Ser-133	p|Allele|S|133
+2465	24853300	1334	1365	GeneOrGeneProduct	N-methyl-D-aspartate receptor 1	14810
+2466	24853300	1367	1382	GeneOrGeneProduct	NMDA receptor 1	14810
+2467	24853300	1385	1401	GeneOrGeneProduct	NMDA receptor 2A	14811
+2468	24853300	1403	1409	GeneOrGeneProduct	PSD-95	13385
+2469	24853300	1414	1427	GeneOrGeneProduct	synaptophysin	20977
+2470	24853300	1462	1466	OrganismTaxon	mice	10090
+2471	24853300	1537	1539	GeneOrGeneProduct	CB	12307
+2472	24853300	1545	1570	GeneOrGeneProduct	amyloid precursor protein	11820
+2473	24853300	1571	1581	GeneOrGeneProduct	presenilin	19164
+2474	24853300	1593	1597	OrganismTaxon	mice	10090
+2475	24853300	1609	1611	DiseaseOrPhenotypicFeature	AD	D000544
+2476	24853300	1642	1644	GeneOrGeneProduct	CB	12307
+2477	24853300	1668	1670	DiseaseOrPhenotypicFeature	AD	D000544
+2478	25080425	14	64	GeneOrGeneProduct	signal transducer and activator of transcription 3	25125
+2479	25080425	91	98	ChemicalEntity	betaine	D001622
+2480	25080425	110	123	ChemicalEntity	isoproterenol	D007545
+2481	25080425	138	155	DiseaseOrPhenotypicFeature	myocardial injury	D009202
+2482	25080425	159	163	OrganismTaxon	rats	10116
+2483	25080425	243	250	ChemicalEntity	betaine	D001622
+2484	25080425	260	279	DiseaseOrPhenotypicFeature	myocardial ischemia	D017202
+2485	25080425	306	310	OrganismTaxon	rats	10116
+2486	25080425	337	387	GeneOrGeneProduct	signal transducer and activator of transcription 3	25125
+2487	25080425	389	394	GeneOrGeneProduct	STAT3	25125
+2488	25080425	494	498	OrganismTaxon	rats	10116
+2489	25080425	517	524	ChemicalEntity	betaine	D001622
+2490	25080425	577	603	DiseaseOrPhenotypicFeature	myocardial ischemic injury	D017202
+2491	25080425	619	623	OrganismTaxon	rats	10116
+2492	25080425	653	666	ChemicalEntity	isoproterenol	D007545
+2493	25080425	833	840	ChemicalEntity	betaine	D001622
+2494	25080425	950	972	DiseaseOrPhenotypicFeature	ventricular remodeling	D020257
+2495	25080425	1008	1021	ChemicalEntity	isoproterenol	D007545
+2496	25080425	1049	1054	GeneOrGeneProduct	STAT3	25125
+2497	25080425	1093	1100	ChemicalEntity	betaine	D001622
+2498	25080425	1139	1146	ChemicalEntity	betaine	D001622
+2499	25080425	1217	1222	GeneOrGeneProduct	Bcl-2	24224
+2500	25080425	1248	1251	GeneOrGeneProduct	Bax	24887
+2501	25080425	1310	1315	GeneOrGeneProduct	Bcl-2	24224
+2502	25080425	1316	1319	GeneOrGeneProduct	Bax	24887
+2503	25080425	1344	1351	ChemicalEntity	betaine	D001622
+2504	25080425	1355	1372	DiseaseOrPhenotypicFeature	myocardial damage	D009202
+2505	25080425	1465	1472	ChemicalEntity	betaine	D001622
+2506	25080425	1497	1510	ChemicalEntity	isoproterenol	D007545
+2507	25080425	1525	1544	DiseaseOrPhenotypicFeature	myocardial ischemia	D017202
+2508	25080425	1567	1572	GeneOrGeneProduct	STAT3	25125
+2509	25305591	0	5	GeneOrGeneProduct	VPAC2	22355
+2510	25305591	7	52	GeneOrGeneProduct	vasoactive intestinal peptide receptor type 2	22355
+2511	25305591	73	77	OrganismTaxon	mice	10090
+2512	25305591	98	139	DiseaseOrPhenotypicFeature	experimental autoimmune encephalomyelitis	D004681
+2513	25305591	196	225	GeneOrGeneProduct	Vasoactive intestinal peptide	22353
+2514	25305591	227	230	GeneOrGeneProduct	VIP	22353
+2515	25305591	236	285	GeneOrGeneProduct	pituitary adenylyl cyclase-activating polypeptide	11516
+2516	25305591	287	292	GeneOrGeneProduct	PACAP	11516
+2517	25305591	483	495	DiseaseOrPhenotypicFeature	inflammatory	D007249
+2518	25305591	542	562	DiseaseOrPhenotypicFeature	inflammatory disease	D007249
+2519	25305591	564	568	OrganismTaxon	mice	10090
+2520	25305591	582	585	GeneOrGeneProduct	VIP	22353
+2521	25305591	590	595	GeneOrGeneProduct	PACAP	11516
+2522	25305591	707	748	DiseaseOrPhenotypicFeature	experimental autoimmune encephalomyelitis	D004681
+2523	25305591	750	753	DiseaseOrPhenotypicFeature	EAE	D004681
+2524	25305591	867	872	GeneOrGeneProduct	VPAC1	22354
+2525	25305591	874	879	GeneOrGeneProduct	VPAC2	22355
+2526	25305591	885	889	GeneOrGeneProduct	PAC1	11517
+2527	25305591	933	937	OrganismTaxon	mice	10090
+2528	25305591	965	970	GeneOrGeneProduct	VIPR2	22355
+2529	25305591	985	999	GeneOrGeneProduct	VPAC2 receptor	22355
+2530	25305591	1024	1032	GeneOrGeneProduct	MOG35-55	4340
+2531	25305591	1042	1045	DiseaseOrPhenotypicFeature	EAE	D004681
+2532	25305591	1068	1072	OrganismTaxon	mice	10090
+2533	25305591	1151	1176	GeneOrGeneProduct	proinflammatory cytokines	15978,16171,16193,21926
+2534	25305591	1178	1187	GeneOrGeneProduct	TNF-alpha	21926
+2535	25305591	1189	1193	GeneOrGeneProduct	IL-6	16193
+2536	25305591	1195	1204	GeneOrGeneProduct	IFN-gamma	15978
+2537	25305591	1216	1221	GeneOrGeneProduct	IL-17	16171
+2538	25305591	1242	1269	GeneOrGeneProduct	anti-inflammatory cytokines	16153,16189,21803
+2539	25305591	1271	1276	GeneOrGeneProduct	IL-10	16153
+2540	25305591	1278	1285	GeneOrGeneProduct	TGFbeta	21803
+2541	25305591	1291	1295	GeneOrGeneProduct	IL-4	16189
+2542	25305591	1409	1412	GeneOrGeneProduct	CD4	12504
+2543	25305591	1415	1419	GeneOrGeneProduct	CD25	16184
+2544	25305591	1422	1427	GeneOrGeneProduct	FoxP3	20371
+2545	25305591	1464	1469	GeneOrGeneProduct	VPAC2	22355
+2546	25305591	1480	1484	OrganismTaxon	mice	10090
+2547	25305591	1490	1493	DiseaseOrPhenotypicFeature	EAE	D004681
+2548	25305591	1575	1580	GeneOrGeneProduct	VPAC2	22355
+2549	25305591	1591	1595	OrganismTaxon	mice	10090
+2550	25305591	1673	1678	GeneOrGeneProduct	PACAP	11516
+2551	25305591	1687	1701	GeneOrGeneProduct	VPAC2 receptor	22355
+2552	25983002	14	18	GeneOrGeneProduct	LDHA	3939
+2553	25983002	30	35	DiseaseOrPhenotypicFeature	tumor	D009369
+2554	25983002	51	66	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+2555	25983002	86	92	DiseaseOrPhenotypicFeature	cancer	D009369
+2556	25983002	153	176	GeneOrGeneProduct	Lactate dehydrogenase A	3939
+2557	25983002	178	182	GeneOrGeneProduct	LDHA	3939
+2558	25983002	274	279	DiseaseOrPhenotypicFeature	tumor	D009369
+2559	25983002	318	322	GeneOrGeneProduct	LDHA	3939
+2560	25983002	326	341	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+2561	25983002	412	416	GeneOrGeneProduct	LDHA	3939
+2562	25983002	433	448	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+2563	25983002	471	498	DiseaseOrPhenotypicFeature	benign prostate hyperplasia	D011470
+2564	25983002	592	596	GeneOrGeneProduct	LDHA	3939
+2565	25983002	623	627	GeneOrGeneProduct	LDHA	3939
+2566	25983002	642	646	ChemicalEntity	FX11	C547455
+2567	25983002	729	733	CellLine	PC-3	9606
+2568	25983002	738	743	CellLine	DU145	9606
+2569	25983002	820	827	ChemicalEntity	glucose	D005947
+2570	25983002	844	851	ChemicalEntity	lactate	D019344
+2571	25983002	888	893	GeneOrGeneProduct	MMP-9	4318
+2572	25983002	895	899	GeneOrGeneProduct	PLAU	5328
+2573	25983002	905	916	GeneOrGeneProduct	cathepsin B	1508
+2574	25983002	934	938	GeneOrGeneProduct	LDHA	3939
+2575	25983002	952	956	ChemicalEntity	FX11	C547455
+2576	25983002	970	974	CellLine	PC-3	9606
+2577	25983002	979	984	CellLine	DU145	9606
+2578	25983002	1049	1053	GeneOrGeneProduct	LDHA	3939
+2579	25983002	1057	1072	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+2580	25983002	1092	1096	GeneOrGeneProduct	LDHA	3939
+2581	25986755	36	40	GeneOrGeneProduct	AT2R	24182
+2582	25986755	78	96	DiseaseOrPhenotypicFeature	glomerulosclerosis	D005921
+2583	25986755	136	144	ChemicalEntity	caffeine	D002110
+2584	25986755	214	222	ChemicalEntity	caffeine	D002110
+2585	25986755	251	282	DiseaseOrPhenotypicFeature	intrauterine growth retardation	D005317
+2586	25986755	284	288	DiseaseOrPhenotypicFeature	IUGR	D005317
+2587	25986755	335	339	DiseaseOrPhenotypicFeature	IUGR	D005317
+2588	25986755	361	379	DiseaseOrPhenotypicFeature	glomerulosclerosis	D005921
+2589	25986755	415	433	DiseaseOrPhenotypicFeature	glomerulosclerosis	D005921
+2590	25986755	529	547	DiseaseOrPhenotypicFeature	glomerulosclerosis	D005921
+2591	25986755	621	624	OrganismTaxon	rat	10116
+2592	25986755	634	638	DiseaseOrPhenotypicFeature	IUGR	D005317
+2593	25986755	826	844	DiseaseOrPhenotypicFeature	glomerulosclerosis	D005921
+2594	25986755	856	877	DiseaseOrPhenotypicFeature	interstitial fibrosis	D005355
+2595	25986755	919	929	ChemicalEntity	creatinine	D003404
+2596	25986755	955	985	GeneOrGeneProduct	angiotensin II receptor type 2	24182
+2597	25986755	987	991	GeneOrGeneProduct	AT2R	24182
+2598	25986755	1066	1097	GeneOrGeneProduct	angiotensin II receptor type 1a	24180
+2599	25986755	1099	1104	GeneOrGeneProduct	AT1aR	24180
+2600	25986755	1106	1110	GeneOrGeneProduct	AT2R	24182
+2601	25986755	1479	1486	GeneOrGeneProduct	nephrin	64563
+2602	25986755	1491	1498	GeneOrGeneProduct	podocin	170672
+2603	25986755	1538	1542	GeneOrGeneProduct	AT2R	24182
+2604	25986755	1669	1712	GeneOrGeneProduct	glial-cell-line-derived neurotrophic factor	25453
+2605	25986755	1714	1718	GeneOrGeneProduct	GDNF	25453
+2606	25986755	1720	1744	GeneOrGeneProduct	tyrosine kinase receptor	24716
+2607	25986755	1746	1751	GeneOrGeneProduct	c-Ret	24716
+2608	25986755	1821	1847	DiseaseOrPhenotypicFeature	dysplasia of fetal kidneys	D007674
+2609	25986755	1859	1877	DiseaseOrPhenotypicFeature	glomerulosclerosis	D005921
+2610	25986755	1942	1946	GeneOrGeneProduct	AT2R	24182
+2611	25986755	1995	2013	DiseaseOrPhenotypicFeature	glomerulosclerosis	D005921
+2612	26027517	4	13	GeneOrGeneProduct	autotaxin	84050
+2613	26027517	14	18	GeneOrGeneProduct	LPA2	498609,53978
+2614	26027517	19	23	GeneOrGeneProduct	GPCR	295589
+2615	26027517	144	160	DiseaseOrPhenotypicFeature	radiation injury	D011832
+2616	26027517	199	208	GeneOrGeneProduct	autotaxin	84050
+2617	26027517	210	213	GeneOrGeneProduct	ATX	84050
+2618	26027517	215	219	GeneOrGeneProduct	LPA2	498609
+2619	26027517	220	224	GeneOrGeneProduct	GPCR	295589
+2620	26027517	234	239	CellLine	IEC-6	10116
+2621	26027517	344	348	GeneOrGeneProduct	lpa2	498609
+2622	26027517	420	429	GeneOrGeneProduct	NF-kappaB	81736
+2623	26027517	442	446	GeneOrGeneProduct	lpa2	498609
+2624	26027517	476	491	GeneOrGeneProduct	ATM/ATR kinases	300711,685055
+2625	26027517	497	504	ChemicalEntity	CGK-733	C512273
+2626	26027517	522	526	GeneOrGeneProduct	lpa2	498609
+2627	26027517	572	575	GeneOrGeneProduct	ATM	300711
+2628	26027517	580	589	GeneOrGeneProduct	NF-kappaB	81736
+2629	26027517	640	650	GeneOrGeneProduct	gamma-H2AX	500987
+2630	26027517	654	657	GeneOrGeneProduct	LPA	53978
+2631	26027517	666	671	CellLine	IEC-6	10116
+2632	26027517	782	786	GeneOrGeneProduct	LPA2	498609
+2633	26027517	813	823	GeneOrGeneProduct	gamma-H2AX	500987
+2634	26027517	828	832	GeneOrGeneProduct	LPA2	53978
+2635	26027517	847	850	CellLine	MEF	10090
+2636	26027517	865	875	GeneOrGeneProduct	LPA1    '3	14745,65086
+2637	26027517	890	900	GeneOrGeneProduct	gamma-H2AX	15270
+2638	26027517	938	941	CellLine	MEF	10090
+2639	26027517	990	1000	GeneOrGeneProduct	ERK1    '2	26413,26417
+2640	26027517	1004	1008	GeneOrGeneProduct	PI3K	18708
+2641	26027517	1009	1012	GeneOrGeneProduct	AKT	11651
+2642	26027517	1054	1059	SequenceVariant	C311A	p|SUB|C|311|A
+2643	26027517	1060	1065	SequenceVariant	C314A	p|SUB|C|314|A
+2644	26027517	1066	1071	SequenceVariant	L351A	p|SUB|L|351|A
+2645	26027517	1102	1106	GeneOrGeneProduct	LPA2	53978
+2646	26027517	1131	1134	GeneOrGeneProduct	LPA	53978
+2647	26027517	1150	1154	GeneOrGeneProduct	LPA2	53978
+2648	26027517	1170	1173	GeneOrGeneProduct	Lin	83557
+2649	26027517	1176	1181	GeneOrGeneProduct	Sca-1	110454
+2650	26027517	1184	1189	GeneOrGeneProduct	c-Kit	16590
+2651	26027517	1365	1375	GeneOrGeneProduct	gamma-H2AX	15270
+2652	26027517	1441	1445	GeneOrGeneProduct	LPA2	53978
+2653	26027517	1449	1453	OrganismTaxon	mice	10090
+2654	26027517	1469	1473	OrganismTaxon	mice	10090
+2655	26027517	1524	1527	GeneOrGeneProduct	ATX	84050
+2656	26027517	1541	1544	GeneOrGeneProduct	LPA	53978
+2657	26027517	1635	1643	GeneOrGeneProduct	TNFalpha	21926
+2658	26027517	1669	1672	GeneOrGeneProduct	ATX	18606,84050
+2659	26027517	1677	1681	GeneOrGeneProduct	LPA2	498609,53978
+2660	26110643	8	12	GeneOrGeneProduct	Trap	436725
+2661	26110643	68	77	OrganismTaxon	Zebrafish	7955
+2662	26110643	108	121	GeneOrGeneProduct	Neuregulin 2a	100006951
+2663	26110643	128	132	GeneOrGeneProduct	ErbB	386635,386966
+2664	26110643	198	212	DiseaseOrPhenotypicFeature	Skin disorders	D012871
+2665	26110643	419	428	OrganismTaxon	Zebrafish	7955
+2666	26110643	555	566	OrganismTaxon	Danio rerio	7955
+2667	26110643	568	577	OrganismTaxon	zebrafish	7955
+2668	26110643	769	774	GeneOrGeneProduct	fras1	563428
+2669	26110643	776	781	GeneOrGeneProduct	grip1	558006
+2670	26110643	783	788	GeneOrGeneProduct	hmcn1	559150
+2671	26110643	790	794	GeneOrGeneProduct	msxc	30526
+2672	26110643	796	802	GeneOrGeneProduct	col4a4	554270
+2673	26110643	804	809	GeneOrGeneProduct	ahnak	559276
+2674	26110643	811	817	GeneOrGeneProduct	capn12	799247
+2675	26110643	823	828	GeneOrGeneProduct	nrg2a	100006951
+2676	26110643	903	912	GeneOrGeneProduct	arhgef25b	569561
+2677	26110643	914	921	GeneOrGeneProduct	fkbp10b	324381
+2678	26110643	927	933	GeneOrGeneProduct	megf6a	565108
+2679	26110643	1009	1022	GeneOrGeneProduct	neuregulin 2a	100006951
+2680	26110643	1024	1029	GeneOrGeneProduct	nrg2a	100006951
+2681	26110643	1066	1079	GeneOrGeneProduct	Neuregulin 2a	100006951
+2682	26110643	1081	1086	GeneOrGeneProduct	Nrg2a	100006951
+2683	26110643	1088	1095	GeneOrGeneProduct	ErbB2/3	386635,386966
+2684	26110643	1096	1099	GeneOrGeneProduct	AKT	101910198
+2685	26110643	1234	1239	GeneOrGeneProduct	nrg2a	100006951
+2686	26110643	1343	1346	GeneOrGeneProduct	AKT	101910198
+2687	26110643	1595	1600	GeneOrGeneProduct	Nrg2a	100006951
+2688	26110643	1621	1650	GeneOrGeneProduct	ErbB receptor tyrosine kinase	386635,386966
+2689	26110643	1721	1726	DiseaseOrPhenotypicFeature	tumor	D009369
+2690	26110643	1738	1742	GeneOrGeneProduct	lgl2	795670
+2691	26110643	1759	1764	GeneOrGeneProduct	nrg2a	100006951
+2692	26110643	1795	1799	GeneOrGeneProduct	Lgl2	795670
+2693	26110643	1820	1825	GeneOrGeneProduct	Nrg2a	100006951
+2694	26110643	1826	1830	GeneOrGeneProduct	ErbB	386635,386966
+2695	26110643	1883	1887	GeneOrGeneProduct	Lgl2	795670
+2696	26516699	46	63	DiseaseOrPhenotypicFeature	pancreatic cancer	D010190
+2697	26516699	120	124	GeneOrGeneProduct	Kras	3845
+2698	26516699	124	128	SequenceVariant	G12D	p|SUB|G|12|D
+2699	26516699	129	133	GeneOrGeneProduct	Pdx1	18609
+2700	26516699	138	143	OrganismTaxon	mouse	10090
+2701	26516699	235	242	DiseaseOrPhenotypicFeature	cancers	D009369
+2702	26516699	254	271	DiseaseOrPhenotypicFeature	pancreatic cancer	D010190
+2703	26516699	273	275	DiseaseOrPhenotypicFeature	PC	D010190
+2704	26516699	333	335	DiseaseOrPhenotypicFeature	PC	D010190
+2705	26516699	384	386	DiseaseOrPhenotypicFeature	PC	D010190
+2706	26516699	539	541	DiseaseOrPhenotypicFeature	PC	D010190
+2707	26516699	564	568	GeneOrGeneProduct	Kras	3845
+2708	26516699	568	572	SequenceVariant	G12D	p|SUB|G|12|D
+2709	26516699	573	577	GeneOrGeneProduct	Pdx1	18609
+2710	26516699	587	592	OrganismTaxon	mouse	10090
+2711	26516699	682	689	GeneOrGeneProduct	miR-150	387168
+2712	26516699	691	698	GeneOrGeneProduct	miR-494	723878
+2713	26516699	700	707	GeneOrGeneProduct	miR-138	387156,723956
+2714	26516699	709	717	GeneOrGeneProduct	miR-148a	387166
+2715	26516699	719	727	GeneOrGeneProduct	miR-216a	387212
+2716	26516699	733	740	GeneOrGeneProduct	miR-217	387213
+2717	26516699	761	769	GeneOrGeneProduct	miR-146b	751550
+2718	26516699	771	778	GeneOrGeneProduct	miR-205	387201
+2719	26516699	780	786	GeneOrGeneProduct	miR-31	723895
+2720	26516699	788	795	GeneOrGeneProduct	miR-192	387187
+2721	26516699	801	807	GeneOrGeneProduct	miR-21	387140
+2722	26516699	814	818	OrganismTaxon	mice	10090
+2723	26516699	903	908	GeneOrGeneProduct	Dicer	192119
+2724	26516699	910	920	GeneOrGeneProduct	Exportin-5	72322
+2725	26516699	922	927	GeneOrGeneProduct	TRKRA	18211
+2726	26516699	933	939	GeneOrGeneProduct	TARBP2	21357
+2727	26516699	966	971	GeneOrGeneProduct	DGCR8	94223
+2728	26516699	976	980	GeneOrGeneProduct	Ago2	239528
+2729	26516699	1004	1008	OrganismTaxon	mice	10090
+2730	26516699	1102	1106	OrganismTaxon	mice	10090
+2731	26516699	1134	1141	GeneOrGeneProduct	miR-216	387212
+2732	26516699	1143	1150	GeneOrGeneProduct	miR-217	387213
+2733	26516699	1152	1159	GeneOrGeneProduct	miR-100	723892
+2734	26516699	1161	1168	GeneOrGeneProduct	miR-345	723946
+2735	26516699	1170	1177	GeneOrGeneProduct	miR-141	387159
+2736	26516699	1179	1189	GeneOrGeneProduct	miR-483-3p	723874
+2737	26516699	1191	1198	GeneOrGeneProduct	miR-26b	387219
+2738	26516699	1200	1207	GeneOrGeneProduct	miR-150	387168
+2739	26516699	1209	1216	GeneOrGeneProduct	miR-195	387190
+2740	26516699	1218	1224	GeneOrGeneProduct	Let-7b	387245
+2741	26516699	1229	1235	GeneOrGeneProduct	Let-96	-
+2742	26516699	1256	1262	GeneOrGeneProduct	miR-21	387140
+2743	26516699	1264	1271	GeneOrGeneProduct	miR-205	387201
+2744	26516699	1273	1281	GeneOrGeneProduct	miR-146b	751550
+2745	26516699	1283	1290	GeneOrGeneProduct	miR-34c	723932
+2746	26516699	1292	1300	GeneOrGeneProduct	miR-1273	100422821
+2747	26516699	1302	1309	GeneOrGeneProduct	miR-223	723814
+2748	26516699	1314	1321	GeneOrGeneProduct	miR-195	387190
+2749	26516699	1342	1346	OrganismTaxon	mice	10090
+2750	26516699	1403	1407	OrganismTaxon	mice	10090
+2751	26516699	1455	1460	OrganismTaxon	human	9606
+2752	26516699	1461	1463	DiseaseOrPhenotypicFeature	PC	D010190
+2753	26516699	1517	1523	GeneOrGeneProduct	Let-7b	406884
+2754	26516699	1527	1536	CellLine	CD18/HPAF	9606
+2755	26516699	1541	1547	CellLine	Capan1	9606
+2756	26516699	1588	1592	GeneOrGeneProduct	KRAS	3845
+2757	26516699	1597	1602	GeneOrGeneProduct	MSST1	-
+2758	26516699	1700	1702	DiseaseOrPhenotypicFeature	PC	D010190
+2759	26731607	25	32	GeneOrGeneProduct	GADD45A	13197
+2760	26731607	293	340	GeneOrGeneProduct	Growth arrest and DNA-damage-inducible 45 alpha	13197
+2761	26731607	342	349	GeneOrGeneProduct	GADD45A	13197
+2762	26731607	391	398	GeneOrGeneProduct	GADD45A	13197
+2763	26731607	514	521	GeneOrGeneProduct	GADD45A	13197
+2764	26731607	704	711	GeneOrGeneProduct	GADD45A	13197
+2765	26731607	779	785	OrganismTaxon	murine	10090
+2766	26731607	837	844	GeneOrGeneProduct	GADD45A	13197
+2767	26731607	911	918	GeneOrGeneProduct	GADD45A	13197
+2768	26731607	1054	1061	GeneOrGeneProduct	GADD45A	13197
+2769	26731607	1236	1243	GeneOrGeneProduct	GADD45A	13197
+2770	26731607	1322	1329	GeneOrGeneProduct	GADD45A	13197
+2771	26731607	1545	1552	GeneOrGeneProduct	GADD45A	13197
+2772	26731607	1587	1594	GeneOrGeneProduct	GADD45A	13197
+2773	26731607	1625	1661	GeneOrGeneProduct	p38 Mitogen-activated protein kinase	26416
+2774	26731607	1663	1667	GeneOrGeneProduct	MAPK	26416
+2775	26731607	1817	1824	GeneOrGeneProduct	GADD45A	13197
+2776	27134166	96	100	GeneOrGeneProduct	mTOR	56717
+2777	27134166	137	142	DiseaseOrPhenotypicFeature	tumor	D009369
+2778	27134166	161	165	GeneOrGeneProduct	VEGF	22339,7422
+2779	27134166	237	242	OrganismTaxon	human	9606
+2780	27134166	243	249	DiseaseOrPhenotypicFeature	tumors	D009369
+2781	27134166	254	259	OrganismTaxon	mouse	10090
+2782	27134166	270	276	DiseaseOrPhenotypicFeature	cancer	D009369
+2783	27134166	354	359	OrganismTaxon	mouse	10090
+2784	27134166	437	443	DiseaseOrPhenotypicFeature	cancer	D009369
+2785	27134166	519	524	GeneOrGeneProduct	GLUT1	20525
+2786	27134166	529	533	GeneOrGeneProduct	MCT4	80879
+2787	27134166	556	563	DiseaseOrPhenotypicFeature	hypoxic	D000860
+2788	27134166	575	580	GeneOrGeneProduct	HIF1a	15251
+2789	27134166	626	631	DiseaseOrPhenotypicFeature	Tumor	D009369
+2790	27134166	704	708	GeneOrGeneProduct	MCT1	20501
+2791	27134166	714	718	GeneOrGeneProduct	p-S6	72508
+2792	27134166	742	746	GeneOrGeneProduct	mTOR	56717
+2793	27134166	758	773	DiseaseOrPhenotypicFeature	Normoxic cancer	D009369
+2794	27134166	802	809	ChemicalEntity	lactate	D019344
+2795	27134166	840	844	GeneOrGeneProduct	mTOR	56717
+2796	27134166	859	868	ChemicalEntity	glutamine	D005973
+2797	27134166	892	899	ChemicalEntity	lactate	D019344
+2798	27134166	1009	1015	DiseaseOrPhenotypicFeature	cancer	D009369
+2799	27134166	1029	1036	ChemicalEntity	glucose	D005947
+2800	27134166	1048	1055	ChemicalEntity	lactate	D019344
+2801	27134166	1100	1107	ChemicalEntity	lactate	D019344
+2802	27134166	1109	1113	GeneOrGeneProduct	mTOR	56717
+2803	27134166	1226	1231	GeneOrGeneProduct	GLUT2	20526
+2804	27248656	0	9	GeneOrGeneProduct	Hsp90beta	301252
+2805	27248656	49	53	ChemicalEntity	salt	D012492
+2806	27248656	67	78	DiseaseOrPhenotypicFeature	nephropathy	D007674
+2807	27248656	136	140	ChemicalEntity	salt	D012492
+2808	27248656	192	205	DiseaseOrPhenotypicFeature	renal hypoxia	D007674
+2809	27248656	332	344	DiseaseOrPhenotypicFeature	hypertensive	D006973
+2810	27248656	355	359	OrganismTaxon	rats	10116
+2811	27248656	371	375	ChemicalEntity	salt	D012492
+2812	27248656	398	409	DiseaseOrPhenotypicFeature	proteinuria	D011507
+2813	27248656	437	455	DiseaseOrPhenotypicFeature	renal inflammation	D007674
+2814	27248656	457	465	DiseaseOrPhenotypicFeature	fibrosis	D005355
+2815	27248656	557	566	GeneOrGeneProduct	Hsp90beta	301252
+2816	27248656	568	577	GeneOrGeneProduct	TGF-beta,	59086
+2817	27248656	578	588	GeneOrGeneProduct	HIF-1alpha	29560
+2818	27248656	590	599	GeneOrGeneProduct	TNF-alpha	24835
+2819	27248656	601	605	GeneOrGeneProduct	IL-6	24498
+2820	27248656	610	615	GeneOrGeneProduct	MCP-1	24770
+2821	27248656	665	669	ChemicalEntity	salt	D012492
+2822	27248656	699	708	GeneOrGeneProduct	Hsp90beta	301252
+2823	27248656	768	772	ChemicalEntity	salt	D012492
+2824	27248656	843	852	GeneOrGeneProduct	NF-kappaB	81736
+2825	27248656	854	857	GeneOrGeneProduct	p38	81649
+2826	27248656	873	878	GeneOrGeneProduct	Bcl-2	24224
+2827	27248656	893	902	GeneOrGeneProduct	Hsp90beta	301252
+2828	27248656	1069	1120	ChemicalEntity	17-dimethylaminoethylamino-17-demethoxygeldanamycin	C448659
+2829	27248656	1122	1129	ChemicalEntity	17-DMAG	C448659
+2830	27248656	1134	1143	GeneOrGeneProduct	Hsp90beta	301252
+2831	27248656	1187	1191	ChemicalEntity	salt	D012492
+2832	27248656	1205	1216	DiseaseOrPhenotypicFeature	proteinuria	D011507
+2833	27248656	1221	1233	DiseaseOrPhenotypicFeature	renal damage	D007674
+2834	27248656	1313	1322	GeneOrGeneProduct	NF-kappaB	81736
+2835	27248656	1324	1328	GeneOrGeneProduct	mTOR	56718
+2836	27248656	1333	1336	GeneOrGeneProduct	p38	81649
+2837	27248656	1401	1410	GeneOrGeneProduct	Hsp90beta	301252
+2838	27248656	1445	1449	GeneOrGeneProduct	TAK1	313121
+2839	27248656	1451	1460	GeneOrGeneProduct	AMPKalpha	65248
+2840	27248656	1462	1475	GeneOrGeneProduct	IKKalpha/beta	309361,84351
+2841	27248656	1477	1487	GeneOrGeneProduct	HIF-1alpha	29560
+2842	27248656	1492	1498	GeneOrGeneProduct	Raptor	287871
+2843	27248656	1508	1517	GeneOrGeneProduct	Hsp90beta	301252
+2844	27248656	1566	1575	GeneOrGeneProduct	Hsp90beta	301252
+2845	27248656	1688	1692	ChemicalEntity	salt	D012492
+2846	27248656	1750	1761	DiseaseOrPhenotypicFeature	proteinuria	D011507
+2847	27248656	1766	1783	DiseaseOrPhenotypicFeature	renal dysfunction	D051437
+2848	27248656	1795	1799	OrganismTaxon	rats	10116
+2849	27248656	1801	1810	GeneOrGeneProduct	Hsp90beta	301252
+2850	27248656	1950	1961	DiseaseOrPhenotypicFeature	nephropathy	D007674
+2851	27248656	1971	1984	DiseaseOrPhenotypicFeature	renal hypoxia	D007674
+2852	27384305	5	13	GeneOrGeneProduct	11b-HSD1	15483
+2853	27384305	23	27	OrganismTaxon	Mice	10090
+2854	27384305	32	42	ChemicalEntity	Trans-Fats	D044242
+2855	27384305	47	55	ChemicalEntity	Fructose	D005632
+2856	27384305	79	97	DiseaseOrPhenotypicFeature	Metabolic Syndrome	D008659
+2857	27384305	101	133	DiseaseOrPhenotypicFeature	Nonalcoholic Fatty Liver Disease	D065626
+2858	27384305	135	167	DiseaseOrPhenotypicFeature	Nonalcoholic fatty liver disease	D065626
+2859	27384305	169	174	DiseaseOrPhenotypicFeature	NAFLD	D065626
+2860	27384305	221	230	DiseaseOrPhenotypicFeature	steatosis	D005234
+2861	27384305	234	262	DiseaseOrPhenotypicFeature	nonalcoholic steatohepatitis	D065626
+2862	27384305	264	268	DiseaseOrPhenotypicFeature	NASH	D065626
+2863	27384305	274	283	DiseaseOrPhenotypicFeature	cirrhosis	D005355
+2864	27384305	336	354	DiseaseOrPhenotypicFeature	metabolic syndrome	D008659
+2865	27384305	356	371	ChemicalEntity	Glucocorticoids	D005938
+2866	27384305	384	393	DiseaseOrPhenotypicFeature	steatosis	D005234
+2867	27384305	442	457	ChemicalEntity	free fatty acid	D005230
+2868	27384305	509	524	ChemicalEntity	Glucocorticoids	D005938
+2869	27384305	561	600	GeneOrGeneProduct	11b-hydroxysteroid dehydrogenase type 1	15483
+2870	27384305	602	610	GeneOrGeneProduct	11b-HSD1	15483
+2871	27384305	643	651	GeneOrGeneProduct	11b-HSD1	15483
+2872	27384305	700	705	DiseaseOrPhenotypicFeature	NAFLD	D065626
+2873	27384305	726	730	OrganismTaxon	mice	10090
+2874	27384305	744	752	GeneOrGeneProduct	11b-HSD1	15483
+2875	27384305	793	801	GeneOrGeneProduct	11b-HSD1	15483
+2876	27384305	928	933	DiseaseOrPhenotypicFeature	NAFLD	D065626
+2877	27384305	1045	1052	ChemicalEntity	glucose	D005947
+2878	27384305	1077	1085	GeneOrGeneProduct	11b-HSD1	15483
+2879	27384305	1096	1100	OrganismTaxon	mice	10090
+2880	27384305	1134	1151	DiseaseOrPhenotypicFeature	metabolic disease	D008659
+2881	27384305	1186	1198	ChemicalEntity	triglyceride	D014280
+2882	27384305	1220	1225	DiseaseOrPhenotypicFeature	NAFLD	D065626
+2883	27384305	1277	1286	DiseaseOrPhenotypicFeature	steatosis	D005234
+2884	27384305	1308	1316	GeneOrGeneProduct	11b-HSD1	15483
+2885	27384305	1337	1341	OrganismTaxon	mice	10090
+2886	27384305	1455	1463	GeneOrGeneProduct	11b-HSD1	15483
+2887	27384305	1489	1493	OrganismTaxon	mice	10090
+2888	27384305	1525	1529	DiseaseOrPhenotypicFeature	NASH	D065626
+2889	27384305	1603	1615	DiseaseOrPhenotypicFeature	inflammatory	D007249
+2890	27384305	1650	1658	GeneOrGeneProduct	11b-HSD1	15483
+2891	27384305	1669	1673	OrganismTaxon	mice	10090
+2892	27384305	1697	1714	DiseaseOrPhenotypicFeature	metabolic disease	D008659
+2893	27384305	1718	1733	DiseaseOrPhenotypicFeature	hepatosteatosis	D005234
+2894	27384305	1751	1756	DiseaseOrPhenotypicFeature	NAFLD	D065626
+2895	27384305	1802	1810	GeneOrGeneProduct	11b-HSD1	15483
+2896	27384305	1835	1855	DiseaseOrPhenotypicFeature	hepatic inflammation	D008107
+2897	27384305	1889	1897	GeneOrGeneProduct	11b-HSD1	15483
+2898	27384305	1931	1935	DiseaseOrPhenotypicFeature	NASH	D065626
+2899	27640183	0	14	GeneOrGeneProduct	Erythropoietin	2056
+2900	27640183	33	56	GeneOrGeneProduct	erythropoietin receptor	2057
+2901	27640183	92	97	OrganismTaxon	human	9606
+2902	27640183	153	167	GeneOrGeneProduct	Erythropoietin	13856
+2903	27640183	169	172	GeneOrGeneProduct	Epo	13856
+2904	27640183	229	233	OrganismTaxon	mice	10090
+2905	27640183	284	290	OrganismTaxon	humans	9606
+2906	27640183	291	294	GeneOrGeneProduct	Epo	2056
+2907	27640183	349	354	ChemicalEntity	lipid	D008055
+2908	27640183	385	388	GeneOrGeneProduct	Epo	2056
+2909	27640183	392	397	OrganismTaxon	human	9606
+2910	27640183	489	492	GeneOrGeneProduct	Epo	2056
+2911	27640183	505	510	OrganismTaxon	human	9606
+2912	27640183	586	589	GeneOrGeneProduct	Epo	2056
+2913	27640183	689	721	ChemicalEntity	erythropoiesis-stimulating agent	D006397
+2914	27640183	723	726	ChemicalEntity	ESA	D006397
+2915	27640183	728	746	ChemicalEntity	Darbepoietin-alpha	-
+2916	27640183	782	794	GeneOrGeneProduct	Epo receptor	2057
+2917	27640183	796	801	GeneOrGeneProduct	Epo-R	2057
+2918	27640183	894	899	GeneOrGeneProduct	Epo-R	2057
+2919	27640183	940	945	GeneOrGeneProduct	Epo-R	2057
+2920	27640183	966	969	GeneOrGeneProduct	Akt	207
+2921	27640183	971	976	GeneOrGeneProduct	STAT5	6776
+2922	27640183	978	984	GeneOrGeneProduct	p70s6k	6198
+2923	27640183	986	989	GeneOrGeneProduct	LYN	4067
+2924	27640183	995	1002	GeneOrGeneProduct	p38MAPK	1432
+2925	27640183	1039	1043	GeneOrGeneProduct	ATGL	57104
+2926	27640183	1045	1048	GeneOrGeneProduct	HSL	3991
+2927	27640183	1050	1056	GeneOrGeneProduct	CGI-58	51099
+2928	27640183	1058	1062	GeneOrGeneProduct	G0S2	50486
+2929	27640183	1064	1073	GeneOrGeneProduct	Perilipin	5346
+2930	27640183	1075	1080	GeneOrGeneProduct	Cidea	1149
+2931	27640183	1082	1087	GeneOrGeneProduct	Cidec	63924
+2932	27640183	1089	1093	GeneOrGeneProduct	AMPK	5562
+2933	27640183	1099	1102	GeneOrGeneProduct	ACC	31
+2934	27640183	1135	1139	GeneOrGeneProduct	VDAC	7416
+2935	27640183	1141	1146	GeneOrGeneProduct	HSP90	3320
+2936	27640183	1148	1151	GeneOrGeneProduct	PDH	54704
+2937	27640183	1157	1161	GeneOrGeneProduct	SDHA	6389
+2938	27640183	1214	1219	GeneOrGeneProduct	Epo-R	2057
+2939	27640183	1276	1281	GeneOrGeneProduct	Epo-R	2057
+2940	27640183	1342	1345	GeneOrGeneProduct	Epo	2056
+2941	27640183	1397	1403	OrganismTaxon	humans	9606
+2942	27825100	5	12	ChemicalEntity	glucose	D005947
+2943	27825100	24	29	OrganismTaxon	human	9606
+2944	27825100	84	104	DiseaseOrPhenotypicFeature	diabetic nephropathy	D003928
+2945	27825100	135	155	DiseaseOrPhenotypicFeature	diabetic nephropathy	D003928
+2946	27825100	224	229	OrganismTaxon	human	9606
+2947	27825100	279	284	OrganismTaxon	human	9606
+2948	27825100	420	427	ChemicalEntity	glucose	D005947
+2949	27825100	448	455	ChemicalEntity	glucose	D005947
+2950	27825100	576	635	GeneOrGeneProduct	peroxisome proliferator-activated receptor-g coactivator 1a	10891
+2951	27825100	637	643	GeneOrGeneProduct	PGC-1a	10891
+2952	27825100	819	826	ChemicalEntity	glucose	D005947
+2953	27825100	946	961	DiseaseOrPhenotypicFeature	lactic acidosis	D000140
+2954	27825100	981	1059	GeneOrGeneProduct	master regulators of oxidative metabolism transcription factor A mitochondrial	10891
+2955	27825100	1061	1067	GeneOrGeneProduct	PGC-1a	10891
+2956	27825100	1069	1073	GeneOrGeneProduct	AMPK	5562
+2957	27825100	1079	1111	GeneOrGeneProduct	serine-threonine liver kinase B1	6794
+2958	27825100	1132	1139	ChemicalEntity	glucose	D005947
+2959	27825100	1227	1262	GeneOrGeneProduct	myocyte-specific enhancer factor 2C	4208
+2960	27825100	1264	1269	GeneOrGeneProduct	MEF2C	4208
+2961	27825100	1275	1292	GeneOrGeneProduct	myogenic factor 5	4617
+2962	27825100	1294	1298	GeneOrGeneProduct	MYF5	4617
+2963	27825100	1333	1340	ChemicalEntity	glucose	D005947
+2964	27825100	1520	1527	ChemicalEntity	glucose	D005947
+2965	27825100	1577	1582	GeneOrGeneProduct	MEF2C	4208
+2966	27825100	1584	1588	GeneOrGeneProduct	MYF5	4617
+2967	27825100	1594	1600	GeneOrGeneProduct	PGC-1a	10891
+2968	27825100	1661	1669	OrganismTaxon	patients	9606
+2969	27825100	1675	1695	DiseaseOrPhenotypicFeature	diabetic nephropathy	D003928
+2970	27825100	1724	1729	OrganismTaxon	human	9606
+2971	27825100	1755	1760	GeneOrGeneProduct	MEF2C	4208
+2972	27825100	1761	1765	GeneOrGeneProduct	MYF5	4617
+2973	27825100	1859	1866	ChemicalEntity	glucose	D005947
+2974	27825100	2044	2051	ChemicalEntity	glucose	D005947
+2975	27825100	2063	2068	OrganismTaxon	human	9606
+2976	27825100	2123	2143	DiseaseOrPhenotypicFeature	diabetic nephropathy	D003928
+2977	28098423	0	33	GeneOrGeneProduct	Brain-derived neurotrophic factor	24225
+2978	28098423	45	56	ChemicalEntity	doxorubicin	D004317
+2979	28098423	65	84	DiseaseOrPhenotypicFeature	cardiac dysfunction	D006331
+2980	28098423	104	107	GeneOrGeneProduct	Akt	24185
+2981	28098423	122	126	OrganismTaxon	rats	10116
+2982	28098423	156	167	ChemicalEntity	doxorubicin	D004317
+2983	28098423	169	172	ChemicalEntity	Dox	D004317
+2984	28098423	210	224	DiseaseOrPhenotypicFeature	cardiotoxicity	D066126
+2985	28098423	289	322	GeneOrGeneProduct	brain-derived neurotrophic factor	24225
+2986	28098423	324	328	GeneOrGeneProduct	BDNF	24225
+2987	28098423	351	355	GeneOrGeneProduct	BDNF	24225
+2988	28098423	378	381	ChemicalEntity	Dox	D004317
+2989	28098423	390	404	DiseaseOrPhenotypicFeature	cardiotoxicity	D066126
+2990	28098423	421	425	OrganismTaxon	rats	10116
+2991	28098423	445	448	ChemicalEntity	Dox	D004317
+2992	28098423	524	528	GeneOrGeneProduct	BDNF	24225
+2993	28098423	560	564	CellLine	H9c2	10116
+2994	28098423	589	592	ChemicalEntity	Dox	D004317
+2995	28098423	607	611	GeneOrGeneProduct	BDNF	24225
+2996	28098423	656	660	GeneOrGeneProduct	BDNF	24225
+2997	28098423	669	672	ChemicalEntity	Dox	D004317
+2998	28098423	681	695	DiseaseOrPhenotypicFeature	cardiac injury	D006331
+2999	28098423	754	758	GeneOrGeneProduct	BDNF	24225
+3000	28098423	774	777	ChemicalEntity	Dox	D004317
+3001	28098423	786	789	OrganismTaxon	rat	10116
+3002	28098423	810	814	GeneOrGeneProduct	BDNF	24225
+3003	28098423	832	860	GeneOrGeneProduct	tropomyosin-related kinase B	25054
+3004	28098423	862	866	GeneOrGeneProduct	TrkB	25054
+3005	28098423	901	905	GeneOrGeneProduct	BDNF	24225
+3006	28098423	922	955	GeneOrGeneProduct	Brain-derived neurotrophic factor	24225
+3007	28098423	980	983	ChemicalEntity	Dox	D004317
+3008	28098423	1038	1057	DiseaseOrPhenotypicFeature	cardiac dysfunction	D006331
+3009	28098423	1061	1065	OrganismTaxon	rats	10116
+3010	28098423	1078	1082	GeneOrGeneProduct	BDNF	24225
+3011	28098423	1147	1150	ChemicalEntity	Dox	D004317
+3012	28098423	1159	1163	CellLine	H9c2	10116
+3013	28098423	1229	1233	GeneOrGeneProduct	BDNF	24225
+3014	28098423	1244	1247	GeneOrGeneProduct	Akt	24185
+3015	28098423	1281	1310	GeneOrGeneProduct	mammalian target of rapamycin	56718
+3016	28098423	1315	1318	GeneOrGeneProduct	Bad	64639
+3017	28098423	1337	1373	GeneOrGeneProduct	p38 mitogen-activated protein kinase	81649
+3018	28098423	1378	1416	GeneOrGeneProduct	extracellular regulated protein kinase	116590
+3019	28098423	1465	1469	GeneOrGeneProduct	BDNF	24225
+3020	28098423	1487	1491	GeneOrGeneProduct	BDNF	24225
+3021	28098423	1502	1506	GeneOrGeneProduct	TrkB	25054
+3022	28098423	1513	1516	GeneOrGeneProduct	Akt	24185
+3023	28098423	1591	1595	GeneOrGeneProduct	BDNF	24225
+3024	28098423	1604	1607	ChemicalEntity	Dox	D004317
+3025	28098423	1616	1630	DiseaseOrPhenotypicFeature	cardiotoxicity	D066126
+3026	28098423	1645	1648	GeneOrGeneProduct	Akt	24185
+3027	28098423	1698	1701	ChemicalEntity	Dox	D004317
+3028	28098423	1705	1711	DiseaseOrPhenotypicFeature	cancer	D009369
+3029	28279980	0	5	GeneOrGeneProduct	GLUT4	20528
+3030	28279980	44	51	ChemicalEntity	Glucose	D005947
+3031	28279980	85	90	OrganismTaxon	Mouse	10090
+3032	28279980	108	113	GeneOrGeneProduct	GLUT4	20528
+3033	28279980	137	144	GeneOrGeneProduct	insulin	3630
+3034	28279980	186	193	ChemicalEntity	glucose	D005947
+3035	28279980	260	267	ChemicalEntity	glucose	D005947
+3036	28279980	321	326	GeneOrGeneProduct	GLUT4	20528
+3037	28279980	360	367	ChemicalEntity	glucose	D005947
+3038	28279980	400	405	OrganismTaxon	mouse	10090
+3039	28279980	498	522	ChemicalEntity	[(3)H]-2-deoxy-d-glucose	D003847
+3040	28279980	569	576	ChemicalEntity	glucose	D005947
+3041	28279980	645	650	GeneOrGeneProduct	GLUT4	20528
+3042	28279980	660	664	OrganismTaxon	mice	10090
+3043	28279980	685	690	GeneOrGeneProduct	GLUT4	20528
+3044	28279980	783	790	ChemicalEntity	glucose	D005947
+3045	28279980	847	851	GeneOrGeneProduct	GLUT	170441,20525,20526,20527,20528,227659,353169,56017,56485
+3046	28279980	862	876	ChemicalEntity	cytochalasin B	D003571
+3047	28279980	890	896	ChemicalEntity	sodium	D012964
+3048	28279980	907	914	ChemicalEntity	glucose	D005947
+3049	28279980	937	947	ChemicalEntity	phloridzin	D010695
+3050	28279980	1002	1007	GeneOrGeneProduct	GLUTs	170441,20525,20526,20527,20528,227659,353169,56017,56485
+3051	28279980	1045	1049	GeneOrGeneProduct	GLUT	170441,20525,20526,20527,20528,227659,353169,56017,56485
+3052	28279980	1051	1057	ChemicalEntity	hexose	D006601
+3053	28279980	1115	1139	ChemicalEntity	[(3)H]-2-deoxy-d-glucose	D003847
+3054	28279980	1168	1178	ChemicalEntity	d-fructose	D005632
+3055	28279980	1225	1230	GeneOrGeneProduct	GLUT2	20526
+3056	28279980	1232	1237	GeneOrGeneProduct	GLUT5	56485
+3057	28279980	1239	1244	GeneOrGeneProduct	GLUT8	56017
+3058	28279980	1250	1256	GeneOrGeneProduct	GLUT12	353169
+3059	28279980	1306	1311	GeneOrGeneProduct	GLUTs	170441,20525,20526,20527,20528,227659,353169,56017,56485
+3060	28279980	1360	1365	GeneOrGeneProduct	GLUT1	20525
+3061	28279980	1367	1372	GeneOrGeneProduct	GLUT3	20527
+3062	28279980	1374	1379	GeneOrGeneProduct	GLUT6	227659
+3063	28279980	1385	1391	GeneOrGeneProduct	GLUT10	170441
+3064	28279980	1473	1478	GeneOrGeneProduct	GLUT4	20528
+3065	28279980	1524	1531	ChemicalEntity	glucose	D005947
+3066	28279980	1579	1584	GeneOrGeneProduct	GLUT1	20525
+3067	28279980	1586	1591	GeneOrGeneProduct	GLUT3	20527
+3068	28279980	1593	1598	GeneOrGeneProduct	GLUT6	227659
+3069	28279980	1607	1613	GeneOrGeneProduct	GLUT10	170441
+3070	28279980	1639	1646	ChemicalEntity	glucose	D005947
+3071	28348168	0	5	GeneOrGeneProduct	FGFR2	14183
+3072	28348168	287	293	DiseaseOrPhenotypicFeature	cancer	D009369
+3073	28348168	297	317	DiseaseOrPhenotypicFeature	degenerative disease	D019636
+3074	28348168	398	412	GeneOrGeneProduct	FGF receptor 2	14183
+3075	28348168	414	419	GeneOrGeneProduct	FGFR2	14183
+3076	28348168	430	435	OrganismTaxon	mouse	10090
+3077	28348168	524	529	GeneOrGeneProduct	FGFR2	14183
+3078	28348168	662	666	GeneOrGeneProduct	SOX2	20674
+3079	28348168	731	755	GeneOrGeneProduct	receptor tyrosine kinase	14183
+3080	28348168	863	869	DiseaseOrPhenotypicFeature	cancer	D009369
+3081	28481876	32	66	GeneOrGeneProduct	miniature chromosome maintenance 8	84515
+3082	28481876	70	75	OrganismTaxon	human	9606
+3083	28481876	76	88	DiseaseOrPhenotypicFeature	malignancies	D009369
+3084	28481876	90	122	GeneOrGeneProduct	Miniature chromosome maintenance	84515
+3085	28481876	124	127	GeneOrGeneProduct	MCM	84515
+3086	28481876	215	219	GeneOrGeneProduct	MCM8	84515
+3087	28481876	232	235	GeneOrGeneProduct	MCM	84515
+3088	28481876	384	389	OrganismTaxon	human	9606
+3089	28481876	390	402	DiseaseOrPhenotypicFeature	malignancies	D009369
+3090	28481876	416	420	GeneOrGeneProduct	MCM8	84515
+3091	28481876	480	485	OrganismTaxon	human	9606
+3092	28481876	486	493	DiseaseOrPhenotypicFeature	cancers	D009369
+3093	28481876	519	523	GeneOrGeneProduct	MCM8	84515
+3094	28481876	527	542	DiseaseOrPhenotypicFeature	prostate cancer	D011471
+3095	28481876	562	568	DiseaseOrPhenotypicFeature	cancer	D009369
+3096	28481876	602	606	GeneOrGeneProduct	MCM8	84515
+3097	28481876	610	615	CellLine	RWPE1	9606
+3098	28481876	758	762	GeneOrGeneProduct	MCM8	84515
+3099	28481876	766	769	CellLine	PC3	9606
+3100	28481876	771	776	CellLine	DU145	9606
+3101	28481876	781	786	CellLine	LNCaP	9606
+3102	28481876	835	841	DiseaseOrPhenotypicFeature	tumour	D009369
+3103	28481876	883	899	DiseaseOrPhenotypicFeature	immunodeficiency	D007153
+3104	28481876	900	904	OrganismTaxon	mice	10090
+3105	28481876	922	925	CellLine	PC3	9606
+3106	28481876	930	935	CellLine	DU145	9606
+3107	28481876	943	947	GeneOrGeneProduct	MCM8	84515
+3108	28481876	954	963	GeneOrGeneProduct	cyclin D1	595
+3109	28481876	978	980	GeneOrGeneProduct	Rb	5925
+3110	28481876	1008	1033	GeneOrGeneProduct	cyclin-dependent kinase 4	1019
+3111	28481876	1060	1069	GeneOrGeneProduct	cyclin D1	595
+3112	28481876	1070	1074	GeneOrGeneProduct	MCM8	84515
+3113	28481876	1103	1105	GeneOrGeneProduct	Rb	5925
+3114	28481876	1143	1149	DiseaseOrPhenotypicFeature	cancer	D009369
+3115	28481876	1235	1239	GeneOrGeneProduct	MCM8	84515
+3116	28481876	1267	1272	OrganismTaxon	human	9606
+3117	28481876	1273	1279	DiseaseOrPhenotypicFeature	cancer	D009369
+3118	28687665	16	25	GeneOrGeneProduct	a-tubulin	22142
+3119	28687665	26	32	GeneOrGeneProduct	Tuba1a	22142
+3120	28687665	253	264	GeneOrGeneProduct	a/b-tubulin	22142,22152,53857
+3121	28687665	295	304	GeneOrGeneProduct	a-tubulin	22142
+3122	28687665	313	319	GeneOrGeneProduct	TUBA1A	7846
+3123	28687665	339	361	DiseaseOrPhenotypicFeature	cortical malformations	D054220
+3124	28687665	365	371	OrganismTaxon	humans	9606
+3125	28687665	441	447	GeneOrGeneProduct	Tuba1a	22142
+3126	28687665	460	464	OrganismTaxon	mice	10090
+3127	28687665	476	482	GeneOrGeneProduct	Tuba1a	22142
+3128	28687665	502	507	SequenceVariant	S140G	p|SUB|S|140|G
+3129	28687665	642	648	GeneOrGeneProduct	Tuba1a	22142
+3130	28687665	822	828	GeneOrGeneProduct	Tuba1a	22142
+3131	28687665	962	973	GeneOrGeneProduct	a/b-tubulin	22142,22152,53857
+3132	28687665	1000	1005	GeneOrGeneProduct	Tuba8	53857
+3133	28687665	1015	1024	GeneOrGeneProduct	a-tubulin	22142
+3134	28687665	1060	1082	DiseaseOrPhenotypicFeature	cortical malformations	D054220
+3135	28687665	1119	1125	GeneOrGeneProduct	Tuba1a	22142
+3136	28687665	1147	1153	GeneOrGeneProduct	Tuba1a	22142
+3137	29045486	0	19	DiseaseOrPhenotypicFeature	Thiamine deficiency	D013832
+3138	29045486	30	57	GeneOrGeneProduct	hypoxia inducible factor-1a	15251
+3139	29045486	99	104	OrganismTaxon	mouse	10090
+3140	29045486	125	133	ChemicalEntity	Thiamine	D013831
+3141	29045486	295	314	DiseaseOrPhenotypicFeature	thiamine deficiency	D013832
+3142	29045486	316	318	DiseaseOrPhenotypicFeature	TD	D013832
+3143	29045486	363	370	ChemicalEntity	alcohol	D000438
+3144	29045486	394	425	DiseaseOrPhenotypicFeature	impaired mitochondrial function	D028361
+3145	29045486	445	457	DiseaseOrPhenotypicFeature	inflammation	D007249
+3146	29045486	462	476	DiseaseOrPhenotypicFeature	excitotoxicity	D064420
+3147	29045486	603	611	OrganismTaxon	patients	9606
+3148	29045486	617	624	DiseaseOrPhenotypicFeature	hypoxia	D000860
+3149	29045486	625	633	DiseaseOrPhenotypicFeature	ischemia	D007511
+3150	29045486	638	640	DiseaseOrPhenotypicFeature	TD	D013832
+3151	29045486	790	797	DiseaseOrPhenotypicFeature	hypoxia	D000860
+3152	29045486	798	806	DiseaseOrPhenotypicFeature	ischemia	D007511
+3153	29045486	808	810	DiseaseOrPhenotypicFeature	TD	D013832
+3154	29045486	836	863	GeneOrGeneProduct	Hypoxia Inducible Factor-1a	15251
+3155	29045486	865	871	GeneOrGeneProduct	HIF-1a	15251
+3156	29045486	893	899	ChemicalEntity	oxygen	D010100
+3157	29045486	929	931	DiseaseOrPhenotypicFeature	TD	D013832
+3158	29045486	940	946	GeneOrGeneProduct	HIF-1a	15251
+3159	29045486	950	969	DiseaseOrPhenotypicFeature	neurological injury	D009422
+3160	29045486	1058	1060	DiseaseOrPhenotypicFeature	TD	D013832
+3161	29045486	1069	1075	GeneOrGeneProduct	HIF-1a	15251
+3162	29045486	1111	1116	OrganismTaxon	mouse	10090
+3163	29045486	1227	1239	DiseaseOrPhenotypicFeature	inflammatory	D007249
+3164	29045486	1240	1246	GeneOrGeneProduct	HIF-1a	15251
+3165	29045486	1260	1264	GeneOrGeneProduct	MCP1	20296
+3166	29045486	1266	1271	GeneOrGeneProduct	BNIP3	12176
+3167	29045486	1273	1276	GeneOrGeneProduct	Nix	12177
+3168	29045486	1281	1285	GeneOrGeneProduct	Noxa	58801
+3169	29045486	1293	1295	DiseaseOrPhenotypicFeature	TD	D013832
+3170	29045486	1338	1340	DiseaseOrPhenotypicFeature	TD	D013832
+3171	29045486	1363	1372	GeneOrGeneProduct	Annexin V	11747
+3172	29045486	1448	1454	GeneOrGeneProduct	HIF-1a	15251
+3173	29045486	1470	1473	GeneOrGeneProduct	YC1	56878
+3174	29045486	1478	1486	ChemicalEntity	thiamine	D013831
+3175	29045486	1538	1544	GeneOrGeneProduct	HIF-1a	15251
+3176	29045486	1586	1588	DiseaseOrPhenotypicFeature	TD	D013832
+3177	29045486	1634	1640	GeneOrGeneProduct	HIF-1a	15251
+3178	29045486	1697	1709	DiseaseOrPhenotypicFeature	inflammatory	D007249
+3179	29045486	1763	1782	DiseaseOrPhenotypicFeature	thiamine deficiency	D013832
+3180	30442153	0	4	ChemicalEntity	Ca2+	D002118
+3181	30442153	61	73	DiseaseOrPhenotypicFeature	astrogliosis	D005911
+3182	30442153	99	105	GeneOrGeneProduct	KCa3.1	16534,3783
+3183	30442153	124	127	GeneOrGeneProduct	AKT	11651,207
+3184	30442153	128	132	GeneOrGeneProduct	mTOR	2475,56717
+3185	30442153	160	210	GeneOrGeneProduct	intermediate-conductance Ca2+-activated K+ channel	16534,3783
+3186	30442153	211	217	GeneOrGeneProduct	KCa3.1	16534
+3187	30442153	272	293	DiseaseOrPhenotypicFeature	reactive astrogliosis	D005911
+3188	30442153	295	297	DiseaseOrPhenotypicFeature	RA	D005911
+3189	30442153	302	321	DiseaseOrPhenotypicFeature	Alzheimer's disease	D000544
+3190	30442153	323	325	DiseaseOrPhenotypicFeature	AD	D000544
+3191	30442153	337	343	GeneOrGeneProduct	KCa3.1	16534,3783
+3192	30442153	403	405	DiseaseOrPhenotypicFeature	AD	D000544
+3193	30442153	406	414	OrganismTaxon	patients	9606
+3194	30442153	419	422	GeneOrGeneProduct	APP	11820,351
+3195	30442153	423	426	GeneOrGeneProduct	PS1	5663
+3196	30442153	427	431	OrganismTaxon	mice	10090
+3197	30442153	490	493	GeneOrGeneProduct	APP	11820,351
+3198	30442153	494	497	GeneOrGeneProduct	PS1	5663
+3199	30442153	498	502	OrganismTaxon	mice	10090
+3200	30442153	507	513	GeneOrGeneProduct	KCa3.1	16534
+3201	30442153	517	520	GeneOrGeneProduct	APP	11820,351
+3202	30442153	521	524	GeneOrGeneProduct	PS1	5663
+3203	30442153	525	529	OrganismTaxon	mice	10090
+3204	30442153	595	610	DiseaseOrPhenotypicFeature	memory deficits	D008569
+3205	30442153	632	643	DiseaseOrPhenotypicFeature	neuron loss	D009422
+3206	30442153	676	684	ChemicalEntity	Fluo-4AM	C409648
+3207	30442153	715	719	ChemicalEntity	Ca2+	D000069285
+3208	30442153	729	741	GeneOrGeneProduct	beta-amyloid	351
+3209	30442153	743	748	GeneOrGeneProduct	Abeta	351
+3210	30442153	797	803	GeneOrGeneProduct	KCa3.1	16534,3783
+3211	30442153	922	927	GeneOrGeneProduct	Abeta	11820,351
+3212	30442153	979	981	DiseaseOrPhenotypicFeature	AD	D000544
+3213	30442153	982	990	OrganismTaxon	patients	9606
+3214	30442153	995	998	GeneOrGeneProduct	APP	11820,351
+3215	30442153	999	1002	GeneOrGeneProduct	PS1	5663
+3216	30442153	1003	1005	DiseaseOrPhenotypicFeature	AD	D000544
+3217	30442153	1006	1010	OrganismTaxon	mice	10090
+3218	30442153	1016	1022	GeneOrGeneProduct	KCa3.1	16534
+3219	30442153	1068	1072	ChemicalEntity	Ca2+	D000069285
+3220	30442153	1118	1122	ChemicalEntity	Ca2+	D002118
+3221	30442153	1131	1136	GeneOrGeneProduct	Orai1	109305
+3222	30442153	1205	1211	GeneOrGeneProduct	KCa3.1	16534
+3223	30442153	1243	1247	ChemicalEntity	Ca2+	D000069285
+3224	30442153	1279	1295	GeneOrGeneProduct	protein kinase B	11651
+3225	30442153	1297	1300	GeneOrGeneProduct	AKT	11651
+3226	30442153	1377	1383	GeneOrGeneProduct	KCa3.1	16534
+3227	30442153	1393	1396	GeneOrGeneProduct	AKT	11651
+3228	30442153	1397	1428	GeneOrGeneProduct	mechanistic target of rapamycin	56717
+3229	30442153	1546	1578	GeneOrGeneProduct	78-kDa glucose-regulated protein	14828
+3230	30442153	1583	1632	GeneOrGeneProduct	CCAAT/enhancer-binding protein homologous protein	13198
+3231	30442153	1657	1659	DiseaseOrPhenotypicFeature	RA	D005911
+3232	30442153	1667	1698	GeneOrGeneProduct	glial fibrillary acidic protein	14580
+3233	30442153	1717	1720	GeneOrGeneProduct	APP	11820,351
+3234	30442153	1721	1724	GeneOrGeneProduct	PS1	5663
+3235	30442153	1725	1727	DiseaseOrPhenotypicFeature	AD	D000544
+3236	30442153	1728	1733	OrganismTaxon	mouse	10090
+3237	30442153	1756	1762	GeneOrGeneProduct	KCa3.1	16534
+3238	30442153	1766	1772	GeneOrGeneProduct	KCa3.1	16534
+3239	30442153	1776	1779	GeneOrGeneProduct	APP	11820,351
+3240	30442153	1780	1783	GeneOrGeneProduct	PS1	5663
+3241	30442153	1784	1788	OrganismTaxon	mice	10090
+3242	30442153	1856	1873	DiseaseOrPhenotypicFeature	neuroinflammation	D007249
+3243	30442153	1911	1917	GeneOrGeneProduct	KCa3.1	16534
+3244	30442153	1921	1924	GeneOrGeneProduct	APP	11820,351
+3245	30442153	1925	1928	GeneOrGeneProduct	PS1	5663
+3246	30442153	1929	1933	OrganismTaxon	mice	10090
+3247	30442153	1952	1955	GeneOrGeneProduct	APP	11820,351
+3248	30442153	1956	1959	GeneOrGeneProduct	PS1	5663
+3249	30442153	1960	1964	OrganismTaxon	mice	10090
+3250	30442153	1979	1994	DiseaseOrPhenotypicFeature	memory deficits	D008569
+3251	30442153	1999	2012	DiseaseOrPhenotypicFeature	neuronal loss	D009422
+3252	30442153	2016	2019	GeneOrGeneProduct	APP	11820,351
+3253	30442153	2020	2023	GeneOrGeneProduct	PS1	5663
+3254	30442153	2024	2028	OrganismTaxon	mice	10090
+3255	30442153	2046	2052	GeneOrGeneProduct	KCa3.1	16534
+3256	30442153	2056	2059	GeneOrGeneProduct	APP	11820,351
+3257	30442153	2060	2063	GeneOrGeneProduct	PS1	5663
+3258	30442153	2064	2068	OrganismTaxon	mice	10090
+3259	30442153	2119	2125	GeneOrGeneProduct	KCa3.1	16534,3783
+3260	30442153	2159	2163	ChemicalEntity	Ca2+	D000069285
+3261	30442153	2253	2268	DiseaseOrPhenotypicFeature	memory deficits	D008569
+3262	30442153	2273	2286	DiseaseOrPhenotypicFeature	neuronal loss	D009422

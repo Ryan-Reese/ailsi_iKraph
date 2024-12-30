@@ -1,0 +1,7 @@
+1. Make sure all scripts are executable: chmod 755 *
+
+2. run run_pipeline.sh: ./run_pipeline.sh
+	By doing so, 30 NER models will be trained. Saved models are located at ./model. Predictions are located at ./output
+
+	In this step, 30 NER models will be trained by runing "run_pipeline.sh". To reproduce our results, please
+run roberta large model on 1 Quadro RTX 8000 GPU and roberta base model on 1 NVIDIA GeForce RTX 2080 Ti !!!
