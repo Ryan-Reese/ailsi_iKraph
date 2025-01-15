@@ -13,4 +13,8 @@ NER and RE have different python environment requirements. See the README.md fil
 
 Repurposing data can be downloaded at [google drive](https://drive.google.com/file/d/1OliLj7OZ2M6f65Ws5ZSlU-tXdEQEIG9e/view?usp=sharing) and shoule be unzipped and put under `repurposing/data`.
 * An overview of data is provided in the `README` file
-* `iKraph_2020_CGD_correlationOnly` is a partial knowledge graph as of **2020-01-01**
+
+## Access to the Full iKraph Dataset
+The complete version of the iKraph dataset is available for access via the following [google drive link](https://drive.google.com/file/d/1ImT6wCM3woA9u2_vqmu_Obzglu0eqLi0/view?usp=sharing)
+Please note that the above dataset includes additional details and files not contained in this repository. A comprehensive `iKraph_README.md` file explaining the structure and usage of the dataset is included in the dataset folder. Make sure to review the `iKraph_README.md` for guidance on integrating and utilizing the data effectively.
+
