@@ -18,3 +18,6 @@ Repurposing data can be downloaded at [google drive](https://drive.google.com/fi
 The complete version of the iKraph dataset is available for access via the following [google drive link](https://drive.google.com/file/d/1ImT6wCM3woA9u2_vqmu_Obzglu0eqLi0/view?usp=sharing)
 Please note that the above dataset includes additional details and files not contained in this repository. A comprehensive `iKraph_README.md` file explaining the structure and usage of the dataset is included in the downloaded tarball file. Make sure to review the file for guidance on integrating and utilizing the data effectively.
 
+## Training Data
+
+Our pipeline is trained using [BioRED](https://academic.oup.com/bib/article/23/5/bbac282/6645993) data. 
