@@ -24,4 +24,4 @@ Our pipeline is trained using [BioRED](https://academic.oup.com/bib/article/23/5
 
 ## iExplore
 
-[iExplore](https://biokde.com/) is the query and visualization product of our biomedical knowledge graph we develped at Insilicom.
+[iExplore](https://biokde.com/) is the query and visualization product of our biomedical knowledge graph we developed at Insilicom.
