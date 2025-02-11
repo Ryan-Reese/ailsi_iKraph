@@ -1,8 +1,7 @@
 # iKraph: a comprehensive, large-scale biomedical knowledge graph for AI-powered, data-driven biomedical research
 
 [![DOI](https://zenodo.org/badge/910135942.svg)](https://doi.org/10.5281/zenodo.14577964)
-[![DOI](https://zenodo.org/badge/910135942.svg)](https://doi.org/10.5281/zenodo.14846820)
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14846820.svg)](https://doi.org/10.5281/zenodo.14846820)
 
 This repository contains code for paper "iKraph: a comprehensive, large-scale biomedical knowledge graph for AI-powered, data-driven biomedical research". It contains three parts:
 1. Named Entity Recognition: code for training and inference on biomedical papers to extract named entities, such as genes, drugs, chemicals and diseases.
