@@ -20,6 +20,7 @@ python split_annotation_data.py --data_path ../$DATA_DIR
 python multi_sentence_gen_data.py --data_path ../$DATA_DIR --source_path ../original_data
 python multi_sentence_split.py --data_path ../$DATA_DIR
 python process_no_relations.py --data_path ../$DATA_DIR
+mkdir ../post_processing_and_ensemble
 python post_processing_make_ids.py
 cd ..
 
@@ -41,6 +42,7 @@ cp ${DATA_DIR}/split/multi_sentence_train.json model_multi_sentence/train.json
 cp ${DATA_DIR}/split/multi_sentence_val.json model_multi_sentence/devel.json
 cp ${DATA_DIR}/split/multi_sentence_test.json model_multi_sentence/test.json
 
+mkdir post_processing_and_ensemble/model_ensemble
 mkdir post_processing_and_ensemble/model_ensemble/data
 cp ${DATA_DIR}/split/processed_test.json post_processing_and_ensemble/model_ensemble/data/processed_test.json
 cp ${DATA_DIR}/split/copy_list_test.csv post_processing_and_ensemble/model_ensemble/data/copy_list_test.csv

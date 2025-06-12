@@ -29,7 +29,7 @@ CUDA_VISIBLE_DEVICES="$CUDA"  python3 -u run_ner_roberta.py \
   --save_strategy=epoch \
   --save_steps=1000 \
   --learning_rate=$LEARNING_RATE \
-  --per_device_train_batch_size=16 \
+  --per_device_train_batch_size=8 \
   --do_train \
   --do_eval \
   --max_seq_length=512 \

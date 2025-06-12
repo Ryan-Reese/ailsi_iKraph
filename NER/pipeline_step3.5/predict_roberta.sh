@@ -2,7 +2,7 @@ export HF_HOME=cache
 
 INPUT="test_ft.json"
 MODEL="model"
-CUDA="1"
+CUDA="0"
 OUTPUT="output"
 
 CUDA_VISIBLE_DEVICES="$CUDA" python -u run_ner_roberta.py \
